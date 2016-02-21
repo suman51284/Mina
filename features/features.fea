@@ -1,0 +1,1475 @@
+languagesystem beng dflt;
+languagesystem bng2 dflt;
+
+
+# GSUB
+
+
+lookup initInitialFormsinBengalilookup {
+  lookupflag 0;
+    sub bnmE by bnmE.init ;
+    sub bnmAI by bnmAI.init ;
+} initInitialFormsinBengalilookup;
+
+lookup nuktNuktaFormslookup1 {
+  lookupflag 0;
+    sub bnDDA bnNukta  by bnDDxA;
+    sub bnDDHA bnNukta  by bnDDHxA;
+    sub bnYA bnNukta  by bnYxA;
+    sub bnKA bnNukta  by bnKA.nukt;
+    sub bnKHA bnNukta  by bnKHA.nukt;
+    sub bnGA bnNukta  by bnGA.nukt;
+    sub bnGHA bnNukta  by bnGHA.nukt;
+    sub bnNGA bnNukta  by bnNGA.nukt;
+    sub bnCA bnNukta  by bnCA.nukt;
+    sub bnCHA bnNukta  by bnCHA.nukt;
+    sub bnJA bnNukta  by bnJA.nukt;
+    sub bnJHA bnNukta  by bnJHA.nukt;
+    sub bnNYA bnNukta  by bnNYA.nukt;
+    sub bnTTA bnNukta  by bnTTA.nukt;
+    sub bnTTHA bnNukta  by bnTTHA.nukt;
+    sub bnNNA bnNukta  by bnNNA.nukt;
+    sub bnTA bnNukta  by bnTA.nukt;
+    sub bnTHA bnNukta  by bnTHA.nukt;
+    sub bnDA bnNukta  by bnDA.nukt;
+    sub bnDHA bnNukta  by bnDHA.nukt;
+    sub bnNA bnNukta  by bnNA.nukt;
+    sub bnPA bnNukta  by bnPA.nukt;
+    sub bnPHA bnNukta  by bnPHA.nukt;
+    sub bnBHA bnNukta  by bnBHA.nukt;
+    sub bnMA bnNukta  by bnMA.nukt;
+    sub bnLA bnNukta  by bnLA.nukt;
+    sub bnSHA bnNukta  by bnSHA.nukt;
+    sub bnSSA bnNukta  by bnSSA.nukt;
+    sub bnSA bnNukta  by bnSA.nukt;
+    sub bnHA bnNukta  by bnHA.nukt;
+    sub asRA bnNukta  by asRA.nukt;
+    sub asWA bnNukta  by asWA.nukt;
+} nuktNuktaFormslookup1;
+
+lookup akhnAkhandlookup2 {
+  lookupflag 0;
+    sub bnKA bnVirama bnSSA  by bnK_SSA;
+    sub bnJA bnVirama bnNYA  by bnJ_NYA;
+} akhnAkhandlookup2;
+
+lookup rphfRephFormlookup3 {
+  lookupflag 0;
+    sub asRA bnVirama  by bnReph;
+    sub bnRA bnVirama  by bnReph;
+} rphfRephFormlookup3;
+
+lookup blwfBelowBaseFormsinBengalilook {
+  lookupflag 0;
+    sub asRA bnVirama  by bnRAc2;
+    sub bnRA bnVirama  by bnRAc2;
+    sub bnBA bnVirama  by bnBAc2;
+} blwfBelowBaseFormsinBengalilook;
+
+lookup blwfBelowBaseFormsinBengali2loo {
+  lookupflag 0;
+    sub bnVirama asRA  by bnRAc2;
+    sub bnVirama bnRA  by bnRAc2;
+    sub bnVirama bnBA  by bnBAc2;
+} blwfBelowBaseFormsinBengali2loo;
+
+lookup halfHalfFormsinBengalilookup6 {
+  lookupflag 0;
+    sub bnTA bnVirama \uni200D  by bnTAkhanda;
+    sub bnKA bnVirama  by bnKA.half;
+    sub bnKHA bnVirama  by bnKHA.half;
+    sub bnGA bnVirama  by bnGA.half;
+    sub bnGHA bnVirama  by bnGHA.half;
+    sub bnNGA bnVirama  by bnNGA.half;
+    sub bnCA bnVirama  by bnCA.half;
+    sub bnCHA bnVirama  by bnCHA.half;
+    sub bnJA bnVirama  by bnJA.half;
+    sub bnJHA bnVirama  by bnJHA.half;
+    sub bnNYA bnVirama  by bnNYA.half;
+    sub bnTTA bnVirama  by bnTTA.half;
+    sub bnTTHA bnVirama  by bnTTHA.half;
+    sub bnDDA bnVirama  by bnDDA.half;
+    sub bnDDHA bnVirama  by bnDDHA.half;
+    sub bnNNA bnVirama  by bnNNA.half;
+    sub bnTA bnVirama  by bnTA.half;
+    sub bnTHA bnVirama  by bnTHA.half;
+    sub bnDA bnVirama  by bnDA.half;
+    sub bnDHA bnVirama  by bnDHA.half;
+    sub bnNA bnVirama  by bnNA.half;
+    sub bnPA bnVirama  by bnPA.half;
+    sub bnPHA bnVirama  by bnPHA.half;
+    sub bnBA bnVirama  by bnBA.half;
+    sub bnBHA bnVirama  by bnBHA.half;
+    sub bnMA bnVirama  by bnMA.half;
+    sub bnYA bnVirama  by bnYA.half;
+    sub bnLA bnVirama  by bnLA.half;
+    sub bnSHA bnVirama  by bnSHA.half;
+    sub bnSSA bnVirama  by bnSSA.half;
+    sub bnSA bnVirama  by bnSA.half;
+    sub bnHA bnVirama  by bnHA.half;
+    sub asRA bnVirama  by asRA.half;
+    sub asWA bnVirama  by asWA.half;
+    sub bnK_SSA bnVirama  by bnK_SSA.half;
+    sub bnJ_NYA bnVirama  by bnJ_NYA.half;
+    sub bnKA.nukt bnVirama  by bnKA.nukt.half;
+    sub bnKHA.nukt bnVirama  by bnKHA.nukt.half;
+    sub bnGA.nukt bnVirama  by bnGA.nukt.half;
+    sub bnGHA.nukt bnVirama  by bnGHA.nukt.half;
+    sub bnNGA.nukt bnVirama  by bnNGA.nukt.half;
+    sub bnCA.nukt bnVirama  by bnCA.nukt.half;
+    sub bnCHA.nukt bnVirama  by bnCHA.nukt.half;
+    sub bnJA.nukt bnVirama  by bnJA.nukt.half;
+    sub bnJHA.nukt bnVirama  by bnJHA.nukt.half;
+    sub bnNYA.nukt bnVirama  by bnNYA.nukt.half;
+    sub bnTTA.nukt bnVirama  by bnTTA.nukt.half;
+    sub bnTTHA.nukt bnVirama  by bnTTHA.nukt.half;
+    sub bnDDxA bnVirama  by bnDDxA.half;
+    sub bnDDHxA bnVirama  by bnDDHxA.half;
+    sub bnNNA.nukt bnVirama  by bnNNA.nukt.half;
+    sub bnTA.nukt bnVirama  by bnTA.nukt.half;
+    sub bnTHA.nukt bnVirama  by bnTHA.nukt.half;
+    sub bnDA.nukt bnVirama  by bnDA.nukt.half;
+    sub bnDHA.nukt bnVirama  by bnDHA.nukt.half;
+    sub bnNA.nukt bnVirama  by bnNA.nukt.half;
+    sub bnPA.nukt bnVirama  by bnPA.nukt.half;
+    sub bnPHA.nukt bnVirama  by bnPHA.nukt.half;
+    sub bnRA bnVirama  by bnRA.half;
+    sub bnRA bnVirama  by bnRA.half;
+    sub bnBHA.nukt bnVirama  by bnBHA.nukt.half;
+    sub bnMA.nukt bnVirama  by bnMA.nukt.half;
+    sub bnYxA bnVirama  by bnYxA.half;
+    sub bnLA.nukt bnVirama  by bnLA.nukt.half;
+    sub bnSHA.nukt bnVirama  by bnSHA.nukt.half;
+    sub bnSSA.nukt bnVirama  by bnSSA.nukt.half;
+    sub bnSA.nukt bnVirama  by bnSA.nukt.half;
+    sub bnHA.nukt bnVirama  by bnHA.nukt.half;
+    sub asRA.nukt bnVirama  by asRA.nukt.half;
+    sub asWA.nukt bnVirama  by asWA.nukt.half;
+} halfHalfFormsinBengalilookup6;
+
+lookup halfHalfFormsinBengali2lookup7 {
+  lookupflag 0;
+    sub bnTA bnVirama \uni200D  by bnTAkhanda;
+    sub bnKA bnVirama  by bnKA.half;
+    sub bnGA bnVirama  by bnGA.half;
+    sub bnNGA bnVirama  by bnNGA.half;
+    sub bnCA bnVirama  by bnCA.half;
+    sub bnTTA bnVirama  by bnTTA.half;
+    sub bnDDA bnVirama  by bnDDA.half;
+    sub bnDDHA bnVirama  by bnDDHA.half;
+    sub bnNNA bnVirama  by bnNNA.half;
+    sub bnDA bnVirama  by bnDA.half;
+    sub bnNA bnVirama  by bnNA.half;
+    sub bnPA bnVirama  by bnPA.half;
+    sub bnBA bnVirama  by bnBA.half;
+    sub bnMA bnVirama  by bnMA.half;
+    sub bnLA bnVirama  by bnLA.half;
+    sub bnSHA bnVirama  by bnSHA.half;
+    sub bnSSA bnVirama  by bnSSA.half;
+    sub bnSA bnVirama  by bnSA.half;
+    sub bnDDxA bnVirama  by bnDDxA.half;
+    sub bnDDHxA bnVirama  by bnDDHxA;
+} halfHalfFormsinBengali2lookup7;
+
+lookup pstfPostBaseFormsinBengalilooku {
+  lookupflag 0;
+    sub bnYA bnVirama  by bnYAc2;
+} pstfPostBaseFormsinBengalilooku;
+
+lookup pstfPostBaseFormsinBengali2look {
+  lookupflag 0;
+    sub bnVirama bnYA  by bnYAc2;
+} pstfPostBaseFormsinBengali2look;
+
+lookup cjctConjunctFormsinBengali2look {
+  lookupflag 0;
+    sub bnK_SSA bnVirama bnNNA  by bnK_SS_NNA ;
+    sub bnK_SSA bnVirama bnMA  by bnK_SS_MA;
+    sub bnGHA bnVirama bnNA  by bnGH_NA;
+    sub bnGHA bnVirama bnLA  by bnGH_LA;
+    sub bnJA bnVirama bnJA  by bnJ_JA;
+    sub bnJA bnVirama bnJHA  by bnJ_JH;
+    sub bnNYA bnVirama bnCA  by bnNY_CA;
+    sub bnNYA bnVirama bnCHA  by bnNY_CH;
+    sub bnNYA bnVirama bnJA  by bnNY_JA;
+    sub bnNYA bnVirama bnJHA  by bnNY_JHA;
+    sub bnTA bnVirama bnTA  by bnT_TA;
+    sub bnTA bnVirama bnTHA  by bnT_THA;
+    sub bnTA bnVirama bnNA  by bnT_NA;
+    sub bnTA bnVirama bnMA  by bnT_MA;
+    sub bnTA bnVirama bnLA  by bnT_LA;
+    sub bnDHA bnVirama bnNA  by bnDH_NA;
+    sub bnDHA bnVirama bnMA  by bnDH_MA;
+    sub bnPHA bnVirama bnTTA  by bnPH_TTA;
+    sub bnPHA bnVirama bnLA  by bnPH_LA;
+    sub bnBA bnVirama bnBHA  by bnB_BHA;
+    sub bnBA bnVirama bnD_RA  by bnB_D_RA;
+    sub bnBHA bnVirama bnLA  by bnBH_LA;
+    sub bnHA bnVirama bnNNA  by bnH_NNA;
+    sub bnHA bnVirama bnNA  by bnH_NA;
+    sub bnHA bnVirama bnMA  by bnH_MA;
+    sub bnHA bnVirama bnLA  by bnH_LA;
+} cjctConjunctFormsinBengali2look;
+
+lookup initInitialFormsinBengali2looku {
+  lookupflag 0;
+    sub bnmE by bnmE.init ;
+    sub bnmAI by bnmAI.init ;
+} initInitialFormsinBengali2looku;
+
+lookup presPreBaseSubstitutionsinBenga {
+  lookupflag 0;
+    sub bnKA bnRAc2  by bnK_RA;
+    sub bnKHA bnRAc2  by bnKH_RA;
+    sub bnGA bnRAc2  by bnG_RA;
+    sub bnGHA bnRAc2  by bnGH_RA;
+    sub bnNGA bnRAc2  by bnNG_RA;
+    sub bnCA bnRAc2  by bnC_RA;
+    sub bnCHA bnRAc2  by bnCH_RA;
+    sub bnJA bnRAc2  by bnJ_RA;
+    sub bnJHA bnRAc2  by bnJH_RA;
+    sub bnNYA bnRAc2  by bnNY_RA;
+    sub bnTTA bnRAc2  by bnTT_RA;
+    sub bnTTHA bnRAc2  by bnTTH_RA;
+    sub bnDDA bnRAc2  by bnDD_RA;
+    sub bnDDHA bnRAc2  by bnDDH_RA;
+    sub bnNNA bnRAc2  by bnNN_RA;
+    sub bnTA bnRAc2  by bnT_RA;
+    sub bnTHA bnRAc2  by bnTH_RA;
+    sub bnDA bnRAc2  by bnD_RA;
+    sub bnDHA bnRAc2  by bnDH_RA;
+    sub bnNA bnRAc2  by bnN_RA;
+    sub bnPA bnRAc2  by bnP_RA;
+    sub bnPHA bnRAc2  by bnPH_RA;
+    sub bnBA bnRAc2  by bnB_RA;
+    sub bnBHA bnRAc2  by bnBH_RA;
+    sub bnMA bnRAc2  by bnM_RA;
+    sub bnYA bnRAc2  by bnY_RA;
+    sub bnRA bnRAc2  by bnR_RA;
+    sub bnLA bnRAc2  by bnL_RA;
+    sub bnSHA bnRAc2  by bnSH_RA;
+    sub bnSSA bnRAc2  by bnSS_RA;
+    sub bnSA bnRAc2  by bnS_RA;
+    sub bnHA bnRAc2  by bnH_RA;
+    sub asRA bnRAc2  by asR_RA;
+    sub asWA bnRAc2  by asW_RA;
+    sub bnDDxA bnRAc2  by bnDDx_RA;
+    sub bnDDHxA bnRAc2  by bnDDHx_RA;
+    sub bnYxA bnRAc2  by bnYx_RA;
+    sub bnK_SSA bnRAc2  by bnK_SS_RA;
+    sub bnJ_NYA bnRAc2  by bnJ_NY_RA;
+} presPreBaseSubstitutionsinBenga;
+
+lookup presPreBaseSubstitutionslookup1 {
+  lookupflag 0;
+    sub bnKA bnBAc2  by bnK_BA;
+    sub bnKHA bnBAc2  by bnKH_BA;
+    sub bnGA bnBAc2  by bnG_BA;
+    sub bnGHA bnBAc2  by bnGH_BA;
+    sub bnNGA bnBAc2  by bnNG_BA;
+    sub bnCA bnBAc2  by bnC_BA;
+    sub bnCHA bnBAc2  by bnCH_BA;
+    sub bnJA bnBAc2  by bnJ_BA;
+    sub bnJHA bnBAc2  by bnJH_BA;
+    sub bnNYA bnBAc2  by bnNY_BA;
+    sub bnTTA bnBAc2  by bnTT_BA;
+    sub bnTTHA bnBAc2  by bnTTH_BA;
+    sub bnDDA bnBAc2  by bnDD_BA;
+    sub bnDDHA bnBAc2  by bnDDH_BA;
+    sub bnNNA bnBAc2  by bnNN_BA;
+    sub bnTA bnBAc2  by bnT_BA;
+    sub bnTHA bnBAc2  by bnTH_BA;
+    sub bnDA bnBAc2  by bnD_BA;
+    sub bnDHA bnBAc2  by bnDH_BA;
+    sub bnNA bnBAc2  by bnN_BA;
+    sub bnPA bnBAc2  by bnP_BA;
+    sub bnPHA bnBAc2  by bnPH_BA;
+    sub bnBA bnBAc2  by bnB_BA;
+    sub bnBHA bnBAc2  by bnBH_BA;
+    sub bnMA bnBAc2  by bnM_BA;
+    sub bnYA bnBAc2  by bnY_BA;
+    sub bnRA bnBAc2  by bnR_BA;
+    sub bnLA bnBAc2  by bnL_BA;
+    sub bnSHA bnBAc2  by bnSH_BA;
+    sub bnSSA bnBAc2  by bnSS_BA;
+    sub bnSA bnBAc2  by bnS_BA;
+    sub bnHA bnBAc2  by bnH_BA;
+    sub asRA bnBAc2  by asR_BA;
+    sub asWA bnBAc2  by asW_BA;
+    sub bnDDxA bnBAc2  by bnDDx_BA;
+    sub bnDDHxA bnBAc2  by bnDDHx_BA;
+    sub bnYxA bnBAc2  by bnYx_BA;
+    sub bnK_SSA bnBAc2  by bnK_SS_BA;
+    sub bnJ_NYA bnBAc2  by bnJ_NY_BA;
+    sub bnJ_JA bnBAc2  by bnJ_JA_BA;
+    sub bnT_TA bnBAc2  by bnT_T_BA;
+} presPreBaseSubstitutionslookup1;
+
+lookup sub_ligature_presbeng_0 {
+  lookupflag 0;
+    sub bnKA.half bnKA  by bnK_KA;
+    sub bnKA.half bnTTA  by bnK_TTA;
+    sub bnKA.half bnTT_RA  by bnK_TT_RA;
+    sub bnKA.half bnTA  by bnK_TA;
+    sub bnKA.half bnT_BA  by bnK_T_BA;
+    sub bnKA.half bnT_RA  by bnK_T_RA;
+    sub bnKA.half bnNA  by bnK_NA;
+    sub bnKA.half bnMA  by bnK_MA;
+    sub bnKA.half bnLA  by bnK_LA;
+    sub bnKA.half bnSA  by bnK_SA;
+    sub bnK_SSA.half bnNNA  by bnK_SS_NNA;
+    sub bnK_SSA.half bnMA  by bnK_SS_MA;
+    sub bnGA.half bnGA  by bnG_GA;
+    sub bnGA.half bnDA  by bnG_DA;
+    sub bnGA.half bnDHA  by bnG_DHA;
+    sub bnGA.half bnNA  by bnG_NA;
+    sub bnGA.half bnMA  by bnG_MA;
+    sub bnGA.half bnLA  by bnG_LA;
+    sub bnGHA.half bnNA  by bnGH_NA;
+    sub bnGHA.half bnLA  by bnGH_LA;
+    sub bnNGA.half bnKA  by bnNG_KA;
+    sub bnNGA.half bnK_RA  by bnNG_K_RA;
+    sub bnNGA.half bnKHA  by bnNG_KH;
+    sub bnNGA.half bnGA  by bnNG_GA;
+    sub bnNGA.half bnGHA  by bnNG_GH;
+    sub bnNGA.half bnMA  by bnNG_MA;
+    sub bnNGA.half bnK_SSA  by bnNG_K_SS;
+    sub bnCA.half bnCA  by bnC_CA;
+    sub bnCA.half bnCHA  by bnC_CHA;
+    sub bnCA.half bnNYA  by bnC_NYA;
+    sub bnCA.half bnNA  by bnC_NA;
+    sub bnCA.half bnCH_BA  by bnC_CH_BA;
+    sub bnCA.half bnCH_RA  by bnC_CH_RA;
+    sub bnJA.half bnJA  by bnJ_JA;
+    sub bnJA.half bnJHA  by bnJ_JH;
+    sub bnJA.half bnJ_BA  by bnJ_JA_BA;
+    sub bnNYA.half bnCA  by bnNY_CA;
+    sub bnNYA.half bnCHA  by bnNY_CH;
+    sub bnNYA.half bnJA  by bnNY_JA;
+    sub bnNYA.half bnJHA  by bnNY_JHA;
+    sub bnTTA.half bnTTA  by bnTT_TTA;
+    sub bnTTA.half bnMA  by bnTT_MA;
+    sub bnDDA.half bnGA  by bnDD_GA;
+    sub bnDDA.half bnDDA  by bnDD_DDA;
+    sub bnDDA.half bnMA  by bnDD_MA;
+    sub bnDDxA.half bnGA  by bnDDx_GA;
+    sub bnNNA.half bnTTA  by bnNN_TTA;
+    sub bnNNA.half bnTTHA  by bnNN_TTH;
+    sub bnNNA.half bnDDA  by bnNN_DDA;
+    sub bnNNA.half bnDDHA  by bnNN_DDHA;
+    sub bnNNA.half bnNNA  by bnNN_NNA;
+    sub bnNNA.half bnNA  by bnNN_NA;
+    sub bnNNA.half bnMA  by bnNN_MA;
+    sub bnNNA.half bnTT_RA  by bnNN_TT_RA;
+    sub bnNNA.half bnDD_RA  by bnNN_DD_RA;
+    sub bnTA.half bnTA  by bnT_TA;
+    sub bnTA.half bnTHA  by bnT_THA;
+    sub bnTA.half bnNA  by bnT_NA;
+    sub bnTA.half bnMA  by bnT_MA;
+    sub bnTA.half bnLA  by bnT_LA;
+    sub bnTA.half bnT_BA  by bnT_T_BA;
+    sub bnDA.half bnGA  by bnD_GA;
+    sub bnDA.half bnGHA  by bnD_GHA;
+    sub bnDA.half bnDA  by bnD_DA;
+    sub bnDA.half bnD_BA  by bnD_D_BA;
+    sub bnDA.half bnNA  by bnD_NA;
+    sub bnDA.half bnDHA  by bnD_DHA;
+    sub bnDA.half bnDH_BA  by bnD_DH_BA;
+    sub bnDA.half bnBHA  by bnD_BHA;
+    sub bnDA.half bnBH_RA  by bnD_BH_RA;
+    sub bnDA.half bnMA  by bnD_MA;
+    sub bnDHA.half bnNA  by bnDH_NA;
+    sub bnDHA.half bnMA  by bnDH_MA;
+    sub bnNA.half bnTA  by bnN_TA;
+    sub bnNA.half bnTHA  by bnN_THA;
+    sub bnNA.half bnTH_RA  by bnN_TH_RA;
+    sub bnNA.half bnTTHA  by bnN_TTH;
+    sub bnNA.half bnDDA  by bnN_DDA;
+    sub bnNA.half bnDD_RA  by bnN_DD_RA;
+    sub bnNA.half bnDA  by bnN_DA;
+    sub bnNA.half bnDHA  by bnN_DHA;
+    sub bnNA.half bnNA  by bnN_NA;
+    sub bnNA.half bnMA  by bnN_MA;
+    sub bnNA.half bnSA  by bnN_SA;
+    sub bnNA.half bnT_BA  by bnN_T_BA;
+    sub bnNA.half bnT_RA  by bnN_T_RA;
+    sub bnNA.half bnTTA  by bnN_TTA;
+    sub bnNA.half bnTT_RA  by bnN_TT_RA;
+    sub bnNA.half bnD_RA  by bnN_D_RA;
+    sub bnNA.half bnD_BA  by bnN_D_BA;
+    sub bnNA.half bnDH_RA  by bnN_DH_RA;
+    sub bnPA.half bnTTA  by bnP_TTA;
+    sub bnPA.half bnPA  by bnP_PA;
+    sub bnPA.half bnNA  by bnP_NA;
+    sub bnPA.half bnTA  by bnP_TA;
+    sub bnPA.half bnMA  by bnP_MA;
+    sub bnPA.half bnLA  by bnP_LA;
+    sub bnPA.half bnSA  by bnP_SA;
+    sub bnPHA.half bnTTA  by bnPH_TTA;
+    sub bnPHA.half bnLA  by bnPH_LA;
+    sub bnBA.half bnJA  by bnB_JA;
+    sub bnBA.half bnDA  by bnB_DA;
+    sub bnBA.half bnDHA  by bnB_DHA;
+    sub bnBA.half bnBHA  by bnB_BHA;
+    sub bnBA.half bnLA  by bnB_LA;
+    sub bnBA.half bnD_RA  by bnB_D_RA;
+    sub bnBHA.half bnLA  by bnBH_LA;
+    sub bnMA.half bnTA  by bnM_TA;
+    sub bnMA.half bnDA  by bnM_DA;
+    sub bnMA.half bnNA  by bnM_NA;
+    sub bnMA.half bnPA  by bnM_PA;
+    sub bnMA.half bnPHA  by bnM_PHA;
+    sub bnMA.half bnBHA  by bnM_BHA;
+    sub bnMA.half bnMA  by bnM_MA;
+    sub bnMA.half bnLA  by bnM_LA;
+    sub bnMA.half bnSA  by bnM_SA;
+    sub bnMA.half bnP_RA  by bnM_P_RA;
+    sub bnM_BA bnRAc2  by bnM_B_RA;
+    sub bnMA.half bnB_RA  by bnM_B_RA;
+    sub bnMA.half bnBH_RA  by bnM_BH_RA;
+    sub bnLA.half bnKA  by bnL_KA;
+    sub bnLA.half bnGA  by bnL_GA;
+    sub bnLA.half bnTTA  by bnL_TTA;
+    sub bnLA.half bnDDA  by bnL_DDA;
+    sub bnLA.half bnTA  by bnL_TA;
+    sub bnLA.half bnDA  by bnL_DA;
+    sub bnLA.half bnDHA  by bnL_DHA;
+    sub bnLA.half bnPA  by bnL_PA;
+    sub bnLA.half bnPHA  by bnL_PHA;
+    sub bnLA.half bnMA  by bnL_MA;
+    sub bnLA.half bnLA  by bnL_LA;
+    sub bnLA.half bnTT_RA  by bnL_TT_RA;
+    sub bnLA.half bnDD_RA  by bnL_DD_RA;
+    sub bnSHA.half bnCA  by bnSH_CA;
+    sub bnSHA.half bnCHA  by bnSH_CHA;
+    sub bnSHA.half bnTA  by bnSH_TA;
+    sub bnSHA.half bnNA  by bnSH_NA;
+    sub bnSHA.half bnMA  by bnSH_MA;
+    sub bnSHA.half bnLA  by bnSH_LA;
+    sub bnSSA.half bnKA  by bnSS_KA;
+    sub bnSSA.half bnTTA  by bnSS_TTA;
+    sub bnSSA.half bnTTHA  by bnSS_TTH;
+    sub bnSSA.half bnNNA  by bnSS_NNA;
+    sub bnSSA.half bnPA  by bnSS_PA;
+    sub bnSSA.half bnPHA  by bnSS_PHA;
+    sub bnSSA.half bnMA  by bnSS_MA;
+    sub bnSSA.half bnK_RA  by bnSS_K_RA;
+    sub bnSSA.half bnTT_RA  by bnSS_TT_RA;
+    sub bnSA.half bnKA  by bnSA_KA;
+    sub bnSA.half bnK_RA  by bnSA_K_RA;
+    sub bnSA.half bnKHA  by bnSA_KHA;
+    sub bnSA.half bnTTA  by bnS_TTA;
+    sub bnSA.half bnTA  by bnSA_TA;
+    sub bnSA.half bnT_BA  by bnSA_T_BA;
+    sub bnSA.half bnTHA  by bnSA_THA;
+    sub bnSA.half bnNA  by bnSA_NA;
+    sub bnSA.half bnPA  by bnSA_PA;
+    sub bnSA.half bnPHA  by bnSA_PHA;
+    sub bnSA.half bnMA  by bnSA_MA;
+    sub bnSA.half bnLA  by bnSA_LA;
+    sub bnSA.half bnTT_RA  by bnS_TT_RA;
+    sub bnSA.half bnT_RA  by bnSA_T_RA;
+    sub bnSA.half bnP_RA  by bnSA_P_RA;
+    sub bnHA.half bnNNA  by bnH_NNA;
+    sub bnHA.half bnNA  by bnH_NA;
+    sub bnHA.half bnMA  by bnH_MA;
+    sub bnHA.half bnLA  by bnH_LA;
+} sub_ligature_presbeng_0;
+
+lookup abvsAboveBaseSubstitutionslooku {
+  lookupflag 0;
+    sub bnReph bnCandrabindu  by bnCandrabindu_bnReph;
+    sub bnCandrabindu bnReph  by bnCandrabindu_bnReph;
+    sub bnmII bnCandrabindu  by bnCandrabindu_bnmII;
+    sub bnCandrabindu bnmII  by bnCandrabindu_bnmII;
+    sub bnReph bnmII  by bnReph_bnmII;
+    sub bnReph bnmII bnCandrabindu  by bnReph_bnCandrabindu_bnmII;
+    sub bnReph bnCandrabindu bnmII  by bnReph_bnCandrabindu_bnmII;
+    sub bnCandrabindu bnAUlntmk  by bnCandrabindu_bnAUlntmk;
+    sub bnReph bnAUlntmk bnCandrabindu  by bnCandrabindu_bnReph_bnAUlntmk;
+    sub bnReph bnCandrabindu bnAUlntmk  by bnCandrabindu_bnReph_bnAUlntmk;
+    sub bnCandrabindu bnReph bnAUlntmk  by bnCandrabindu_bnReph_bnAUlntmk;
+} abvsAboveBaseSubstitutionslooku;
+
+lookup SingleSubstitutionlookup17 {
+  lookupflag 0;
+    sub bnCandrabindu by bnCandrabindu2 ;
+    sub bnmII by bnmII2 ;
+    sub bnCandrabindu_bnmII by bnCandrabindu_bnmII2 ;
+    sub bnReph_bnmII by bnReph_bnmII2 ;
+    sub bnReph_bnCandrabindu_bnmII by bnReph_bnCandrabindu_bnmII2 ;
+} SingleSubstitutionlookup17;
+
+lookup sub_chain_abvsbeng_0 {
+  lookupflag 0;
+    @cc16_match_1 = [bnCandrabindu ];
+    @cc16_match_2 = [bnmII bnCandrabindu_bnmII bnReph_bnmII
+	bnReph_bnCandrabindu_bnmII ];
+    @cc16_back_1 = [bnmU bnmUU bnmvR bnmvRR bnmvL bnmvLL ];
+    @cc16_back_2 = [bnI bnII bnU bnUU bnAI bnAU bnAUlntmk ];
+    @cc16_back_3 = [bnTTA bnTTA.nukt bnTT_RA
+	bnTT_BA
+	bnK_TTA
+	bnK_TT_RA
+	bnTT_TTA
+	bnNN_TTA
+	bnNN_TT_RA
+	bnN_TTA
+	bnN_TT_RA
+	bnP_TTA bnPH_TTA
+	bnL_TTA
+	bnL_TT_RA
+	bnSS_TTA
+	bnSS_TT_RA
+	bnS_TTA
+	bnS_TT_RA ];
+    @cc16_back_4 = [bnKA bnNGA bnCA bnCHA bnTTHA bnDDA bnDDHA bnNNA bnTA
+	bnTHA bnDA bnDHA bnNA bnBA bnBHA bnMA bnYA
+	bnRA bnHA bnDDHA bnDDHxA bnYxA asRA asWA
+	bnC_RA
+	bnTTH_RA
+	bnDD_RA
+	bnDDH_RA
+	bnNN_RA
+	bnB_RA
+	bnH_RA
+	bnDDx_RA
+	bnDDHx_RA
+	bnYx_RA
+	bnK_BA
+	bnNG_BA
+	bnC_BA
+	bnCH_BA
+	bnTTH_BA
+	bnDD_BA
+	bnDDH_BA
+	bnNN_BA
+	bnT_BA
+	bnD_BA
+	bnN_BA
+	bnBH_BA
+	bnM_BA
+	bnY_BA
+	bnSS_BA
+	bnH_BA
+	asW_BA
+	bnDDx_BA
+	bnDDHx_BA
+	bnYx_BA
+	bnK_KA
+	bnK_NA
+	bnK_LA
+	bnNG_KA
+	bnNG_KA
+	bnNG_GA
+	bnC_NA bnNY_CH
+	bnNN_NNA
+	bnNN_NA bnT_TA
+	bnT_NA bnT_LA
+	bnT_T_BA
+	bnD_NA bnDH_NA
+	bnN_THA
+	bnN_TH_RA
+	bnN_NA
+	bnB_DHA bnB_BHA
+	bnB_LA
+	bnM_NA
+	bnM_LA
+	bnSS_KA bnH_NNA
+	bnH_NA bnH_LA ];
+    @cc16_back_5 = [bnmI ];
+    @cc16_ahead_1 = [glyph1 ];
+    sub @cc16_back_1 @cc16_back_2 @cc16_match_1'lookup SingleSubstitutionlookup17  ;
+    sub @cc16_back_2 @cc16_match_1'lookup SingleSubstitutionlookup17  ;
+    sub @cc16_back_3 @cc16_match_1'lookup SingleSubstitutionlookup17  ;
+    sub @cc16_back_4 @cc16_back_5 @cc16_match_1'lookup SingleSubstitutionlookup17  ;
+    sub @cc16_back_3 @cc16_match_2'lookup SingleSubstitutionlookup17  ;
+} sub_chain_abvsbeng_0;
+
+lookup blwsBelowBaseSubstitutionslooku {
+  lookupflag 0;
+    sub bnGA \uni200D bnmU  by bnGA_mU;
+    sub bnGA bnmU  by bnGA_mU;
+    sub bnL_GA bnmU  by bnL_GA_mU;
+    sub bnRA \uni200D bnmU  by bnRA_mU;
+    sub bnRA bnmU  by bnRA_mU;
+    sub asRA \uni200D bnmU  by bnRA_mU;
+    sub asRA bnmU  by bnRA_mU;
+    sub bnSHA \uni200D bnmU  by bnSH_mU;
+    sub bnSHA bnmU  by bnSH_mU;
+    sub bnHA \uni200D bnmU  by bnHA_mU;
+    sub bnHA bnmU  by bnHA_mU;
+    sub bnG_RA bnmU  by bnG_RA_mU;
+    sub bnGA.half bnRA \uni200D bnmU  by bnG_RA_mU;
+    sub bnT_RA bnmU  by bnT_RA_mU;
+    sub bnTA.half bnRA \uni200D bnmU  by bnT_RA_mU;
+    sub bnTH_RA bnmU  by bnTH_RA_mU;
+    sub bnTHA.half bnRA \uni200D bnmU  by bnTH_RA_mU;
+    sub bnD_RA bnmU  by bnD_RA_mU;
+    sub bnDA.half bnRA \uni200D bnmU  by bnD_RA_mU;
+    sub bnDH_RA bnmU  by bnDH_RA_mU;
+    sub bnDHA.half bnRA \uni200D bnmU  by bnD_RA_mU;
+    sub bnN_TA \uni200D bnmU  by bnN_TA_mU;
+    sub bnN_TA bnmU  by bnN_TA_mU;
+    sub bnB_RA bnmU  by bnB_RA_mU;
+    sub bnBA.half bnRA \uni200D bnmU  by bnB_RA_mU;
+    sub bnBH_RA bnmU  by bnBH_RA_mU;
+    sub bnBHA.half bnRA \uni200D bnmU  by bnBH_RA_mU;
+    sub bnSH_RA bnmU  by bnSH_RA_mU;
+    sub bnSHA.half bnRA \uni200D bnmU  by bnSH_RA_mU;
+    sub bnSA_TA \uni200D bnmU  by bnSA_TA_mU;
+    sub bnSA_TA bnmU  by bnSA_TA_mU;
+    sub bnS_RA bnmU  by bnSA_RA_mU;
+    sub bnSA.half bnRA \uni200D bnmU  by bnSA_RA_mU;
+    sub bnSA_LA bnmU  by bnSA_LA_mU;
+    sub bnRA \uni200D bnmUU  by bnR_mUU;
+    sub bnRA bnmUU  by bnR_mUU;
+    sub asRA \uni200D bnmUU  by asR_mUU;
+    sub asRA bnmUU  by asR_mUU;
+    sub bnG_RA bnmUU  by bnG_RA_mUU;
+    sub bnGA.half bnRA \uni200D bnmUU  by bnG_RA_mUU;
+    sub bnTH_RA bnmUU  by bnTH_RA_mUU;
+    sub bnTHA.half bnRA \uni200D bnmUU  by bnTH_RA_mUU;
+    sub bnD_RA bnmUU  by bnD_RA_mUU;
+    sub bnDA.half bnRA \uni200D bnmUU  by bnD_RA_mUU;
+    sub bnDH_RA bnmUU  by bnDH_RA_mUU;
+    sub bnDHA.half bnRA \uni200D bnmUU  by bnDH_RA_mUU;
+    sub bnBH_RA bnmUU  by bnBH_RA_mUU;
+    sub bnBHA.half bnRA \uni200D bnmUU  by bnBH_RA_mUU;
+    sub bnSH_RA bnmUU  by bnSH_RA_mUU;
+    sub bnSHA.half bnRA \uni200D bnmUU  by bnSH_RA_mUU;
+    sub bnS_RA bnmUU  by bnSH_RA_mUU;
+    sub bnSA.half bnRA \uni200D bnmUU  by bnSH_RA_mUU;
+    sub bnHA \uni200D bnmvR  by bnHA_mvR;
+    sub bnHA bnmvR  by bnHA_mvR;
+} blwsBelowBaseSubstitutionslooku;
+
+lookup sub_ligature_blwsbeng_0 {
+  lookupflag 0;
+    sub bnNYA bnRAc2  by bnNY_RA;
+    sub bnSSA bnRAc2  by bnSS_RA;
+    sub bnNYA bnBAc2  by bnNY_BA;
+    sub bnSSA bnBAc2  by bnSS_BA;
+} sub_ligature_blwsbeng_0;
+
+lookup MultipleSubstitutionlookup22 {
+  lookupflag 0;
+    sub bnJ_NY_RA by bnJA.half bnNY_RA ;
+    sub bnKH_BA by bnKHA.half bnBA ;
+    sub bnGH_BA by bnGHA.half bnBA ;
+    sub bnNG_BA by bnNGA.half bnBA ;
+    sub bnC_BA by bnCA.half bnBA ;
+    sub bnCH_BA by bnCHA.half bnBA ;
+    sub bnJH_BA by bnJHA.half bnBA ;
+    sub bnNY_BA by bnNYA.half bnBA ;
+    sub bnTT_BA by bnTTA.half bnBA ;
+    sub bnTTH_BA by bnTTHA.half bnBA ;
+    sub bnDD_BA by bnDDA.half bnBA ;
+    sub bnDDH_BA by bnDDHA.half bnBA ;
+    sub bnPH_BA by bnPHA.half bnBA ;
+    sub bnBH_BA by bnBHA.half bnBA ;
+    sub bnY_BA by bnYA.half bnBA ;
+    sub bnSS_BA by bnSSA.half bnBA ;
+    sub asR_BA by asRA.half bnBA ;
+    sub asW_BA by asWA.half bnBA ;
+    sub bnDDx_BA by bnDDx_BA ;
+    sub bnDDHx_BA by bnDDHxA.half bnBA ;
+    sub bnYx_BA by bnYxA.half bnBA ;
+    sub bnK_SS_BA by bnK_SSA.half bnBA ;
+    sub bnJ_NY_BA by bnJ_NYA.half bnBA ;
+    sub bnK_TT_RA by bnKA.half bnTT_RA ;
+    sub bnK_T_BA by bnKA.half bnT_BA ;
+    sub bnK_T_RA by bnKA.half bnT_RA ;
+    sub bnC_CH_BA by bnCA.half bnCHA.half bnBA ;
+    sub bnT_T_BA by bnTA.half bnT_BA ;
+    sub bnD_DH_BA by bnDA.half bnDH_BA ;
+    sub bnN_TH_RA by bnNA.half bnTH_RA ;
+    sub bnN_DD_RA by bnNA.half bnDD_RA ;
+    sub bnN_T_BA by bnNA.half bnT_BA ;
+    sub bnL_DD_RA by bnLA.half bnDD_RA ;
+    sub bnSS_TT_RA by bnSSA.half bnTT_RA ;
+    sub bnSA_T_BA by bnSA.half bnT_BA ;
+} MultipleSubstitutionlookup22;
+
+lookup sub_chain_blwsbeng_0 {
+  lookupflag 0;
+    @cc20_match_1 = [bnmU bnmUU bnmvR bnVirama ];
+    @cc20_match_2 = [bnNG_RA bnDDx_RA
+	bnDDHx_RA ];
+    @cc20_match_3 = [bnJ_NY_RA
+	bnKH_BA
+	bnGH_BA
+	bnNG_BA
+	bnC_BA
+	bnCH_BA
+	bnJH_BA
+	bnNY_BA
+	bnTT_BA
+	bnTTH_BA
+	bnDD_BA
+	bnDDH_BA
+	bnPH_BA
+	bnBH_BA
+	bnY_BA
+	bnSS_BA
+	asR_BA
+	asW_BA
+	bnDDx_BA
+	bnDDHx_BA
+	bnYx_BA
+	bnK_SS_BA
+	bnJ_NY_BA
+	bnK_TT_RA
+	bnK_T_BA
+	bnK_T_RA
+	bnC_CH_BA
+	bnT_T_BA
+	bnD_DH_BA
+	bnN_TH_RA
+	bnN_DD_RA
+	bnN_T_BA
+	bnL_DD_RA
+	bnSS_TT_RA
+	bnSA_T_BA ];
+    @cc20_back_1 = [bnG_RA bnNG1_RA
+	bnNN_RA
+	bnD_RA
+	bnN_RA
+	bnP_RA
+	bnSH_RA
+	bnS_RA bnDDx1_RA bnDDHx1_RA
+	bnK_BA
+	bnG_BA
+	bnT_BA
+	bnL_BA
+	bnSH_BA
+	bnK_KA
+	bnK_NA
+	bnK_MA
+	bnK_LA
+	bnG_DHA
+	bnG_NA bnGH_NA
+	bnGH_LA bnNY_CH
+	bnT_NA bnT_MA
+	bnT_LA bnD_BHA
+	bnD_MA bnDH_NA
+	bnN_TA
+	bnN_THA
+	bnN_NA
+	bnN_D_RA
+	bnP_PA
+	bnP_TA bnPH_LA
+	bnB_DHA
+	bnB_LA
+	bnB_D_RA
+	bnBH_LA bnM_PHA
+	bnM_BHA
+	bnM_P_RA
+	bnM_BH_RA
+	bnL_KA
+	bnL_GA
+	bnL_TA
+	bnL_DHA
+	bnL_PA
+	bnL_LA
+	bnSH_TA
+	bnSS_KA
+	bnSS_PHA
+	bnSA_KA
+	bnSA_THA
+	bnSA_PHA
+	bnSA_LA
+	bnSA_P_RA
+	bnH_NA ];
+    @cc20_back_2 = [bnKH_RA bnGH_RA
+	bnJ_RA
+	bnJH_RA
+	bnTH_RA
+	bnDH_RA
+	bnPH_RA
+	bnB_RA
+	bnY_RA
+	bnL_RA
+	bnSS_RA
+	asR_RA
+	bnJ_BA
+	bnTH_BA
+	bnD_BA
+	bnK_SS_NNA
+	bnK_SS_MA
+	bnNG_KH
+	bnNG_MA
+	bnC_NYA bnJ_JH
+	bnJ_JA_BA
+	bnTT_MA
+	bnDD_MA
+	bnD_NA
+	bnD_DHA
+	bnD_BH_RA
+	bnDH_MA
+	bnN_T_RA
+	bnN_D_BA
+	bnN_DH_RA
+	bnPH_TTA bnB_BHA
+	bnM_B_RA
+	bnL_TT_RA
+	bnSS_K_RA
+	bnSA_K_RA
+	bnSA_KHA
+	bnSA_T_RA ];
+    @cc20_back_3 = [bnC_RA bnCH_RA
+	bnTT_RA
+	bnTTH_RA
+	bnDD_RA
+	bnDDH_RA
+	bnR_RA
+	bnH_RA
+	asW_RA
+	bnYx_RA
+	bnK_SS_RA
+	bnP_BA
+	bnNG_KA
+	bnC_NA
+	bnC_CH_RA
+	bnNY_JHA
+	bnNN_TT_RA
+	bnNN_DD_RA
+	bnD_D_BA
+	bnN_TT_RA
+	bnS_TT_RA
+	bnH_NNA bnH_LA ];
+    @cc20_ahead_1 = [bnmU bnmUU bnmvR bnmvRR bnVirama bnmvL bnmvLL ];
+    sub @cc20_back_1 @cc20_match_1'  by [bnmU1 bnmUU1 bnmvR1 bnVirama1 ] ;
+    sub @cc20_back_2 @cc20_match_1'  by [bnmU2 bnmUU2 bnmvR2 bnVirama2 ] ;
+    sub @cc20_back_3 @cc20_match_1'  by [bnmU3 bnmUU3 bnmvR3 bnVirama3 ] ;
+    sub @cc20_match_2' @cc20_ahead_1  by [bnNG1_RA bnDDx1_RA bnDDHx1_RA ] ;
+    sub @cc20_match_3'lookup MultipleSubstitutionlookup22  @cc20_ahead_1 ;
+} sub_chain_blwsbeng_0;
+
+lookup sub_ligature_blwsbeng_2 {
+  lookupflag 0;
+    sub bnT_RA bnmU  by bnT_RA_mU;
+    sub bnTH_RA bnmU2  by bnTH_RA_mU;
+    sub bnTH_RA bnmUU2  by bnTH_RA_mUU;
+} sub_ligature_blwsbeng_2;
+
+lookup sub_chain_blwsbeng_2 {
+  lookupflag 0;
+    @cc27_match_1 = [bnmU bnmUU ];
+    @cc27_back_1 = [bnNGA bnCHA bnTTHA bnDDA bnK_TTA
+	bnK_TA
+	bnC_CHA
+	bnDD_DDA
+	bnNN_TTH
+	bnNN_DDA bnT_TA
+	bnN_TTH
+	bnN_DDA
+	bnL_DDA
+	bnSH_CHA
+	bnSS_TTH ];
+    @cc27_back_2 = [bnCA bnTTA bnDDHA bnTA bnBHA bnHA
+	bnC_CA
+	bnNN_TTA
+	bnNN_DDHA
+	bnN_TTA
+	bnP_TTA
+	bnL_TTA
+	bnSH_CA
+	bnS_TTA bnH_NA ];
+    @cc27_ahead_1 = [\glyph1 ];
+    sub @cc27_back_1 @cc27_match_1'  by [bnmU4 bnmUU4 ] ;
+    sub @cc27_back_2 @cc27_match_1'  by [bnmU5 bnmUU5 ] ;
+} sub_chain_blwsbeng_2;
+
+lookup pstsPostBaseSubstitutionslookup {
+  lookupflag 0;
+    @cc30_match_1 = [bnmII bnCandrabindu_bnmII bnReph_bnmII
+	bnReph_bnCandrabindu_bnmII ];
+    @cc30_back_1 = [bnTTHA bnTTH_RA
+	bnTTH_BA
+	bnNN_TTH
+	bnN_TTH
+	bnSS_TTH ];
+    @cc30_ahead_1 = [\glyph1 ];
+    sub @cc30_back_1 @cc30_match_1'  by [bnmII3 bnCandrabindu_bnmII3 bnReph_bnmII3 bnReph_bnCandrabindu_bnmII3 ] ;
+} pstsPostBaseSubstitutionslookup;
+
+lookup sub_context_pstsbeng_0 {
+  lookupflag 0;
+    sub bnRA' \uni200D' bnVirama' bnYA'  by bnYAc2 ;
+} sub_context_pstsbeng_0;
+
+lookup LigatureSubstitutionlookup35 {
+  lookupflag 0;
+    sub bnCandrabindu bnYAc2 bnmII  by \glyph1;
+} LigatureSubstitutionlookup35;
+
+lookup MultipleSubstitutionlookup37 {
+  lookupflag 0;
+    sub \glyph1 by bnYAc2 bnCandrabindu_bnmII ;
+} MultipleSubstitutionlookup37;
+
+lookup LigatureSubstitutionlookup38 {
+  lookupflag 0;
+    sub bnReph bnYAc2 bnmII  by \glyph1;
+} LigatureSubstitutionlookup38;
+
+lookup MultipleSubstitutionlookup39 {
+  lookupflag 0;
+    sub \glyph1 by bnYAc2 bnReph2_bnmII ;
+} MultipleSubstitutionlookup39;
+
+lookup LigatureSubstitutionlookup40 {
+  lookupflag 0;
+    sub bnReph bnYAc2 bnCandrabindu_bnmII  by \glyph1;
+} LigatureSubstitutionlookup40;
+
+lookup MultipleSubstitutionlookup42 {
+  lookupflag 0;
+    sub \glyph1 by bnYAc2 bnReph2_bnCandrabindu_bnmII ;
+} MultipleSubstitutionlookup42;
+
+lookup LigatureSubstitutionlookup36 {
+  lookupflag 0;
+    sub bnCandrabindu2 bnYAc2 bnmII  by \glyph1;
+} LigatureSubstitutionlookup36;
+
+lookup LigatureSubstitutionlookup41 {
+  lookupflag 0;
+    sub bnCandrabindu_bnReph bnYAc2 bnmII  by \glyph1;
+} LigatureSubstitutionlookup41;
+
+lookup sub_context_pstsbeng_2 {
+  lookupflag 0;
+    sub bnCandrabindu'lookup LigatureSubstitutionlookup35  bnYAc2'lookup LigatureSubstitutionlookup35  bnmII'lookup LigatureSubstitutionlookup35  ;
+    sub bnReph'lookup LigatureSubstitutionlookup38  bnYAc2'lookup LigatureSubstitutionlookup38  bnmII'lookup LigatureSubstitutionlookup38  ;
+    sub bnReph'lookup LigatureSubstitutionlookup40  bnYAc2'lookup LigatureSubstitutionlookup40  bnCandrabindu_bnmII'lookup LigatureSubstitutionlookup40  ;
+    sub bnCandrabindu2'lookup LigatureSubstitutionlookup36  bnYAc2'lookup LigatureSubstitutionlookup36  bnmII'lookup LigatureSubstitutionlookup36  ;
+    sub bnCandrabindu_bnReph'lookup LigatureSubstitutionlookup41  bnYAc2'lookup LigatureSubstitutionlookup41  bnmII'lookup LigatureSubstitutionlookup41  ;
+} sub_context_pstsbeng_2;
+
+feature init {
+
+ script beng;
+     language dflt ;
+      lookup initInitialFormsinBengalilookup;
+
+ script bng2;
+     language dflt ;
+      lookup initInitialFormsinBengali2looku;
+} init;
+
+feature nukt {
+
+ script beng;
+     language dflt ;
+      lookup nuktNuktaFormslookup1;
+
+ script bng2;
+     language dflt ;
+      lookup nuktNuktaFormslookup1;
+} nukt;
+
+feature akhn {
+
+ script beng;
+     language dflt ;
+      lookup akhnAkhandlookup2;
+
+ script bng2;
+     language dflt ;
+      lookup akhnAkhandlookup2;
+} akhn;
+
+feature rphf {
+
+ script beng;
+     language dflt ;
+      lookup rphfRephFormlookup3;
+
+ script bng2;
+     language dflt ;
+      lookup rphfRephFormlookup3;
+} rphf;
+
+feature blwf {
+
+ script beng;
+     language dflt ;
+      lookup blwfBelowBaseFormsinBengalilook;
+
+ script bng2;
+     language dflt ;
+      lookup blwfBelowBaseFormsinBengali2loo;
+} blwf;
+
+feature half {
+
+ script beng;
+     language dflt ;
+      lookup halfHalfFormsinBengalilookup6;
+
+ script bng2;
+     language dflt ;
+      lookup halfHalfFormsinBengali2lookup7;
+} half;
+
+feature pstf {
+
+ script beng;
+     language dflt ;
+      lookup pstfPostBaseFormsinBengalilooku;
+
+ script bng2;
+     language dflt ;
+      lookup pstfPostBaseFormsinBengali2look;
+} pstf;
+
+feature cjct {
+
+ script bng2;
+     language dflt ;
+      lookup cjctConjunctFormsinBengali2look;
+} cjct;
+
+feature pres {
+
+ script beng;
+     language dflt ;
+      lookup presPreBaseSubstitutionslookup1;
+      lookup sub_ligature_presbeng_0;
+
+ script bng2;
+     language dflt ;
+      lookup presPreBaseSubstitutionsinBenga;
+      lookup presPreBaseSubstitutionslookup1;
+      lookup sub_ligature_presbeng_0;
+} pres;
+
+feature vatu {
+
+ script beng;
+     language dflt ;
+      lookup presPreBaseSubstitutionsinBenga;
+} vatu;
+
+feature abvs {
+
+ script beng;
+     language dflt ;
+      lookup abvsAboveBaseSubstitutionslooku;
+      lookup sub_chain_abvsbeng_0;
+
+ script bng2;
+     language dflt ;
+      lookup abvsAboveBaseSubstitutionslooku;
+      lookup sub_chain_abvsbeng_0;
+} abvs;
+
+feature blws {
+
+ script beng;
+     language dflt ;
+      lookup blwsBelowBaseSubstitutionslooku;
+      lookup sub_ligature_blwsbeng_0;
+      lookup sub_chain_blwsbeng_0;
+      lookup sub_ligature_blwsbeng_2;
+      lookup sub_chain_blwsbeng_2;
+
+ script bng2;
+     language dflt ;
+      lookup blwsBelowBaseSubstitutionslooku;
+      lookup sub_ligature_blwsbeng_0;
+      lookup sub_chain_blwsbeng_0;
+      lookup sub_ligature_blwsbeng_2;
+      lookup sub_chain_blwsbeng_2;
+} blws;
+
+feature psts {
+
+ script beng;
+     language dflt ;
+      lookup pstsPostBaseSubstitutionslookup;
+      lookup sub_context_pstsbeng_0;
+      lookup sub_context_pstsbeng_2;
+
+ script bng2;
+     language dflt ;
+      lookup pstsPostBaseSubstitutionslookup;
+      lookup sub_context_pstsbeng_0;
+      lookup sub_context_pstsbeng_2;
+} psts;
+
+# GPOS
+
+lookup blwmBelowBaseMarklookup1 {
+  lookupflag 0;
+  markClass [\bnmU \bnmU5 ] <anchor -151 0> @anchor_1;
+  markClass [\bnmUU ] <anchor -255 0> @anchor_1;
+  markClass [\bnmvR ] <anchor -167 0> @anchor_1;
+  markClass [\bnVirama ] <anchor -195 0> @anchor_1;
+  markClass [\bnmU1 ] <anchor -148 0> @anchor_1;
+  markClass [\bnmUU1 ] <anchor -236 0> @anchor_1;
+  markClass [\bnmvR1 \bnmvR2 \bnmvR3 ] <anchor -178 0> @anchor_1;
+  markClass [\bnVirama1 \bnVirama2 \bnVirama3 ] <anchor -198 0> @anchor_1;
+  markClass [\bnmUU2 ] <anchor -243 0> @anchor_1;
+  markClass [\bnmUU3 ] <anchor -247 0> @anchor_1;
+  markClass [\bnmU2 ] <anchor -145 0> @anchor_1;
+  markClass [\bnmU3 ] <anchor -152 0> @anchor_1;
+  markClass [\NameMe.518 ] <anchor 521 0> @anchor_1;
+  markClass [\NameMe.519 ] <anchor 465 0> @anchor_1;
+  markClass [\bnmU4 ] <anchor -150 0> @anchor_1;
+  markClass [\bnmUU4 \bnmUU5 ] <anchor -254 0> @anchor_1;
+  markClass [\bnmvRR ] <anchor -170 0> @anchor_1;
+  markClass [\bnmvLL ] <anchor -67 0> @anchor_1;
+  pos base [\bnTA ] <anchor 455 0> mark @anchor_1;
+  pos base [\bnHA ] <anchor 274 -1> mark @anchor_1;
+  pos base [\bnDDA \bnN_TA ] <anchor 442 0> mark @anchor_1;
+  pos base [\bnKA \bnKA.nukt ] <anchor 449 0> mark @anchor_1;
+  pos base [\bnJHA \bnJHA.nukt ] <anchor 447 0> mark @anchor_1;
+  pos base [\bnNYA ] <anchor 580 0> mark @anchor_1;
+  pos base [\bnTTA ] <anchor 253 0> mark @anchor_1;
+  pos base [\bnDDHA ] <anchor 271 1> mark @anchor_1;
+  pos base [\bnPHA \bnPHA.nukt \bnT_NA ] <anchor 493 0> mark @anchor_1;
+  pos base [\bnBHA ] <anchor 484 0> mark @anchor_1;
+  pos base [\bnCA ] <anchor 266 2> mark @anchor_1;
+  pos base [\bnCHA ] <anchor 335 1> mark @anchor_1;
+  pos base [\bnNGA ] <anchor 380 1> mark @anchor_1;
+  pos base [\bnDA ] <anchor 375 0> mark @anchor_1;
+  pos base [\bnJA ] <anchor 715 0> mark @anchor_1;
+  pos base [\bnTTHA ] <anchor 295 0> mark @anchor_1;
+  pos base [\bnJA.nukt ] <anchor 714 0> mark @anchor_1;
+  pos base [\bnK_SSA \bnK_SS_NNA ] <anchor 604 0> mark @anchor_1;
+  pos base [\bnJ_NYA ] <anchor 525 0> mark @anchor_1;
+  pos base [\bnK_RA ] <anchor 575 0> mark @anchor_1;
+  pos base [\bnNG_RA \bnDDHx1_RA ] <anchor 547 0> mark @anchor_1;
+  pos base [\bnNG1_RA \bnL_TTA ] <anchor 518 0> mark @anchor_1;
+  pos base [\bnC_RA ] <anchor 520 1> mark @anchor_1;
+  pos base [\bnCH_RA ] <anchor 512 0> mark @anchor_1;
+  pos base [\bnJ_RA ] <anchor 721 0> mark @anchor_1;
+  pos base [\bnJH_RA \bnNN_DDHA ] <anchor 521 0> mark @anchor_1;
+  pos base [\bnTT_RA ] <anchor 519 0> mark @anchor_1;
+  pos base [\bnTTH_RA ] <anchor 506 0> mark @anchor_1;
+  pos base [\bnDDH_RA ] <anchor 518 1> mark @anchor_1;
+  pos base [\bnD_RA ] <anchor 520 0> mark @anchor_1;
+  pos base [\bnPH_RA ] <anchor 531 0> mark @anchor_1;
+  pos base [\bnM_RA \bnPH_TTA ] <anchor 542 0> mark @anchor_1;
+  pos base [\bnS_RA ] <anchor 571 0> mark @anchor_1;
+  pos base [\bnH_RA \bnN_DH_RA ] <anchor 427 0> mark @anchor_1;
+  pos base [\bnDDx1_RA ] <anchor 609 0> mark @anchor_1;
+  pos base [\bnK_SS_RA ] <anchor 608 -0> mark @anchor_1;
+  pos base [\bnK_BA ] <anchor 335 0> mark @anchor_1;
+  pos base [\bnJ_BA ] <anchor 692 0> mark @anchor_1;
+  pos base [\bnT_BA ] <anchor 480 -0> mark @anchor_1;
+  pos base [\bnM_BA ] <anchor 386 -2> mark @anchor_1;
+  pos base [\bnS_BA ] <anchor 502 1> mark @anchor_1;
+  pos base [\bnK_KA ] <anchor 312 1> mark @anchor_1;
+  pos base [\bnK_NA ] <anchor 348 -1> mark @anchor_1;
+  pos base [\bnK_TA ] <anchor 385 0> mark @anchor_1;
+  pos base [\bnK_LA ] <anchor 384 0> mark @anchor_1;
+  pos base [\bnK_TTA ] <anchor 552 0> mark @anchor_1;
+  pos base [\bnG_DA ] <anchor 656 1> mark @anchor_1;
+  pos base [\bnG_DHA ] <anchor 421 2> mark @anchor_1;
+  pos base [\bnNG_GA ] <anchor 510 0> mark @anchor_1;
+  pos base [\bnNG_K_SS ] <anchor 1095 -1> mark @anchor_1;
+  pos base [\bnC_CA ] <anchor 587 0> mark @anchor_1;
+  pos base [\bnC_CHA ] <anchor 637 1> mark @anchor_1;
+  pos base [\bnC_NYA ] <anchor 693 0> mark @anchor_1;
+  pos base [\bnC_NA ] <anchor 402 0> mark @anchor_1;
+  pos base [\bnC_CH_RA ] <anchor 682 1> mark @anchor_1;
+  pos base [\bnJ_JA ] <anchor 1088 0> mark @anchor_1;
+  pos base [\bnJ_JH ] <anchor 688 1> mark @anchor_1;
+  pos base [\bnNY_CA ] <anchor 406 0> mark @anchor_1;
+  pos base [\bnNY_CH ] <anchor 528 -1> mark @anchor_1;
+  pos base [\bnNY_JA ] <anchor 632 0> mark @anchor_1;
+  pos base [\bnNY_JHA ] <anchor 501 -69> mark @anchor_1;
+  pos base [\bnTT_TTA ] <anchor 307 0> mark @anchor_1;
+  pos base [\bnNN_TTA ] <anchor 528 0> mark @anchor_1;
+  pos base [\bnN_TTA ] <anchor 534 0> mark @anchor_1;
+  pos base [\bnP_TTA ] <anchor 677 0> mark @anchor_1;
+  pos base [\bnSS_TTA \bnM_B_RA ] <anchor 488 0> mark @anchor_1;
+  pos base [\bnS_TTA ] <anchor 668 0> mark @anchor_1;
+  pos base [\bnDD_DDA ] <anchor 742 0> mark @anchor_1;
+  pos base [\bnN_DDA ] <anchor 491 0> mark @anchor_1;
+  pos base [\bnL_DDA ] <anchor 568 0> mark @anchor_1;
+  pos base [\bnNN_DDA ] <anchor 434 0> mark @anchor_1;
+  pos base [\bnNN_DD_RA \bnL_TA ] <anchor 548 0> mark @anchor_1;
+  pos base [\bnNN_TTH ] <anchor 445 1> mark @anchor_1;
+  pos base [\bnN_TTH ] <anchor 509 1> mark @anchor_1;
+  pos base [\bnSS_TTH \bnSA_KA ] <anchor 468 0> mark @anchor_1;
+  pos base [\bnT_TA ] <anchor 355 0> mark @anchor_1;
+  pos base [\bnT_LA ] <anchor 486 0> mark @anchor_1;
+  pos base [\bnN_DA ] <anchor 644 0> mark @anchor_1;
+  pos base [\bnN_D_RA ] <anchor 698 0> mark @anchor_1;
+  pos base [\bnM_DA ] <anchor 733 0> mark @anchor_1;
+  pos base [\bnL_DA ] <anchor 797 0> mark @anchor_1;
+  pos base [\bnB_DA ] <anchor 537 0> mark @anchor_1;
+  pos base [\bnB_D_RA ] <anchor 613 0> mark @anchor_1;
+  pos base [\bnD_DA \bnBH_LA ] <anchor 554 0> mark @anchor_1;
+  pos base [\bnD_BHA ] <anchor 505 1> mark @anchor_1;
+  pos base [\bnD_BH_RA ] <anchor 620 -1> mark @anchor_1;
+  pos base [\bnN_THA ] <anchor 309 0> mark @anchor_1;
+  pos base [\bnN_DHA ] <anchor 373 1> mark @anchor_1;
+  pos base [\bnP_TA ] <anchor 565 0> mark @anchor_1;
+  pos base [\bnPH_LA ] <anchor 451 0> mark @anchor_1;
+  pos base [\bnB_JA ] <anchor 754 0> mark @anchor_1;
+  pos base [\bnB_DHA ] <anchor 356 0> mark @anchor_1;
+  pos base [\bnB_BHA ] <anchor 420 1> mark @anchor_1;
+  pos base [\bnM_TA ] <anchor 473 0> mark @anchor_1;
+  pos base [\bnM_NA ] <anchor 433 0> mark @anchor_1;
+  pos base [\bnM_BHA ] <anchor 404 0> mark @anchor_1;
+  pos base [\bnM_LA ] <anchor 470 0> mark @anchor_1;
+  pos base [\bnM_PHA ] <anchor 648 0> mark @anchor_1;
+  pos base [\bnL_KA ] <anchor 577 0> mark @anchor_1;
+  pos base [\bnL_DHA ] <anchor 573 0> mark @anchor_1;
+  pos base [\bnL_PHA ] <anchor 694 0> mark @anchor_1;
+  pos base [\bnSH_CA \bnSH_CHA ] <anchor 638 0> mark @anchor_1;
+  pos base [\bnSH_TA ] <anchor 458 0> mark @anchor_1;
+  pos base [\bnSS_KA ] <anchor 340 0> mark @anchor_1;
+  pos base [\bnSS_PHA ] <anchor 628 0> mark @anchor_1;
+  pos base [\bnSS_K_RA \bnH_LA ] <anchor 457 0> mark @anchor_1;
+  pos base [\bnSS_NNA ] <anchor 476 0> mark @anchor_1;
+  pos base [\bnSA_K_RA ] <anchor 541 0> mark @anchor_1;
+  pos base [\bnSA_TA ] <anchor 498 0> mark @anchor_1;
+  pos base [\bnSA_T_BA ] <anchor 538 0> mark @anchor_1;
+  pos base [\bnSA_THA ] <anchor 398 0> mark @anchor_1;
+  pos base [\bnSA_NA ] <anchor 549 0> mark @anchor_1;
+  pos base [\bnSA_PHA ] <anchor 672 0> mark @anchor_1;
+  pos base [\bnSA_T_RA ] <anchor 539 0> mark @anchor_1;
+  pos base [\bnH_NNA ] <anchor 365 0> mark @anchor_1;
+  pos base [\bnH_NA ] <anchor 308 0> mark @anchor_1;
+  pos base [\bnmvL ] <anchor 590 0> mark @anchor_1;
+  pos base [\bnDD_RA ] <anchor 593 0> mark @anchor_1;
+  pos base [\bnNG_KA ] <anchor 366 0> mark @anchor_1;
+  pos base [\bnNG_K_RA ] <anchor 478 0> mark @anchor_1;
+} blwmBelowBaseMarklookup1;
+
+lookup abvmAboveBaseMarklookup0 {
+  lookupflag 0;
+  markClass [\bnCandrabindu ] <anchor -157 636> @anchor0;
+  markClass [\bnReph ] <anchor -135 636> @anchor0;
+  pos base [\bnAA ] <anchor 963 637> mark @anchor0;
+  pos base [\bnTA ] <anchor 350 638> mark @anchor0;
+  pos base [\bnHA \bnHA.nukt ] <anchor 226 637> mark @anchor0;
+  pos base [\bnDDA ] <anchor 398 637> mark @anchor0;
+  pos base [\bnDDxA \bnT_NA \bnDD_RA ] <anchor 402 637> mark @anchor0;
+  pos base [\bnKA \bnSS_K_RA \bnH_LA ] <anchor 446 637> mark @anchor0;
+  pos base [\bnJHA \bnJHA.nukt ] <anchor 573 637> mark @anchor0;
+  pos base [\bnNYA \bnNYA.nukt ] <anchor 538 624> mark @anchor0;
+  pos base [\bnDDHA ] <anchor 269 637> mark @anchor0;
+  pos base [\bnDDHxA ] <anchor 231 635> mark @anchor0;
+  pos base [\bnPHA \bnPHA.nukt ] <anchor 481 637> mark @anchor0;
+  pos base [\bnBHA \bnBHA.nukt ] <anchor 380 637> mark @anchor0;
+  pos base [\bnKHA ] <anchor 523 634> mark @anchor0;
+  pos base [\bnTHA \bnTHA.nukt ] <anchor 433 637> mark @anchor0;
+  pos base [\bnCA ] <anchor 254 637> mark @anchor0;
+  pos base [\bnCHA \bnCHA.nukt ] <anchor 307 637> mark @anchor0;
+  pos base [\bnNGA ] <anchor 352 636> mark @anchor0;
+  pos base [\bnNNA \bnNNA.nukt ] <anchor 395 634> mark @anchor0;
+  pos base [\bnGA ] <anchor 351 636> mark @anchor0;
+  pos base [\bnPA \bnPA.nukt ] <anchor 487 636> mark @anchor0;
+  pos base [\bnDA \bnDA.nukt ] <anchor 252 637> mark @anchor0;
+  pos base [\bnSHA ] <anchor 428 636> mark @anchor0;
+  pos base [\bnJA \bnJA.nukt ] <anchor 607 638> mark @anchor0;
+  pos base [\bnO ] <anchor 376 638> mark @anchor0;
+  pos base [\bnvL ] <anchor 508 572> mark @anchor0;
+  pos base [\bnmAA ] <anchor 35 637> mark @anchor0;
+  pos base [\bnTAkhanda ] <anchor 162 636> mark @anchor0;
+  pos base [\bnKA.nukt \asR_mU ] <anchor 448 637> mark @anchor0;
+  pos base [\bnKHA.nukt ] <anchor 523 636> mark @anchor0;
+  pos base [\bnGA.nukt ] <anchor 349 635> mark @anchor0;
+  pos base [\bnNGA.nukt ] <anchor 352 634> mark @anchor0;
+  pos base [\bnCA.nukt ] <anchor 264 637> mark @anchor0;
+  pos base [\bnSHA.nukt ] <anchor 410 637> mark @anchor0;
+  pos base [\bnK_SSA ] <anchor 603 636> mark @anchor0;
+  pos base [\bnJ_NYA \bnS_RA ] <anchor 529 637> mark @anchor0;
+  pos base [\bnK_RA ] <anchor 520 637> mark @anchor0;
+  pos base [\bnKH_RA ] <anchor 503 636> mark @anchor0;
+  pos base [\bnG_RA ] <anchor 470 635> mark @anchor0;
+  pos base [\bnNG_RA ] <anchor 373 634> mark @anchor0;
+  pos base [\bnNG1_RA ] <anchor 261 637> mark @anchor0;
+  pos base [\bnC_RA \bnCH_RA ] <anchor 344 637> mark @anchor0;
+  pos base [\bnJ_RA ] <anchor 628 637> mark @anchor0;
+  pos base [\bnJH_RA ] <anchor 647 637> mark @anchor0;
+  pos base [\bnNY_RA ] <anchor 525 635> mark @anchor0;
+  pos base [\bnDDH_RA ] <anchor 292 637> mark @anchor0;
+  pos base [\bnNN_RA ] <anchor 442 637> mark @anchor0;
+  pos base [\bnT_RA \bnSA_K_RA ] <anchor 530 637> mark @anchor0;
+  pos base [\bnTH_RA ] <anchor 496 635> mark @anchor0;
+  pos base [\bnD_RA ] <anchor 341 636> mark @anchor0;
+  pos base [\bnP_RA ] <anchor 533 634> mark @anchor0;
+  pos base [\bnPH_RA ] <anchor 526 636> mark @anchor0;
+  pos base [\bnM_RA ] <anchor 496 638> mark @anchor0;
+  pos base [\bnSH_RA ] <anchor 440 637> mark @anchor0;
+  pos base [\bnH_RA ] <anchor 516 638> mark @anchor0;
+  pos base [\bnDDx_RA ] <anchor 393 636> mark @anchor0;
+  pos base [\bnDDx1_RA ] <anchor 404 636> mark @anchor0;
+  pos base [\bnDDHx_RA ] <anchor 347 637> mark @anchor0;
+  pos base [\bnK_SS_RA ] <anchor 606 638> mark @anchor0;
+  pos base [\bnJ_NY_RA ] <anchor 466 637> mark @anchor0;
+  pos base [\bnK_BA ] <anchor 333 637> mark @anchor0;
+  pos base [\bnKH_BA ] <anchor 489 635> mark @anchor0;
+  pos base [\bnG_BA ] <anchor 388 636> mark @anchor0;
+  pos base [\bnJ_BA ] <anchor 419 638> mark @anchor0;
+  pos base [\bnNN_BA ] <anchor 381 637> mark @anchor0;
+  pos base [\bnT_BA \bnT_TA \bnT_T_BA ] <anchor 356 636> mark @anchor0;
+  pos base [\bnTH_BA ] <anchor 410 636> mark @anchor0;
+  pos base [\bnD_BA ] <anchor 374 637> mark @anchor0;
+  pos base [\bnM_BA \bnN_TA_mU ] <anchor 402 635> mark @anchor0;
+  pos base [\bnSH_BA ] <anchor 447 634> mark @anchor0;
+  pos base [\bnS_BA ] <anchor 552 636> mark @anchor0;
+  pos base [\bnNG_BA ] <anchor 369 637> mark @anchor0;
+  pos base [\bnC_BA ] <anchor 297 636> mark @anchor0;
+  pos base [\bnCH_BA ] <anchor 260 637> mark @anchor0;
+  pos base [\bnJH_BA ] <anchor 578 636> mark @anchor0;
+  pos base [\bnNY_BA ] <anchor 546 632> mark @anchor0;
+  pos base [\bnDD_BA ] <anchor 406 635> mark @anchor0;
+  pos base [\bnDDH_BA ] <anchor 262 637> mark @anchor0;
+  pos base [\bnP_BA ] <anchor 483 635> mark @anchor0;
+  pos base [\bnPH_BA ] <anchor 510 636> mark @anchor0;
+  pos base [\bnBH_BA ] <anchor 501 636> mark @anchor0;
+  pos base [\bnK_KA ] <anchor 312 636> mark @anchor0;
+  pos base [\bnK_NA ] <anchor 348 637> mark @anchor0;
+  pos base [\bnDDx_BA ] <anchor 396 636> mark @anchor0;
+  pos base [\bnDDHx_BA ] <anchor 321 635> mark @anchor0;
+  pos base [\bnK_SS_BA ] <anchor 606 636> mark @anchor0;
+  pos base [\bnJ_NY_BA ] <anchor 576 636> mark @anchor0;
+  pos base [\bnK_TA ] <anchor 344 634> mark @anchor0;
+  pos base [\bnK_T_BA ] <anchor 330 638> mark @anchor0;
+  pos base [\bnK_T_RA ] <anchor 336 634> mark @anchor0;
+  pos base [\bnK_LA ] <anchor 384 636> mark @anchor0;
+  pos base [\bnK_SS_NNA ] <anchor 602 636> mark @anchor0;
+  pos base [\bnG_GA ] <anchor 372 636> mark @anchor0;
+  pos base [\bnG_DA ] <anchor 588 637> mark @anchor0;
+  pos base [\bnG_DHA ] <anchor 371 635> mark @anchor0;
+  pos base [\bnG_NA ] <anchor 343 636> mark @anchor0;
+  pos base [\bnG_LA ] <anchor 337 635> mark @anchor0;
+  pos base [\bnNG_GA ] <anchor 436 636> mark @anchor0;
+  pos base [\bnNG_KH ] <anchor 787 635> mark @anchor0;
+  pos base [\bnNG_K_SS ] <anchor 1095 636> mark @anchor0;
+  pos base [\bnC_CA ] <anchor 535 636> mark @anchor0;
+  pos base [\bnC_CHA ] <anchor 631 637> mark @anchor0;
+  pos base [\bnC_NYA ] <anchor 662 639> mark @anchor0;
+  pos base [\bnC_NA ] <anchor 328 637> mark @anchor0;
+  pos base [\bnC_CH_BA ] <anchor 640 637> mark @anchor0;
+  pos base [\bnC_CH_RA ] <anchor 658 636> mark @anchor0;
+  pos base [\bnJ_JA ] <anchor 830 635> mark @anchor0;
+  pos base [\bnJ_JA_BA ] <anchor 854 636> mark @anchor0;
+  pos base [\bnNY_CA ] <anchor 406 637> mark @anchor0;
+  pos base [\bnNY_CH ] <anchor 418 637> mark @anchor0;
+  pos base [\bnNY_JA ] <anchor 406 636> mark @anchor0;
+  pos base [\bnNY_JHA ] <anchor 461 636> mark @anchor0;
+  pos base [\bnDD_DDA ] <anchor 722 639> mark @anchor0;
+  pos base [\bnDDx_GA ] <anchor 854 637> mark @anchor0;
+  pos base [\bnDD_GA ] <anchor 844 636> mark @anchor0;
+  pos base [\bnN_DDA \bnN_DD_RA \bnD_DHA \bnD_DH_BA \bnD_BHA \bnD_BH_RA \bnN_THA \bnN_TH_RA \bnN_T_BA \bnN_T_RA ] <anchor 442 635> mark @anchor0;
+  pos base [\bnL_DDA \bnL_DD_RA \bnBH_LA \bnM_TA \bnT_RA_mU ] <anchor 557 637> mark @anchor0;
+  pos base [\bnNN_DDA \bnNN_DD_RA ] <anchor 339 636> mark @anchor0;
+  pos base [\bnNN_DDHA ] <anchor 531 638> mark @anchor0;
+  pos base [\bnNN_NNA ] <anchor 396 633> mark @anchor0;
+  pos base [\bnNN_NA ] <anchor 394 637> mark @anchor0;
+  pos base [\bnT_THA ] <anchor 445 634> mark @anchor0;
+  pos base [\bnT_LA ] <anchor 382 636> mark @anchor0;
+  pos base [\bnD_GA ] <anchor 736 636> mark @anchor0;
+  pos base [\bnD_NA ] <anchor 296 637> mark @anchor0;
+  pos base [\bnN_DA ] <anchor 612 636> mark @anchor0;
+  pos base [\bnN_D_RA ] <anchor 562 635> mark @anchor0;
+  pos base [\bnN_D_BA ] <anchor 602 635> mark @anchor0;
+  pos base [\bnM_DA ] <anchor 687 637> mark @anchor0;
+  pos base [\bnL_DA \bnSH_CA ] <anchor 747 637> mark @anchor0;
+  pos base [\bnB_DA \bnB_D_RA \bnP_PA \bnP_NA \bnP_TA \bnP_LA \bnPH_LA \bnM_BHA \bnM_BH_RA \bnSA_NA \bnTH_RA_mU ] <anchor 497 637> mark @anchor0;
+  pos base [\bnD_DA \bnD_D_BA ] <anchor 454 636> mark @anchor0;
+  pos base [\bnN_TA ] <anchor 492 635> mark @anchor0;
+  pos base [\bnN_DHA ] <anchor 437 635> mark @anchor0;
+  pos base [\bnN_DH_RA ] <anchor 512 635> mark @anchor0;
+  pos base [\bnM_PA ] <anchor 799 637> mark @anchor0;
+  pos base [\bnM_P_RA ] <anchor 797 637> mark @anchor0;
+  pos base [\bnB_JA \bnSS_PHA ] <anchor 617 637> mark @anchor0;
+  pos base [\bnB_DHA \bnSH_LA \bnSH_RA_mUU ] <anchor 427 637> mark @anchor0;
+  pos base [\bnB_BHA ] <anchor 517 637> mark @anchor0;
+  pos base [\bnM_NA ] <anchor 436 637> mark @anchor0;
+  pos base [\bnM_LA ] <anchor 473 637> mark @anchor0;
+  pos base [\bnM_B_RA \bnSS_NNA \bnSA_THA \bnBH_RA_mUU ] <anchor 477 637> mark @anchor0;
+  pos base [\bnM_PHA ] <anchor 721 637> mark @anchor0;
+  pos base [\bnL_KA ] <anchor 576 637> mark @anchor0;
+  pos base [\bnL_TA \bnL_DHA ] <anchor 577 637> mark @anchor0;
+  pos base [\bnL_PHA ] <anchor 683 637> mark @anchor0;
+  pos base [\bnSH_CHA ] <anchor 697 637> mark @anchor0;
+  pos base [\bnSH_TA \bnRA_mU \bnSH_RA_mU ] <anchor 447 637> mark @anchor0;
+  pos base [\bnSH_NA ] <anchor 437 637> mark @anchor0;
+  pos base [\bnSS_KA ] <anchor 329 637> mark @anchor0;
+  pos base [\bnSS_PA ] <anchor 767 637> mark @anchor0;
+  pos base [\bnSA_KA \bnG_RA_mUU \bnD_RA_mUU ] <anchor 457 637> mark @anchor0;
+  pos base [\bnSA_TA \bnTH_RA_mUU ] <anchor 487 637> mark @anchor0;
+  pos base [\bnSA_PA ] <anchor 807 637> mark @anchor0;
+  pos base [\bnSA_PHA ] <anchor 661 637> mark @anchor0;
+  pos base [\bnSA_T_RA ] <anchor 528 637> mark @anchor0;
+  pos base [\bnSA_P_RA ] <anchor 803 637> mark @anchor0;
+  pos base [\bnH_NNA ] <anchor 354 637> mark @anchor0;
+  pos base [\bnH_NA ] <anchor 301 637> mark @anchor0;
+  pos base [\bnGA_mU ] <anchor 357 637> mark @anchor0;
+  pos base [\bnL_GA_mU ] <anchor 527 637> mark @anchor0;
+  pos base [\bnSH_mU ] <anchor 507 637> mark @anchor0;
+  pos base [\bnHA_mU ] <anchor 387 637> mark @anchor0;
+  pos base [\bnG_RA_mU \bnD_RA_mU ] <anchor 467 637> mark @anchor0;
+  pos base [\bnDH_RA_mU ] <anchor 539 636> mark @anchor0;
+  pos base [\bnB_RA_mU ] <anchor 508 637> mark @anchor0;
+  pos base [\bnBH_RA_mU ] <anchor 537 637> mark @anchor0;
+  pos base [\bnSA_RA_mU \bnSA_RA_mUU ] <anchor 547 637> mark @anchor0;
+  pos base [\bnSA_LA_mU ] <anchor 550 637> mark @anchor0;
+  pos base [\bnR_mUU ] <anchor 450 637> mark @anchor0;
+  pos base [\bnDH_RA_mUU ] <anchor 538 637> mark @anchor0;
+  pos base [\bnHA_mvR ] <anchor 207 637> mark @anchor0;
+  pos base [\bnCandrabindu_bnReph ] <anchor -133 637> mark @anchor0;
+  pos base [\NameMe.518 ] <anchor 380 636> mark @anchor0;
+  pos base [\NameMe.519 ] <anchor 340 636> mark @anchor0;
+  pos base [\bnvLL ] <anchor 464 515> mark @anchor0;
+  pos base [\asR_mUU ] <anchor 452 637> mark @anchor0;
+  pos base [\bnNG_KA ] <anchor 391 636> mark @anchor0;
+  pos base [\bnNG_K_RA ] <anchor 460 636> mark @anchor0;
+  pos base [\bnDDHx1_RA ] <anchor 302 637> mark @anchor0;
+  pos base [\bnSA_TA_mU ] <anchor 458 637> mark @anchor0;
+} abvmAboveBaseMarklookup0;
+
+#feature dist {
+#
+# script beng;
+#     language dflt ;
+#      lookup distDistancelookup2;
+#      lookup kernHorizontalKerninginBengali2;
+#
+# script bng2;
+#     language dflt ;
+#      lookup distDistancelookup2;
+#} dist;
+
+feature blwm {
+
+ script beng;
+     language dflt ;
+      lookup blwmBelowBaseMarklookup1;
+
+ script bng2;
+     language dflt ;
+      lookup blwmBelowBaseMarklookup1;
+} blwm;
+
+feature abvm {
+
+ script beng;
+     language dflt ;
+      lookup abvmAboveBaseMarklookup0;
+
+ script bng2;
+     language dflt ;
+      lookup abvmAboveBaseMarklookup0;
+} abvm;
+
+
+
+@GDEF_Mark = [\bnmU \bnmUU \bnmvR \bnCandrabindu \bnReph \bnRAc2 \bnBAc2 \bnmvRR ];
+
+table GDEF {
+  GlyphClassDef , , @GDEF_Mark, ;
+
+} GDEF;
