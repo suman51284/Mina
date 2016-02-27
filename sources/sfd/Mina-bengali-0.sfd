@@ -21,7 +21,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1437065704
-ModificationTime: 1456092136
+ModificationTime: 1456567316
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -118,7 +118,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 275 25 4
+WinInfo: 125 25 4
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -238,7 +238,7 @@ VWidth: 0
 Flags: W
 HStem: 39 73<344.514 489.578> 444 72<298.016 617.772> 575 61<-14 785>
 VStem: 646 72<281.005 417.872>
-AnchorPoint: "anchor 1" 455 0 basechar 0
+AnchorPoint: "anchor 1" 394 43 basechar 0
 AnchorPoint: "anchor0" 350 638 basechar 0
 LayerCount: 2
 Back
@@ -347,7 +347,7 @@ VWidth: 0
 Flags: W
 HStem: 443 72<94.129 410.222> 575 61<-14 593>
 VStem: 429 65<302.889 424.711>
-AnchorPoint: "anchor 1" 274 -1 basechar 0
+AnchorPoint: "anchor 1" 334 -1 basechar 0
 AnchorPoint: "anchor0" 226 637 basechar 0
 LayerCount: 2
 Back
@@ -424,7 +424,7 @@ VWidth: 0
 Flags: W
 HStem: -0.356499 76.9109<347.135 449.277> 358 70<391.686 603.586> 575 61<-14 325 390 759>
 VStem: 325 65<412 575> 613.638 69.363<249.539 347.349>
-AnchorPoint: "anchor 1" 442 0 basechar 0
+AnchorPoint: "anchor 1" 367 9 basechar 0
 AnchorPoint: "anchor0" 398 637 basechar 0
 LayerCount: 2
 Back
@@ -927,10 +927,10 @@ StartChar: bnTTA
 Encoding: 121 2463 19
 Width: 610
 VWidth: 0
-Flags: HW
-HStem: 0 71<168.315 274.966> 337 66<269 459.086> 575 61<-13 80 147 416 486 620> 708 64<130.676 404.718>
-VStem: 80 67<90.6372 575> 416 70<636 696.221> 468 72<241.198 323.883>
-AnchorPoint: "anchor 1" 253 0 basechar 0
+Flags: W
+HStem: 0 71<167.78 274.966> 337 66<269 459.086> 575 61<-13 72 147 416 486 620> 708 64<130.676 404.718>
+VStem: 70 77<90.6372 575> 416 70<636 696.221> 468 72<241.198 323.883>
+AnchorPoint: "anchor 1" 180 5 basechar 0
 LayerCount: 2
 Back
 Fore
@@ -941,8 +941,8 @@ SplineSet
  496.323421401 403 540 362.557271089 540 297 c 0xfa
  540 271 532 243 516 222 c 0
  432 112 279 0 208 0 c 0
- 143 0 80 37 80 159 c 2
- 72 576 l 5
+ 143 0 70 37 70 159 c 2
+ 72 576 l 1
  -13 575 l 1
  -13 636 l 1
  416 636 l 17
@@ -970,7 +970,7 @@ VWidth: 0
 Flags: W
 HStem: 0 71<158.774 269.966> 337 66<264 454.086> 575 61<-14 75 142 612>
 VStem: 75 67<86.6083 575> 463 72<241.198 324.278>
-AnchorPoint: "anchor 1" 271 1 basechar 0
+AnchorPoint: "anchor 1" 161 11 basechar 0
 AnchorPoint: "anchor0" 269 637 basechar 0
 LayerCount: 2
 Back
@@ -1164,10 +1164,10 @@ StartChar: bnPHA
 Encoding: 132 2475 25
 Width: 876
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 0 21G<455.741 558.046> 432 61<559 723.115> 575 61<-14 104 139 885>
 VStem: 303 81<383.197 426.697> 493 65<75 432> 741 70<314.117 414.661>
-AnchorPoint: "anchor 1" 493 0 basechar 0
+AnchorPoint: "anchor 1" 495 5 basechar 0
 AnchorPoint: "anchor0" 481 637 basechar 0
 LayerCount: 2
 Back
@@ -1189,7 +1189,7 @@ SplineSet
  741 407 710 432 664 432 c 2
  559 432 l 25
  558 0 l 1
- 493 0 l 5
+ 493 0 l 1
  126 197 l 1
  125 272 l 1
  125 272 303 386 303 409 c 0
@@ -1250,7 +1250,7 @@ VWidth: 0
 Flags: W
 HStem: 37 75<363.864 503.732> 286 68<371.552 569.747> 340 85<612.321 671.589> 456 60.0979<371.019 500> 575 61<-14 860>
 VStem: 305 65<356.449 454.844> 692 79<240.864 319.294>
-AnchorPoint: "anchor 1" 484 0 basechar 0
+AnchorPoint: "anchor 1" 414 41 basechar 0
 AnchorPoint: "anchor0" 380 637 basechar 0
 LayerCount: 2
 Back
@@ -1378,7 +1378,7 @@ VWidth: 0
 Flags: W
 HStem: 0 71<169.774 287.331> 575 61<-10 86 153 631>
 VStem: 86 67<86.6083 405 463 575> 473 71<242.424 344.288>
-AnchorPoint: "anchor 1" 266 2 basechar 0
+AnchorPoint: "anchor 1" 182 6 basechar 0
 AnchorPoint: "anchor0" 254 637 basechar 0
 LayerCount: 2
 Back
@@ -1415,7 +1415,7 @@ VWidth: 0
 Flags: W
 HStem: 174 82<151.064 216.691> 575 61<-14 79 146 682>
 VStem: 79 67<259.941 461 516 575> 363 70<344.172 404.602> 528 66<254.791 377.704>
-AnchorPoint: "anchor 1" 335 1 basechar 0
+AnchorPoint: "anchor 1" 415 1 basechar 0
 AnchorPoint: "anchor0" 307 637 basechar 0
 LayerCount: 2
 Back
@@ -1464,7 +1464,7 @@ Width: 690
 Flags: W
 HStem: 8.16211 76.3477<304.288 418.354> 290 70<366.085 567.235> 431 59<366 513.76> 580 57<375.131 515.907>
 VStem: 305 61<344 431 500 571.908> 518 55<494.683 576.301> 569.148 68.3691<210.738 285.933>
-AnchorPoint: "anchor 1" 380 1 basechar 0
+AnchorPoint: "anchor 1" 334 14 basechar 0
 AnchorPoint: "anchor0" 352 636 basechar 0
 LayerCount: 2
 Back
@@ -2093,10 +2093,10 @@ EndChar
 StartChar: bnTTHA
 Encoding: 122 2464 47
 Width: 580
-Flags: HW
+Flags: W
 HStem: -0.148438 74.1484<233.84 318.497> 574.179 61.8213<-14 168 240 593>
 VStem: 168 72<535.648 574> 455 73<186.759 262.752>
-AnchorPoint: "anchor 1" 295 0 basechar 0
+AnchorPoint: "anchor 1" 243 10 basechar 0
 LayerCount: 2
 Back
 Fore
@@ -2109,7 +2109,7 @@ SplineSet
  212.725457115 400.912629958 226 421.7890625 226 444 c 0
  226 464.1328125 213.094726562 481.038085938 190.094726562 513.038085938 c 0
  170.250976562 540.646484375 168 562 168 574 c 1
- -17 574 l 5
+ -17 574 l 1
  -14 636 l 1
  169.591796875 636 l 1
  169.591796875 636 170.68612777 659.389358007 196 687 c 0
@@ -3828,8 +3828,8 @@ Encoding: 147 2497 108
 Width: 0
 VWidth: 2048
 GlyphClass: 4
-Flags: HW
-HStem: -286.098 67.918<-298.04 -227.595> -96.6025 74.3525<-303.362 -233.696>
+Flags: W
+HStem: -286.098 67.918<-297.314 -227.595> -96.6025 74.3525<-303.362 -233.696>
 VStem: -412.729 80.6592<-189.638 -130.92>
 AnchorPoint: "anchor 1" -151 0 mark 0
 LayerCount: 2
@@ -3905,7 +3905,7 @@ Encoding: 149 2499 110
 Width: 0
 VWidth: 2048
 GlyphClass: 4
-Flags: HW
+Flags: W
 AnchorPoint: "anchor 1" -167 0 mark 0
 LayerCount: 2
 Back
@@ -4467,7 +4467,7 @@ Encoding: 198 -1 129
 Width: 860
 VWidth: 0
 GlyphClass: 3
-Flags: W
+Flags: WO
 HStem: -9.752 97.9033<119.673 215> 0 21G<422.096 514.044> 575 61<-14 449 514 872>
 VStem: 119.673 95.3271<-9.752 88.1514> 449 65<82 457 532 575> 729.146 71.5596<292.649 386.308>
 AnchorPoint: "anchor 1" 449 0 basechar 0
@@ -4593,14 +4593,14 @@ Encoding: 205 -1 136
 Width: 950
 GlyphClass: 3
 Flags: W
-HStem: -135.752 97.9033<380.673 476> 24.8799 75.2969<358.076 466.021> 291 66<418.08 603.173> 575 62<-15 355 418 958>
-VStem: 355 63<345 493 555 575> 380.673 95.3271<-135.752 -37.8486> 604.099 71.1387<226.334 287.788> 716 35<-16 7.91089>
+HStem: -135.752 97.9033<320.673 416> 24.8799 75.2969<358.076 466.021> 291 66<418.08 603.173> 575 62<-15 355 418 958>
+VStem: 320.673 95.3271<-135.752 -37.8486> 355 63<345 493 555 575> 604.099 71.1387<226.334 287.788> 716 35<-16 7.91089>
 AnchorPoint: "anchor 1" 714 0 basechar 0
 AnchorPoint: "anchor0" 607 638 basechar 0
 LayerCount: 2
 Back
 Fore
-Refer: 107 2492 N 1 0 0 1 585 44 2
+Refer: 107 2492 S 1 0 0 1 525 44 2
 Refer: 42 2460 N 1 0 0 1 0 0 2
 LCarets2: 1 0
 Ligature2: "'nukt' Nukta Forms lookup 1 subtable" bnJA bnNukta
@@ -4656,6 +4656,7 @@ Back
 Fore
 Refer: 107 2492 S 1 0 0 1 367 14 2
 Refer: 19 2463 N 1 0 0 1 0 0 2
+LCarets2: 1 0
 Ligature2: "'nukt' Nukta Forms lookup 1 subtable" bnTTA bnNukta
 EndChar
 
@@ -4671,6 +4672,7 @@ Back
 Fore
 Refer: 107 2492 S 1 0 0 1 371 14 2
 Refer: 47 2464 N 1 0 0 1 0 0 2
+LCarets2: 1 0
 Ligature2: "'nukt' Nukta Forms lookup 1 subtable" bnTTHA bnNukta
 EndChar
 
@@ -4705,6 +4707,7 @@ Back
 Fore
 Refer: 107 2492 S 1 0 0 1 532 54 2
 Refer: 2 2468 N 1 0 0 1 0 0 2
+LCarets2: 1 0
 Ligature2: "'nukt' Nukta Forms lookup 1 subtable" bnTA bnNukta
 EndChar
 
@@ -4757,6 +4760,7 @@ Fore
 Refer: 107 2492 S 1 0 0 1 341 180 2
 Refer: 13 2471 N 1 0 0 1 0 0 2
 Validated: 1
+LCarets2: 1 0
 Ligature2: "'nukt' Nukta Forms lookup 1 subtable" bnDHA bnNukta
 EndChar
 
@@ -4774,6 +4778,7 @@ Fore
 Refer: 107 2492 S 1 0 0 1 482 82 2
 Refer: 33 2472 N 1 0 0 1 0 0 2
 Validated: 1
+LCarets2: 1 0
 Ligature2: "'nukt' Nukta Forms lookup 1 subtable" bnNA bnNukta
 EndChar
 
@@ -4800,7 +4805,7 @@ Encoding: 217 -1 148
 Width: 876
 VWidth: 0
 GlyphClass: 3
-Flags: W
+Flags: HW
 HStem: -30.752 97.9033<165.673 261> 0 21G<455.741 558.046> 432 61<559 723.115> 575 61<-14 104 139 885>
 VStem: 165.673 95.3271<-30.752 67.1514> 303 81<383.197 426.697> 493 65<75 432> 741 70<314.117 414.661>
 AnchorPoint: "anchor0" 481 637 basechar 0
@@ -4846,6 +4851,7 @@ Fore
 Refer: 107 2492 N 1 0 0 1 407 58 2
 Refer: 40 2478 N 1 0 0 1 0 0 2
 Validated: 1
+LCarets2: 1 0
 Ligature2: "'nukt' Nukta Forms lookup 1 subtable" bnMA bnNukta
 EndChar
 
@@ -4863,6 +4869,7 @@ Fore
 Refer: 107 2492 S 1 0 0 1 498 168 2
 Refer: 37 2482 N 1 0 0 1 0 0 2
 Validated: 1
+LCarets2: 1 0
 Ligature2: "'nukt' Nukta Forms lookup 1 subtable" bnLA bnNukta
 EndChar
 
@@ -4898,6 +4905,7 @@ Fore
 Refer: 107 2492 S 1 0 0 1 359 158 2
 Refer: 24 2487 N 1 0 0 1 0 0 2
 Validated: 1
+LCarets2: 1 0
 Ligature2: "'nukt' Nukta Forms lookup 1 subtable" bnSSA bnNukta
 EndChar
 
@@ -5028,7 +5036,7 @@ VWidth: 0
 Flags: W
 HStem: 24.8799 75.2969<357.924 466.004> 103 66<617.555 829.81> 275 60<751 828.655> 291 66<404.073 570.805> 438 78<743.291 830.362> 575 62<-15 385 448 987>
 VStem: 604.099 71.1387<225.992 287.05> 834 71<173.275 269.398 340.44 434.695>
-AnchorPoint: "anchor 1" 525 0 basechar 0
+AnchorPoint: "anchor 1" 397 28 basechar 0
 AnchorPoint: "anchor0" 529 637 basechar 0
 LayerCount: 2
 Back
@@ -5229,6 +5237,7 @@ Back
 Fore
 Refer: 126 2509 S 1 0 0 1 773 -4 2
 Refer: 28 2454 N 1 0 0 1 0 1 2
+LCarets2: 1 0
 Ligature2: "'half' Half Forms in Bengali lookup 6 subtable" bnKHA bnVirama
 EndChar
 
@@ -5369,6 +5378,7 @@ SplineSet
  153 516 l 25
 EndSplineSet
 Validated: 1
+LCarets2: 1 0
 Ligature2: "'half' Half Forms in Bengali lookup 6 subtable" bnCA bnVirama
 EndChar
 
@@ -5385,6 +5395,7 @@ Back
 Fore
 Refer: 126 2509 N 1 0 0 1 535 -2 2
 Refer: 31 2459 N 1 0 0 1 0 0 2
+LCarets2: 1 0
 Ligature2: "'half' Half Forms in Bengali2 lookup 7 subtable" bnCA bnVirama
 Ligature2: "'half' Half Forms in Bengali lookup 6 subtable" bnCHA bnVirama
 EndChar
@@ -6076,6 +6087,7 @@ Back
 Fore
 Refer: 126 2509 S 1 0 0 1 804 -10 2
 Refer: 156 -1 N 1 0 0 1 0 0 2
+LCarets2: 1 0
 Ligature2: "'half' Half Forms in Bengali lookup 6 subtable" bnK_SSA bnVirama
 EndChar
 
@@ -6519,6 +6531,7 @@ Fore
 Refer: 107 2492 S 1 0 0 1 416 62 2
 Refer: 40 2478 N 1 0 0 1 0 0 2
 Refer: 126 2509 N 1 0 0 1 654 -12 2
+LCarets2: 2 0 0
 Ligature2: "'half' Half Forms in Bengali lookup 6 subtable" bnMA bnNukta bnVirama
 EndChar
 
@@ -6830,6 +6843,7 @@ SplineSet
  516 0 l 1
 EndSplineSet
 Validated: 1
+LCarets2: 1 0
 Ligature2: "'pres' Pre Base Substitutions in Bengali2 lookup 12 subtable" bnGHA bnRAc2
 EndChar
 
@@ -6842,7 +6856,7 @@ Flags: W
 HStem: -181.028 72<214.382 377.107> 3.16211 75.3477<306.156 413.759> 287 70<366.085 568.437> 428 59<366 513.76> 577 57<376.724 515.907>
 VStem: 305 61<341 428 497 566.533> 518 55<491.683 573.301> 547 65<-15.0283 118> 565 47<-168.028 -141.301> 569.148 68.3691<214.161 282.735>
 AnchorPoint: "anchor0" 373 634 basechar 0
-AnchorPoint: "anchor 1" 547 0 basechar 0
+AnchorPoint: "anchor 1" 560 -155 basechar 0
 LayerCount: 2
 Back
 Fore
@@ -6905,7 +6919,7 @@ GlyphClass: 3
 Flags: W
 HStem: -31 72<193.327 360.671> 123 71<238.335 378.472> 342 70<302.084 503.695> 446 59<302 449.76> 575 61<-11 247 506 635> 587 49<309.133 453.071>
 VStem: 239 63<396 446 505 574.078> 454 55<508.84 574.636> 504 69<121 205 269.805 337.276> 526 47<-31 -4.27273>
-AnchorPoint: "anchor 1" 518 0 basechar 0
+AnchorPoint: "anchor 1" 519 -10 basechar 0
 AnchorPoint: "anchor0" 261 637 basechar 0
 LayerCount: 2
 Back
@@ -6963,8 +6977,8 @@ GlyphClass: 3
 Flags: W
 HStem: -177 72<209.382 373.402> 0 71<277.774 394.795> 575 61<-12 194 261 710>
 VStem: 194 67<86.6083 408 463 575> 520 69<-25 102> 542 47<-177 -150.273> 581 71<242.709 344.156>
+AnchorPoint: "anchor 1" 536 -159 basechar 0
 AnchorPoint: "anchor0" 344 637 basechar 0
-AnchorPoint: "anchor 1" 520 1 basechar 0
 LayerCount: 2
 Back
 Fore
@@ -7000,7 +7014,7 @@ SplineSet
  102 56 l 1
  167 -39 l 2
  206.440429688 -96.6435546875 248 -105 276 -105 c 0
- 366.757165585 -105 520 -25 520 -25 c 5
+ 366.757165585 -105 520 -25 520 -25 c 1
  520 102 l 1xf8
 EndSplineSet
 LCarets2: 1 0
@@ -7015,7 +7029,7 @@ GlyphClass: 3
 Flags: W
 HStem: -181 72<202.327 370.668> 174 82<214.064 278.305> 575 61<-12 142 209 745>
 VStem: 142 67<259.941 463 516 575> 426 70<344.436 404.48> 535 47<-181 -154.273> 591 66<254.757 377.653>
-AnchorPoint: "anchor 1" 512 0 basechar 0
+AnchorPoint: "anchor 1" 527 -160 basechar 0
 AnchorPoint: "anchor0" 344 637 basechar 0
 LayerCount: 2
 Back
@@ -7082,7 +7096,7 @@ Flags: W
 HStem: -152 72<234.382 445.201> 24.8799 75.2969<362.429 469.213> 291 66<422.08 605.81> 575 62<-13 359 422 935>
 VStem: 358 64<345 493 551.756 575> 608.099 71.1387<221.117 287.791> 732 47<-152 -125.273> 794.237 68.2441<270.881 396.423>
 AnchorPoint: "anchor0" 628 637 basechar 0
-AnchorPoint: "anchor 1" 721 0 basechar 0
+AnchorPoint: "anchor 1" 723 -129 basechar 0
 LayerCount: 2
 Back
 Fore
@@ -7140,7 +7154,7 @@ Flags: W
 HStem: -166 72<206.382 373.807> 575 61<-15 521 760 840>
 VStem: 521 65<-13 0 82 198 271 459 532 575> 539 47<-166 -139.273> 695 65<39 160 219 575>
 AnchorPoint: "anchor0" 647 637 basechar 0
-AnchorPoint: "anchor 1" 521 0 basechar 0
+AnchorPoint: "anchor 1" 532 -140 basechar 0
 LayerCount: 2
 Back
 Fore
@@ -7259,7 +7273,7 @@ GlyphClass: 3
 Flags: W
 HStem: -177 72<208.327 377.226> 0 71<277.774 389.997> 337 66<383 573.086> 575 61<-12 194 261 530 600 734> 708 64<247.082 518.718>
 VStem: 194 67<86.6083 575> 519 69<-25 102> 530 70<636 696.264> 541 47<-177 -150.273> 582 72<241.512 325.632>
-AnchorPoint: "anchor 1" 519 0 basechar 0
+AnchorPoint: "anchor 1" 532 -156 basechar 0
 LayerCount: 2
 Back
 Fore
@@ -7314,7 +7328,7 @@ GlyphClass: 3
 Flags: W
 HStem: -172 72<195.382 362.671> 0 74<316.427 405.728> 574 62<-13 254 326 679>
 VStem: 254 72<534.552 574> 506 69<-20 88.373> 528 47<-172 -145.273> 541 73<186.262 260.814>
-AnchorPoint: "anchor 1" 506 0 basechar 0
+AnchorPoint: "anchor 1" 522 -158 basechar 0
 LayerCount: 2
 Back
 Fore
@@ -7370,7 +7384,7 @@ GlyphClass: 3
 Flags: W
 HStem: -177 72<208.327 377.893> 0 71<277.774 388.694> 337 66<383 573.086> 575 61<-12 194 261 734>
 VStem: 194 67<86.6083 575> 519 69<-25 102> 541 47<-177 -150.591> 582 72<241.726 326.011>
-AnchorPoint: "anchor 1" 518 1 basechar 0
+AnchorPoint: "anchor 1" 535 -159 basechar 0
 AnchorPoint: "anchor0" 292 637 basechar 0
 LayerCount: 2
 Back
@@ -7552,7 +7566,7 @@ GlyphClass: 3
 Flags: W
 HStem: -32 72<196.327 364.64> 575 61<-10 213 280 690>
 VStem: 213 67<332 575> 502 74<119 224.778> 529 47<-32 -5.27273>
-AnchorPoint: "anchor 1" 520 0 basechar 0
+AnchorPoint: "anchor 1" 520 -12 basechar 0
 AnchorPoint: "anchor0" 341 636 basechar 0
 LayerCount: 2
 Back
@@ -7636,6 +7650,7 @@ SplineSet
  538 77 l 25x98
 EndSplineSet
 Validated: 1
+LCarets2: 1 0
 Ligature2: "'pres' Pre Base Substitutions in Bengali2 lookup 12 subtable" bnDHA bnRAc2
 EndChar
 
@@ -7680,6 +7695,7 @@ SplineSet
  576 -13 l 17xf4
 EndSplineSet
 Validated: 1
+LCarets2: 1 0
 Ligature2: "'pres' Pre Base Substitutions in Bengali2 lookup 12 subtable" bnNA bnRAc2
 EndChar
 
@@ -7745,7 +7761,7 @@ GlyphClass: 3
 Flags: W
 HStem: -165 72<223.327 388.497> 432 61<599 763.115> 575 61<-14 144 179 915>
 VStem: 343 81<383.343 431.38> 533 66<-13 0 75 432> 552 47<-165 -137.318> 781 70<321.78 414.661>
-AnchorPoint: "anchor 1" 531 0 basechar 0
+AnchorPoint: "anchor 1" 546 -152 basechar 0
 AnchorPoint: "anchor0" 526 636 basechar 0
 LayerCount: 2
 Back
@@ -7833,6 +7849,7 @@ SplineSet
  516 82 l 25
 EndSplineSet
 Validated: 1
+LCarets2: 1 0
 Ligature2: "'pres' Pre Base Substitutions in Bengali2 lookup 12 subtable" bnBA bnRAc2
 EndChar
 
@@ -7883,6 +7900,7 @@ SplineSet
  558 425 631 318 631 280 c 0xbe
 EndSplineSet
 Validated: 33
+LCarets2: 1 0
 Ligature2: "'pres' Pre Base Substitutions in Bengali2 lookup 12 subtable" bnBHA bnRAc2
 EndChar
 
@@ -7893,7 +7911,7 @@ VWidth: 0
 Flags: W
 HStem: 0 72<209.327 378.004> 315 70<417.817 497.705> 421 69<188.765 242.35> 575 61<-12 194 269 462 528 662>
 VStem: 107 65<332.246 407.748> 520 69<152 335 407.018 509.082> 542 47<0 26.7273>
-AnchorPoint: "anchor 1" 542 0 basechar 0
+AnchorPoint: "anchor 1" 540 6 basechar 0
 AnchorPoint: "anchor0" 496 638 basechar 0
 LayerCount: 2
 Back
@@ -7988,6 +8006,7 @@ SplineSet
  550 0 l 1
 EndSplineSet
 Validated: 33
+LCarets2: 1 0
 Ligature2: "'pres' Pre Base Substitutions in Bengali2 lookup 12 subtable" bnYA bnRAc2
 EndChar
 
@@ -8040,6 +8059,7 @@ SplineSet
  524 0 l 1
 EndSplineSet
 Validated: 1
+LCarets2: 1 0
 Ligature2: "'pres' Pre Base Substitutions in Bengali2 lookup 12 subtable" bnRA bnRAc2
 EndChar
 
@@ -8093,6 +8113,7 @@ SplineSet
  562 338 l 2xfc
 EndSplineSet
 Validated: 1
+LCarets2: 1 0
 Ligature2: "'pres' Pre Base Substitutions in Bengali2 lookup 12 subtable" bnLA bnRAc2
 EndChar
 
@@ -8201,6 +8222,7 @@ SplineSet
  542 335 l 17
 EndSplineSet
 Validated: 1
+LCarets2: 1 0
 Ligature2: "'blws' Below Base Substitutions lookup 19 subtable" bnSSA bnRAc2
 EndChar
 
@@ -8262,7 +8284,7 @@ GlyphClass: 3
 Flags: W
 HStem: -162 72<171.947 320.915> 443 72<192 505.565> 575 61<-12 687>
 VStem: 453 47<-162 -134.667> 527 65<302.978 421.85>
-AnchorPoint: "anchor 1" 427 0 basechar 0
+AnchorPoint: "anchor 1" 447 -150 basechar 0
 AnchorPoint: "anchor0" 516 638 basechar 0
 LayerCount: 2
 Back
@@ -8370,24 +8392,24 @@ Width: 750
 VWidth: 0
 GlyphClass: 3
 Flags: W
-HStem: -200 98<290 385> -68 72<294.327 458.301> 78 77<351.012 456.904> 403 70<397.286 612.432> 575 61<-12 332 397 761>
-VStem: 290 95<-200 -102> 332 65<457 575> 605 69<84 207> 621 69<301.227 393.209>
-AnchorPoint: "anchor 1" 609 0 basechar 0
+HStem: -200 98<230 325> -68 72<294.327 458.301> 78 77<351.012 456.904> 403 70<397.286 612.432> 575 61<-12 332 397 761>
+VStem: 230 95<-200 -102> 332 65<457 575> 605 69<84 207> 621 69<301.227 393.209>
+AnchorPoint: "anchor 1" 621 -53 basechar 0
 AnchorPoint: "anchor0" 404 636 basechar 0
 LayerCount: 2
 Back
 Fore
 SplineSet
-290 -180 m 2xfc
- 290 -123 l 2
- 290 -110 297 -102 310 -102 c 2
- 364 -102 l 2
- 379 -102 385 -110 385 -123 c 2
- 385 -180 l 2
- 385 -195 376 -200 364 -200 c 2
- 310 -200 l 2
- 298 -200 290 -192 290 -180 c 2xfc
-605 207 m 1xf9
+230 -180 m 6xfe
+ 230 -123 l 6
+ 230 -110 237 -102 250 -102 c 6
+ 304 -102 l 6
+ 319 -102 325 -110 325 -123 c 6
+ 325 -180 l 6
+ 325 -195 316 -200 304 -200 c 6
+ 250 -200 l 6
+ 238 -200 230 -192 230 -180 c 6xfe
+605 207 m 1xff
  605 207 539.998327301 148.997139703 503 119 c 0
  471.571948755 93.5190738992 443 78 411 78 c 0
  368 78 308.395523585 99.08581934 250 175 c 0
@@ -8407,7 +8429,7 @@ SplineSet
  397 575 l 25
  397 457 l 1
  397 457 497.266676479 473 557 473 c 0
- 645 473 690 411 690 351 c 0xfa80
+ 645 473 690 411 690 351 c 0xfe80
  690 313.874006572 674 291 674 291 c 1
  674 -68 l 1
  627 -68 l 1
@@ -8419,7 +8441,7 @@ SplineSet
  252 70 l 2
  291 12 333 4 361 4 c 0
  432 4 605 84 605 84 c 9
- 605 207 l 1xf9
+ 605 207 l 1xff
 EndSplineSet
 EndChar
 
@@ -8546,7 +8568,7 @@ GlyphClass: 3
 Flags: W
 HStem: -118 72<253.327 422.875> 256 73<277.014 350.583> 377 61<509.149 608 674 829.115> 456 70<155.041 231.432> 575 61<-10 243 306 453 505 608 674 994>
 VStem: 79 67<380.601 452.385> 186 72<163.136 238.238> 268 66<497.377 563.831> 358.586 72.499<319.162 383.211> 446.701 58.2988<439.431 574.97> 608 66<37 158 221 377 438 575> 626 48<-118 -91.2727> 847 70<261.002 359.661>
-AnchorPoint: "anchor 1" 608 -0 basechar 0
+AnchorPoint: "anchor 1" 619 -106 basechar 0
 AnchorPoint: "anchor0" 606 638 basechar 0
 LayerCount: 2
 Back
@@ -8751,7 +8773,7 @@ GlyphClass: 3
 Flags: W
 HStem: 575 61<-12 336 401 704>
 VStem: 336 66<1.48633 207.486 278.096 467 542 574> 578.146 71.5596<324.93 420.17>
-AnchorPoint: "anchor 1" 335 0 basechar 0
+AnchorPoint: "anchor 1" 335 -76 basechar 0
 AnchorPoint: "anchor0" 333 637 basechar 0
 LayerCount: 2
 Back
@@ -8876,7 +8898,7 @@ GlyphClass: 3
 Flags: W
 HStem: 24.8799 75.2969<329.71 437.201> 291 66<389.081 574.518> 575 62<-11 326 390 895>
 VStem: 326 63<345 493 555 575> 576.099 71.1387<225.565 287.791> 692 65<-171 35> 762.237 68.2441<271.29 396.423>
-AnchorPoint: "anchor 1" 692 0 basechar 0
+AnchorPoint: "anchor 1" 692 -248 basechar 0
 AnchorPoint: "anchor0" 419 638 basechar 0
 LayerCount: 2
 Back
@@ -8978,7 +9000,7 @@ GlyphClass: 3
 Flags: W
 HStem: 444 72<245 509.383> 575 61<-11 660>
 VStem: 480 65<-58 148> 529 71<289.818 424.92>
-AnchorPoint: "anchor 1" 480 -0 basechar 0
+AnchorPoint: "anchor 1" 480 -135 basechar 0
 AnchorPoint: "anchor0" 356 636 basechar 0
 LayerCount: 2
 Back
@@ -9157,6 +9179,7 @@ SplineSet
  434 77 l 25
 EndSplineSet
 Validated: 1
+LCarets2: 1 0
 Ligature2: "'pres' Pre Base Substitutions lookup 13 subtable" bnDHA bnBAc2
 EndChar
 
@@ -9199,6 +9222,7 @@ SplineSet
  491 -41 l 25
 EndSplineSet
 Validated: 1
+LCarets2: 1 0
 Ligature2: "'pres' Pre Base Substitutions lookup 13 subtable" bnNA bnBAc2
 EndChar
 
@@ -9244,6 +9268,7 @@ SplineSet
  447 82 l 25
 EndSplineSet
 Validated: 1
+LCarets2: 1 0
 Ligature2: "'pres' Pre Base Substitutions lookup 13 subtable" bnBA bnBAc2
 EndChar
 
@@ -9255,7 +9280,7 @@ GlyphClass: 3
 Flags: W
 HStem: 421 69<132.71 201.673> 575 61<-13 138 213 406 468 584>
 VStem: 51 63<330.564 404.771> 205.834 67.166<478.118 532.724> 392 65<46 252> 464 69<414.133 504.29>
-AnchorPoint: "anchor 1" 386 -2 basechar 0
+AnchorPoint: "anchor 1" 392 -30 basechar 0
 AnchorPoint: "anchor0" 402 635 basechar 0
 LayerCount: 2
 Back
@@ -9353,6 +9378,7 @@ SplineSet
  136.26171875 -8.43359375 127.672851562 -0.705078125 127.672851562 11.318359375 c 2
 EndSplineSet
 Validated: 1
+LCarets2: 1 0
 Ligature2: "'pres' Pre Base Substitutions lookup 13 subtable" bnRA bnBAc2
 EndChar
 
@@ -9405,6 +9431,7 @@ SplineSet
  588 -26 l 25
 EndSplineSet
 Validated: 1
+LCarets2: 1 0
 Ligature2: "'pres' Pre Base Substitutions lookup 13 subtable" bnLA bnBAc2
 EndChar
 
@@ -9479,6 +9506,7 @@ Fore
 Refer: 24 2487 N 1 0 0 1 5 -0.671875 2
 Refer: 160 -1 S 1 0 0 1 654.4 -6.7 2
 Validated: 5
+LCarets2: 1 0
 MultipleSubs2: "Multiple Substitution lookup 22 subtable" bnSSA.half bnBA
 Ligature2: "'blws' Below Base Substitutions lookup 19 subtable" bnSSA bnBAc2
 Ligature2: "'pres' Pre Base Substitutions lookup 13 subtable" bnSSA bnBAc2
@@ -9492,7 +9520,7 @@ GlyphClass: 3
 Flags: W
 HStem: 324 75<127.212 205.073> 575 61<-11 287 361 553 616 717>
 VStem: 503 65<52 258> 577 75<424.945 542.017>
-AnchorPoint: "anchor 1" 502 1 basechar 0
+AnchorPoint: "anchor 1" 502 -25 basechar 0
 AnchorPoint: "anchor0" 552 636 basechar 0
 LayerCount: 2
 Back
@@ -9572,6 +9600,7 @@ SplineSet
  808 82 l 25
 EndSplineSet
 Validated: 1
+LCarets2: 1 0
 Ligature2: "'pres' Pre Base Substitutions lookup 13 subtable" bnHA bnBAc2
 EndChar
 
@@ -9637,7 +9666,7 @@ Encoding: 354 -1 285
 Width: 679
 VWidth: 0
 GlyphClass: 3
-Flags: W
+Flags: HW
 HStem: 174.328 82<156.064 221.691> 575.328 61<-9 84 151 687>
 VStem: 84 67<260.27 461.328 516.328 575.328> 361 67.5938<-221 -14> 368 70<344.5 404.93> 533 66<255.119 378.032>
 AnchorPoint: "anchor0" 260 637 basechar 0
@@ -9645,7 +9674,7 @@ LayerCount: 2
 Back
 Fore
 Refer: 31 2459 N 1 0 0 1 5 0.328125 2
-Refer: 160 -1 N 1 0 0 1 538 -15 2
+Refer: 160 -1 S 1 0 0 1 445 20 2
 LCarets2: 1 0
 MultipleSubs2: "Multiple Substitution lookup 22 subtable" bnCHA.half bnBA
 Ligature2: "'pres' Pre Base Substitutions lookup 13 subtable" bnCHA bnBAc2
@@ -9703,6 +9732,7 @@ Back
 Fore
 Refer: 19 2463 N 1 0 0 1 2 0.328125 2
 Refer: 160 -1 N 1 0 0 1 482 25 2
+LCarets2: 1 0
 MultipleSubs2: "Multiple Substitution lookup 22 subtable" bnTTA.half bnBA
 Ligature2: "'pres' Pre Base Substitutions lookup 13 subtable" bnTTA bnBAc2
 EndChar
@@ -9720,6 +9750,7 @@ Back
 Fore
 Refer: 47 2464 S 1 0 0 1 2 0 2
 Refer: 160 -1 S 1 0 0 1 519 24 2
+LCarets2: 1 0
 MultipleSubs2: "Multiple Substitution lookup 22 subtable" bnTTHA.half bnBA
 Ligature2: "'pres' Pre Base Substitutions lookup 13 subtable" bnTTHA bnBAc2
 EndChar
@@ -9785,7 +9816,7 @@ Encoding: 362 -1 293
 Width: 882
 VWidth: 0
 GlyphClass: 3
-Flags: W
+Flags: HW
 HStem: 0 21G<459.741 562.046> 432 61<563 727.115> 575 61<-10 108 143 889>
 VStem: 307 81<383.197 426.697> 494.4 67.5938<-207.6 -0.6> 497 65<75 432> 745 70<314.117 414.661>
 AnchorPoint: "anchor0" 510 636 basechar 0
@@ -9832,6 +9863,7 @@ Fore
 Refer: 22 2479 S 1 0 0 1 2 0 2
 Refer: 160 -1 S 1 0 0 1 687.052 -1.7 2
 Validated: 5
+LCarets2: 1 0
 MultipleSubs2: "Multiple Substitution lookup 22 subtable" bnYA.half bnBA.half
 Ligature2: "'pres' Pre Base Substitutions lookup 13 subtable" bnYA bnBAc2
 EndChar
@@ -9844,7 +9876,7 @@ GlyphClass: 3
 Flags: W
 HStem: 575 61<-12 312 377 693>
 VStem: 312 65<29 235 310 467 542 574> 539.146 74.5596<96.1244 188.729> 554.146 71.5596<323.943 420.17>
-AnchorPoint: "anchor 1" 312 1 basechar 0
+AnchorPoint: "anchor 1" 312 -51 basechar 0
 AnchorPoint: "anchor0" 312 636 basechar 0
 LayerCount: 2
 Back
@@ -9907,7 +9939,7 @@ GlyphClass: 3
 Flags: W
 HStem: 107.178 62.2803<127.035 253.31> 575 61<-12 348 413 713>
 VStem: 55.6738 63.9619<14.909 99.1766> 348 66<-68 38 101 130 212 467 542 574> 573.146 71.5596<328.003 423.17>
-AnchorPoint: "anchor 1" 348 -1 basechar 0
+AnchorPoint: "anchor 1" 348 -69 basechar 0
 AnchorPoint: "anchor0" 348 637 basechar 0
 LayerCount: 2
 Back
@@ -10010,6 +10042,7 @@ Refer: 22 2479 N 1 0 0 1 0 0 2
 Refer: 107 2492 N 1 0 0 1 350 180 2
 Refer: 160 -1 N 1 0 0 1 684.4 -2 2
 Validated: 5
+LCarets2: 1 0
 MultipleSubs2: "Multiple Substitution lookup 22 subtable" bnYxA.half bnBA
 Ligature2: "'pres' Pre Base Substitutions lookup 13 subtable" bnYxA bnBAc2
 EndChar
@@ -10060,7 +10093,7 @@ GlyphClass: 3
 Flags: W
 HStem: 0.360352 70.2393<281.58 400.736> 272.84 61.4404<306 427.047> 298.353 63.7715<501.842 636.164> 449.399 66.3604<202.827 430.176> 575 61<-14 756>
 VStem: 435.04 68.7207<362.314 442.279> 483.52 71.4805<145.417 237.75> 641.002 64.7158<169.599 291.271>
-AnchorPoint: "anchor 1" 385 0 basechar 0
+AnchorPoint: "anchor 1" 312 5 basechar 0
 AnchorPoint: "anchor0" 344 634 basechar 0
 LayerCount: 2
 Back
@@ -10201,6 +10234,7 @@ SplineSet
  314 259 l 25
 EndSplineSet
 Validated: 1
+LCarets2: 1 0
 Ligature2: "'pres' Pre Base Substitutions lookup 14 subtable" bnKA.half bnMA
 EndChar
 
@@ -10212,7 +10246,7 @@ GlyphClass: 3
 Flags: W
 HStem: 71 64<100.189 219.561 297.265 384> 575 61<-12 384 449 762>
 VStem: 38 60<-34.3461 103.161> 227 46<-24 0.5> 384 65<-51 71 135 151 233 468 543 575> 609.146 71.5596<328.058 424.17>
-AnchorPoint: "anchor 1" 384 0 basechar 0
+AnchorPoint: "anchor 1" 384 -34 basechar 0
 AnchorPoint: "anchor0" 384 636 basechar 0
 LayerCount: 2
 Back
@@ -10276,7 +10310,7 @@ GlyphClass: 3
 Flags: W
 HStem: -68 71<361.555 514.044> 163 61<479 617.786> 575 61<-12 384 449 500 570 762> 708 64<211.889 488.718>
 VStem: 384 65<323 468 543 575> 500 70<636 696.221> 603.146 71.5596<330.824 428.304> 621 68<87.2254 156.554>
-AnchorPoint: "anchor 1" 552 0 basechar 0
+AnchorPoint: "anchor 1" 381 -60 basechar 0
 LayerCount: 2
 Back
 Fore
@@ -10401,6 +10435,7 @@ SplineSet
  585 9.5283203125 l 1xff
 EndSplineSet
 Validated: 33
+LCarets2: 1 0
 MultipleSubs2: "Multiple Substitution lookup 22 subtable" bnKA.half bnTT_RA
 Ligature2: "'pres' Pre Base Substitutions lookup 14 subtable" bnKA.half bnTT_RA
 EndChar
@@ -10456,6 +10491,7 @@ SplineSet
  314 259 l 25
 EndSplineSet
 Validated: 1
+LCarets2: 1 0
 Ligature2: "'pres' Pre Base Substitutions lookup 14 subtable" bnKA.half bnSA
 EndChar
 
@@ -10467,7 +10503,7 @@ GlyphClass: 3
 Flags: W
 HStem: 7.17773 62.2803<383.035 505.662> 256 73<273.014 348.892> 377 61<505.242 604 670 825.115> 456 70<151.041 227.649> 575 61<-14 239 302 449 501 604 670 990>
 VStem: 75 67<377.612 452.385> 182 72<163.05 238.238> 264 67<497.122 563.812> 311.674 63.9619<-85.3188 -0.823361> 354.586 72.4984<319.159 383.203> 449 52<439.446 574.957> 604 66<-179 -62 1 158 221 377 438 575> 843 70<264.12 359.661>
-AnchorPoint: "anchor 1" 604 0 basechar 0
+AnchorPoint: "anchor 1" 604 -170 basechar 0
 AnchorPoint: "anchor0" 602 636 basechar 0
 LayerCount: 2
 Back
@@ -10645,6 +10681,7 @@ SplineSet
  604 377 l 1
 EndSplineSet
 Validated: 33
+LCarets2: 2 0 0
 Ligature2: "'pres' Pre Base Substitutions lookup 14 subtable" bnK_SSA.half bnMA
 Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 10 subtable" bnK_SSA bnVirama bnMA
 EndChar
@@ -10771,7 +10808,7 @@ GlyphClass: 3
 Flags: W
 HStem: 150 70<489 563.965> 550 71<140.543 298.314> 575 61<489 708>
 VStem: 253.035 67.9648<278.301 371.279> 420 69<-62 145 220 502 564 575> 580 66<-132 131.659>
-AnchorPoint: "anchor 1" 421 2 basechar 0
+AnchorPoint: "anchor 1" 421 -138 basechar 0
 AnchorPoint: "anchor0" 371 635 basechar 0
 LayerCount: 2
 Back
@@ -10932,6 +10969,7 @@ SplineSet
  286 292 170 258 170 258 c 1
 EndSplineSet
 Validated: 33
+LCarets2: 1 0
 Ligature2: "'pres' Pre Base Substitutions lookup 14 subtable" bnGA.half bnMA
 EndChar
 
@@ -11048,6 +11086,7 @@ SplineSet
  218 575 l 1
 EndSplineSet
 Validated: 33
+LCarets2: 2 0 0
 Ligature2: "'pres' Pre Base Substitutions lookup 14 subtable" bnGHA.half bnNA
 Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 10 subtable" bnGHA bnVirama bnNA
 EndChar
@@ -11110,6 +11149,7 @@ SplineSet
  218 575 l 1
 EndSplineSet
 Validated: 33
+LCarets2: 2 0 0
 Ligature2: "'pres' Pre Base Substitutions lookup 14 subtable" bnGHA.half bnLA
 Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 10 subtable" bnGHA bnVirama bnLA
 EndChar
@@ -11122,7 +11162,7 @@ GlyphClass: 3
 Flags: W
 HStem: 398 42<675.25 693> 450.313 65.6865<153.827 334.536> 467.862 60.0537<495.697 579.238>
 VStem: 336 68<366.649 447.809> 520 42<-64 -16.7692>
-AnchorPoint: "anchor 1" 510 0 basechar 0
+AnchorPoint: "anchor 1" 510 -46 basechar 0
 AnchorPoint: "anchor0" 436 636 basechar 0
 LayerCount: 2
 Back
@@ -11305,6 +11345,7 @@ SplineSet
  495 575 l 1
 EndSplineSet
 Validated: 33
+LCarets2: 1 0
 Ligature2: "'pres' Pre Base Substitutions lookup 14 subtable" bnNGA.half bnGHA
 EndChar
 
@@ -11476,6 +11517,7 @@ SplineSet
  303.251558209 587 291 582.650678812 291 505 c 1
 EndSplineSet
 Validated: 33
+LCarets2: 1 0
 Ligature2: "'pres' Pre Base Substitutions lookup 14 subtable" bnNGA.half bnMA
 EndChar
 
@@ -11487,7 +11529,7 @@ GlyphClass: 3
 Flags: W
 HStem: 0 71<520.774 638.331> 134 71<147.774 278.449> 575 61<-10 64 131 437 504 993>
 VStem: 64 67<220.608 464.205 515 575> 423 81<320.892 407.228> 437 67<86.6083 265 465 575> 824 71<242.424 344.056>
-AnchorPoint: "anchor 1" 587 0 basechar 0
+AnchorPoint: "anchor 1" 537 5 basechar 0
 AnchorPoint: "anchor0" 535 636 basechar 0
 LayerCount: 2
 Back
@@ -11543,7 +11585,7 @@ VWidth: 0
 Flags: W
 HStem: 134 71<143.774 275.377> 575 61<-10 60 127 419 486 1010>
 VStem: 60 67<220.608 464.205 515 575> 419 67<320.892 409.612 516 575> 703 70<348.169 404.566> 868 66<254.815 377.565>
-AnchorPoint: "anchor 1" 637 1 basechar 0
+AnchorPoint: "anchor 1" 727 1 basechar 0
 AnchorPoint: "anchor0" 631 637 basechar 0
 LayerCount: 2
 Back
@@ -11682,7 +11724,7 @@ GlyphClass: 3
 Flags: W
 HStem: 47.1777 62.2803<180.418 306.781> 134 71<169.774 300.21> 575 61<-10 86 153 588>
 VStem: 86 67<220.608 464.205 515 575> 109.057 63.9619<-45.2703 39.1766> 402 67.3828<-128 -22 41 208.364> 445 65<321.213 409.492>
-AnchorPoint: "anchor 1" 402 0 basechar 0
+AnchorPoint: "anchor 1" 402 -120 basechar 0
 AnchorPoint: "anchor0" 328 637 basechar 0
 LayerCount: 2
 Back
@@ -11813,7 +11855,7 @@ GlyphClass: 3
 Flags: W
 HStem: -174 72<371.382 538.893> 134 71<143.774 275.377> 575 61<-10 60 127 419 486 1010>
 VStem: 60 67<220.608 464.205 515 575> 419 67<320.892 409.344 516 575> 703 70<345.262 404.549> 704 47<-174 -147.273> 868 66<254.768 377.586>
-AnchorPoint: "anchor 1" 682 1 basechar 0
+AnchorPoint: "anchor 1" 694 -153 basechar 0
 AnchorPoint: "anchor0" 658 636 basechar 0
 LayerCount: 2
 Back
@@ -11890,7 +11932,7 @@ GlyphClass: 3
 Flags: W
 HStem: -149.12 75.2969<715.332 823.021> 50.8799 75.2969<322.936 431.046> 117 66<775.08 958.81> 317 66<383.08 568.173> 575 61<-15 320 383 1259>
 VStem: 320 63<371 493 555 575> 569.099 71.1387<252.299 313.791> 712 63<171 289 351 401.84> 961.099 71.1387<53.376 113.791> 1132.24 68.2441<80.8379 194.602>
-AnchorPoint: "anchor 1" 1088 0 basechar 0
+AnchorPoint: "anchor 1" 1068 -163 basechar 0
 AnchorPoint: "anchor0" 830 635 basechar 0
 LayerCount: 2
 Back
@@ -11960,7 +12002,7 @@ GlyphClass: 3
 Flags: W
 HStem: 53.8799 75.2969<322.618 431.021> 320 66<382.076 568.173> 575 61<-15 320 383 866 931 1009>
 VStem: 320 62<374 493 555 575> 569.099 71.1387<260.889 316.791> 688.406 67.5938<-151 -108 -35 56> 755.237 68.2441<275.369 396.397> 866 65<-200 -146 -87 575>
-AnchorPoint: "anchor 1" 688 1 basechar 0
+AnchorPoint: "anchor 1" 689 -227 basechar 0
 LayerCount: 2
 Back
 Fore
@@ -12164,7 +12206,7 @@ GlyphClass: 3
 Flags: W
 HStem: 162 65<252.692 343.513> 560.385 71.6152<394.835 458.653>
 VStem: 435.195 61<299.367 319>
-AnchorPoint: "anchor 1" 528 -1 basechar 0
+AnchorPoint: "anchor 1" 498 -1 basechar 0
 AnchorPoint: "anchor0" 418 637 basechar 0
 LayerCount: 2
 Back
@@ -12234,7 +12276,7 @@ GlyphClass: 3
 Flags: W
 HStem: -38.1201 74.2969<328.326 435.307> 206 66<367.076 546.271> 559.385 71.6152<426.976 487.841>
 VStem: 547.099 71.1387<136.319 202.791> 691.237 71.2441<148.577 254.205>
-AnchorPoint: "anchor 1" 632 0 basechar 0
+AnchorPoint: "anchor 1" 632 -40 basechar 0
 AnchorPoint: "anchor0" 406 636 basechar 0
 LayerCount: 2
 Back
@@ -12305,7 +12347,7 @@ GlyphClass: 3
 Flags: W
 HStem: 148 72<235.741 387.039> 225 51<571 664.334> 356 56<635 700.962> 487 59<571.974 699.306> 563 73<343.185 479.981>
 VStem: 502 69<-87 -55 18 118 191 225 300 484.693> 665 65<-138 -84 -25 220> 703 62<282.09 352.155 416.854 483.936>
-AnchorPoint: "anchor 1" 501 -69 basechar 0
+AnchorPoint: "anchor 1" 503 -165 basechar 0
 AnchorPoint: "anchor0" 461 636 basechar 0
 LayerCount: 2
 Back
@@ -12372,7 +12414,7 @@ GlyphClass: 3
 Flags: W
 HStem: -20.3564 73.9111<202.519 351.767> 134 71<254.774 371.814> 427 59<347 520.888> 575 61<-13 171 238 495 565 673> 708 64<208.493 482.604>
 VStem: 171 67<220.608 574> 495 70<636 696.221> 530 65<325.686 415.551>
-AnchorPoint: "anchor 1" 307 0 basechar 0
+AnchorPoint: "anchor 1" 284 -9 basechar 0
 LayerCount: 2
 Back
 Fore
@@ -12472,6 +12514,7 @@ SplineSet
  570 223 570 575 570 575 c 1
 EndSplineSet
 Validated: 1
+LCarets2: 1 0
 Ligature2: "'pres' Pre Base Substitutions lookup 14 subtable" bnTTA.half bnMA
 EndChar
 
@@ -12483,7 +12526,7 @@ GlyphClass: 3
 Flags: W
 HStem: 0 71<452.774 563.966> 337 66<558 748.086> 538.592 68.252<156.512 312.777> 575 61<436 705 775 909> 708 64<422.174 692.816>
 VStem: 63.3555 68.3916<414.618 513.054> 369 67<86.6083 497 566.763 575> 705 70<636 696.157> 757 72<241.198 323.883>
-AnchorPoint: "anchor 1" 528 0 basechar 0
+AnchorPoint: "anchor 1" 468 9 basechar 0
 LayerCount: 2
 Back
 Fore
@@ -12534,7 +12577,7 @@ GlyphClass: 3
 Flags: W
 HStem: 0.328125 71<451.774 563.388> 337.328 66<557 747.012> 420.554 71.4463<136.261 276.533> 708.328 64<421.22 694.256>
 VStem: 41.3555 70.3916<294.126 395.766> 368 67<86.8012 166.328> 704 70<636.328 696.549> 756 72<241.741 325.897>
-AnchorPoint: "anchor 1" 534 0 basechar 0
+AnchorPoint: "anchor 1" 473 5 basechar 0
 LayerCount: 2
 Back
 Fore
@@ -12585,10 +12628,10 @@ Encoding: 412 -1 343
 Width: 1001
 VWidth: 0
 GlyphClass: 3
-Flags: HW
+Flags: W
 HStem: 0 71<594.774 702.861> 337 66<685 875.086> 549 70<216.38 356.443> 575 61<578 832 902 1008> 708 64<547.831 821.09>
 VStem: 511 67<86.6083 396 470 575> 832 70<636 696.221> 884 72<241.264 326.011>
-AnchorPoint: "anchor 1" 677 0 basechar 0
+AnchorPoint: "anchor 1" 617 4 basechar 0
 LayerCount: 2
 Back
 Fore
@@ -12644,10 +12687,10 @@ Encoding: 413 -1 344
 Width: 825
 VWidth: 0
 GlyphClass: 3
-Flags: HW
+Flags: W
 HStem: -101 71<435.774 556.993> 181 59<513 689.087> 455 61<482 540.7> 708.328 64<321.379 596.718>
 VStem: 353 66<-14.3917 65> 559 70<336.911 437.661> 608 70<636 696.427> 696 65<79.9451 169.424>
-AnchorPoint: "anchor 1" 542 0 basechar 0
+AnchorPoint: "anchor 1" 451 -96 basechar 0
 LayerCount: 2
 Back
 Fore
@@ -12692,7 +12735,7 @@ SplineSet
  353 265 l 1
  139 382 l 1
  139 382 235.920898438 416.293945312 253 436 c 0
- 279 466 273.095703125 515.45703125 217 539 c 4
+ 279 466 273.095703125 515.45703125 217 539 c 0
  141.573242188 570.65625 106 575 106 575 c 1
  832 575 l 25
  832 636 l 1
@@ -12708,10 +12751,10 @@ Encoding: 414 -1 345
 Width: 960
 VWidth: 0
 GlyphClass: 3
-Flags: HW
+Flags: W
 HStem: 0 71<529.774 640.966> 337 66<635 825.012> 422 64<117.875 171 200 253.585 363.319 428> 708 64<498.908 770.718>
 VStem: 32 65<253.929 399.936> 275 52<268 304.909> 446 67<86.6083 166> 782 70<636 696.221> 834 72<241.198 323.869>
-AnchorPoint: "anchor 1" 518 0 basechar 0
+AnchorPoint: "anchor 1" 548 6 basechar 0
 LayerCount: 2
 Back
 Fore
@@ -12768,10 +12811,10 @@ Encoding: 415 -1 346
 Width: 845
 VWidth: 0
 GlyphClass: 3
-Flags: HW
+Flags: W
 HStem: 0 71<409.563 525.966> 337 66<538 710.086> 575 61<-14 77 141 372 432 647 717 856> 708 64<363.908 635.718>
 VStem: 40.7046 62.2209<406.674 506.56> 406 63<425.31 542.441> 647 70<636 696.221> 719 72<241.198 323.883>
-AnchorPoint: "anchor 1" 488 0 basechar 0
+AnchorPoint: "anchor 1" 438 5 basechar 0
 LayerCount: 2
 Back
 Fore
@@ -12825,10 +12868,10 @@ Encoding: 416 -1 347
 Width: 1000
 VWidth: 0
 GlyphClass: 3
-Flags: HW
+Flags: W
 HStem: 0 71<596.774 707.966> 324 75<81.1662 159.561 401.673 482.828> 337 66<702 892.086> 575 61<-14 241 315 513 580 849 919 1011> 708 64<565.908 837.718>
 VStem: 513 67<86.6083 352 430.206 575> 849 70<636 696.221> 901 72<241.198 323.883>
-AnchorPoint: "anchor 1" 668 0 basechar 0
+AnchorPoint: "anchor 1" 621 4 basechar 0
 LayerCount: 2
 Back
 Fore
@@ -12936,6 +12979,7 @@ SplineSet
  771.266601562 176 l 17xfe80
 EndSplineSet
 Validated: 41
+LCarets2: 1 0
 Ligature2: "'pres' Pre Base Substitutions lookup 14 subtable" bnNNA.half bnTT_RA
 EndChar
 
@@ -13001,6 +13045,7 @@ SplineSet
  790 202 771.266601562 176 771.266601562 176 c 9xff20
 EndSplineSet
 Validated: 1
+LCarets2: 1 0
 Ligature2: "'pres' Pre Base Substitutions lookup 14 subtable" bnNA.half bnTT_RA
 EndChar
 
@@ -13074,6 +13119,7 @@ SplineSet
  856.589772982 187.415178905 847.266601562 176 847.266601562 176 c 9xff90
 EndSplineSet
 Validated: 1
+LCarets2: 1 0
 Ligature2: "'pres' Pre Base Substitutions lookup 14 subtable" bnLA.half bnTT_RA
 EndChar
 
@@ -13142,6 +13188,7 @@ SplineSet
  385 424 l 1
 EndSplineSet
 Validated: 33
+LCarets2: 1 0
 MultipleSubs2: "Multiple Substitution lookup 22 subtable" bnSSA.half bnTT_RA
 Ligature2: "'pres' Pre Base Substitutions lookup 14 subtable" bnSSA.half bnTT_RA
 EndChar
@@ -13210,6 +13257,7 @@ SplineSet
  466 399 513 448 513 468 c 9
 EndSplineSet
 Validated: 33
+LCarets2: 1 0
 Ligature2: "'pres' Pre Base Substitutions lookup 14 subtable" bnSA.half bnTT_RA
 EndChar
 
@@ -13221,7 +13269,7 @@ GlyphClass: 3
 Flags: W
 HStem: -0.356445 74.9111<670.265 778.6> 112 75<269.401 373.513> 358 70<705.16 918.586> 397 61<337.056 496.422> 575 61.3281<-12 272 337 640 705 1063>
 VStem: 272 65<447 575> 501 67<310.487 389.061> 640 65<412 575> 928.639 69.3633<240.464 347.349>
-AnchorPoint: "anchor 1" 742 0 basechar 0
+AnchorPoint: "anchor 1" 704 3 basechar 0
 AnchorPoint: "anchor0" 722 639 basechar 0
 LayerCount: 2
 Back
@@ -13320,6 +13368,7 @@ SplineSet
  582 287 528.713187477 237.695138982 399 136 c 1
 EndSplineSet
 Validated: 1
+LCarets2: 1 0
 Ligature2: "'pres' Pre Base Substitutions lookup 14 subtable" bnDDA.half bnMA
 EndChar
 
@@ -13477,7 +13526,7 @@ GlyphClass: 3
 Flags: W
 HStem: 0 76.5547<416.53 519.755> 358 70<460.404 675.832> 444.226 71.4463<133.366 286.681> 575 61<-14 395 460 810>
 VStem: 46.3555 70.3916<320.121 427.881> 395 65<460 575> 683.639 69.3633<247.076 348.044>
-AnchorPoint: "anchor 1" 491 0 basechar 0
+AnchorPoint: "anchor 1" 446 4 basechar 0
 AnchorPoint: "anchor0" 442 635 basechar 0
 LayerCount: 2
 Back
@@ -13591,7 +13640,7 @@ GlyphClass: 3
 Flags: W
 HStem: 0 76.5547<510.53 613.78> 358 70<554.474 766.702> 422 64<160.875 296.585 406.319 489> 575 61<-14 489 554 912>
 VStem: 75 65<255.22 399.936> 318 52<268 304.909> 489 65<412 422 486 575> 777.639 69.3633<242.965 347.309>
-AnchorPoint: "anchor 1" 568 0 basechar 0
+AnchorPoint: "anchor 1" 538 4 basechar 0
 AnchorPoint: "anchor0" 557 637 basechar 0
 LayerCount: 2
 Back
@@ -13719,7 +13768,7 @@ GlyphClass: 3
 Flags: W
 HStem: 25 73<335.101 470.405> 346 63<473 510.427> 569.592 66.252<244.077 353.892>
 VStem: 521 69<414.879 483 525 560.467> 572 71<184.875 305.582>
-AnchorPoint: "anchor 1" 434 0 basechar 0
+AnchorPoint: "anchor 1" 378 29 basechar 0
 AnchorPoint: "anchor0" 339 636 basechar 0
 LayerCount: 2
 Back
@@ -13771,7 +13820,7 @@ GlyphClass: 3
 Flags: W
 HStem: -152 72<237.382 401.992> 25 73<336.056 470.405> 346 63<473 510.427> 569.592 66.252<244.077 353.892>
 VStem: 521 69<414.556 561.268> 572 71<184.495 305.582> 572 45.4961<-152 -127.5>
-AnchorPoint: "anchor 1" 548 0 basechar 0
+AnchorPoint: "anchor 1" 565 -140 basechar 0
 AnchorPoint: "anchor0" 339 636 basechar 0
 LayerCount: 2
 Back
@@ -13779,7 +13828,7 @@ Fore
 SplineSet
 548 87.5048828125 m 9xf4
  548 0 l 1
- 546.263955893 -0.925862720254 395.282668163 -80 304 -80 c 0
+ 546.263671875 -0.92578125 395.282668163 -80 304 -80 c 0
  276 -80 234.440429688 -71.6435546875 195 -14 c 2
  130 81 l 1
  83 51 l 1
@@ -13834,7 +13883,7 @@ GlyphClass: 3
 Flags: W
 HStem: -0.148438 74.1484<395.323 481.497> 525 68.4082<131.995 249.9> 575 61<403 748>
 VStem: 40.0195 68.3916<393.3 501.09> 618 73<186.759 263.178>
-AnchorPoint: "anchor 1" 445 1 basechar 0
+AnchorPoint: "anchor 1" 412 7 basechar 0
 LayerCount: 2
 Back
 Fore
@@ -13883,7 +13932,7 @@ GlyphClass: 3
 Flags: W
 HStem: -0.148438 74.1484<464.162 541.875> 420.554 70.1729<149.516 298.592> 575.328 61<-10.0605 391.939 463.939 811.939>
 VStem: 57.2949 68.3916<287.495 396.178> 391.939 72<535.47 575.179> 678.939 73<186.755 263.199>
-AnchorPoint: "anchor 1" 509 1 basechar 0
+AnchorPoint: "anchor 1" 473 8 basechar 0
 LayerCount: 2
 Back
 Fore
@@ -13933,10 +13982,10 @@ StartChar: bnSS_TTH
 Encoding: 434 -1 365
 Width: 735
 GlyphClass: 3
-Flags: HW
-HStem: -0.148438 74.1484<507.951 586.906> 575 61<-14 183 247 436.348 508.502 861.408>
-VStem: 146.704 62.2217<405.534 506.56> 436.348 72.1543<534.028 575> 723.408 73<186.759 263.116>
-AnchorPoint: "anchor 1" 468 0 basechar 0
+Flags: W
+HStem: -0.148438 74.1484<407.951 486.906> 575 61<-14 83 147 336.348 408.502 744.408>
+VStem: 46.7041 62.2217<405.534 506.56> 336.348 72.1543<534.028 575> 623.408 73<186.759 263.116>
+AnchorPoint: "anchor 1" 418 6 basechar 0
 LayerCount: 2
 Back
 Fore
@@ -13993,7 +14042,7 @@ GlyphClass: 3
 Flags: W
 HStem: 0.328125 71<440.774 551.966> 337.328 66<546 736.086> 538.592 68.252<144.984 288.281> 575.328 61<424 877>
 VStem: 51.3555 68.3916<406.983 513.045> 357 67<86.8012 496.908 558.619 575.328> 745 72<241.526 324.211>
-AnchorPoint: "anchor 1" 521 0 basechar 0
+AnchorPoint: "anchor 1" 448 8 basechar 0
 AnchorPoint: "anchor0" 531 638 basechar 0
 LayerCount: 2
 Back
@@ -14183,6 +14232,7 @@ SplineSet
  652 209.666992188 652 575 652 575 c 1
 EndSplineSet
 Validated: 1
+LCarets2: 1 0
 Ligature2: "'pres' Pre Base Substitutions lookup 14 subtable" bnNNA.half bnMA
 EndChar
 
@@ -14194,7 +14244,7 @@ GlyphClass: 3
 Flags: W
 HStem: 0.360352 70.2393<281.678 400.736> 272.84 61.4404<306 428.212> 449.399 66.3604<202.956 431.022> 575 61.3281<-14 627>
 VStem: 435.04 68.96<338.166 442.31> 483.52 71.4805<144.608 237.436>
-AnchorPoint: "anchor 1" 355 0 basechar 0
+AnchorPoint: "anchor 1" 308 5 basechar 0
 AnchorPoint: "anchor0" 356 636 basechar 0
 LayerCount: 2
 Back
@@ -14205,30 +14255,30 @@ SplineSet
  627 575 l 25
  -14 575 l 1
  -14 636.328125 l 9xf0
-484 317 m 5
- 484 317 555 235.063552031 555 182.919921875 c 4
- 555 138.919921875 497.080078125 66.3603515625 414.360351562 19.7197265625 c 4
- 389.719726562 5.6396484375 358.040039062 0.3603515625 336.919921875 0.3603515625 c 4
- 286.759765625 0.3603515625 235.599622391 22.9280855889 169.719726562 110.360351562 c 4
- 118 179 48 325 48 325 c 5
- 86.3203125 347.120117188 l 5
- 228.639648438 150.559570312 l 6
- 259.889648438 106.959960938 292.360351562 70.599609375 339.799804688 70.599609375 c 4
- 377.639648438 70.599609375 417.040039062 102.919921875 431.120117188 114.360351562 c 4
- 478.639648438 152.200195312 483.51953125 180.280273438 483.51953125 190.83984375 c 4xf4
- 483.51953125 206.599609375 448.48046875 272.83984375 418.51953125 272.83984375 c 5
- 306 272.83984375 l 5
- 306 334.280273438 l 5
- 306 334.280273438 380.200195312 334.280273438 393.400390625 334.280273438 c 4
- 424.719726562 334.280273438 430 350 433.280273438 384.080078125 c 4
- 434.940429688 401.333007812 435.040039062 396.599609375 435.040039062 408.040039062 c 4
- 435.040039062 444.119140625 406 449.399414062 358.48046875 449.399414062 c 4
- 313.600585938 449.399414062 204.200195312 449.279296875 204.200195312 449.279296875 c 5
- 197.16015625 499.040039062 l 5
- 197.16015625 499.040039062 298.360351562 515.759765625 361.720703125 515.759765625 c 4
- 473.48046875 515.759765625 503.760742188 490.239257812 503.760742188 437.439453125 c 4
- 503.760742188 423.359375 504 392.374023438 504 374 c 4xf8
- 504 341 484 317 484 317 c 5
+484 317 m 1
+ 484 317 555 235.063552031 555 182.919921875 c 0
+ 555 138.919921875 497.080078125 66.3603515625 414.360351562 19.7197265625 c 0
+ 389.719726562 5.6396484375 358.040039062 0.3603515625 336.919921875 0.3603515625 c 0
+ 286.759765625 0.3603515625 235.599622391 22.9280855889 169.719726562 110.360351562 c 0
+ 118 179 48 325 48 325 c 1
+ 86.3203125 347.120117188 l 1
+ 228.639648438 150.559570312 l 2
+ 259.889648438 106.959960938 292.360351562 70.599609375 339.799804688 70.599609375 c 0
+ 377.639648438 70.599609375 417.040039062 102.919921875 431.120117188 114.360351562 c 0
+ 478.639648438 152.200195312 483.51953125 180.280273438 483.51953125 190.83984375 c 0xf4
+ 483.51953125 206.599609375 448.48046875 272.83984375 418.51953125 272.83984375 c 1
+ 306 272.83984375 l 1
+ 306 334.280273438 l 1
+ 306 334.280273438 380.200195312 334.280273438 393.400390625 334.280273438 c 0
+ 424.719726562 334.280273438 430 350 433.280273438 384.080078125 c 0
+ 434.940429688 401.333007812 435.040039062 396.599609375 435.040039062 408.040039062 c 0
+ 435.040039062 444.119140625 406 449.399414062 358.48046875 449.399414062 c 0
+ 313.600585938 449.399414062 204.200195312 449.279296875 204.200195312 449.279296875 c 1
+ 197.16015625 499.040039062 l 1
+ 197.16015625 499.040039062 298.360351562 515.759765625 361.720703125 515.759765625 c 0
+ 473.48046875 515.759765625 503.760742188 490.239257812 503.760742188 437.439453125 c 0
+ 503.760742188 423.359375 504 392.374023438 504 374 c 0xf8
+ 504 341 484 317 484 317 c 1
 EndSplineSet
 LCarets2: 2 0 0
 Ligature2: "'pres' Pre Base Substitutions lookup 14 subtable" bnTA.half bnTA
@@ -14312,7 +14362,7 @@ GlyphClass: 3
 Flags: W
 HStem: 47.1777 62.2803<272.035 398.582> 118 68<323.593 448.776> 444 72<259 531.346> 575 61<-14 785>
 VStem: 200.674 63.9619<-45.2871 39.1766> 493 68<-128 -22 41 158> 549 69<306.523 424.972>
-AnchorPoint: "anchor 1" 493 0 basechar 0
+AnchorPoint: "anchor 1" 493 -120 basechar 0
 AnchorPoint: "anchor0" 402 637 basechar 0
 LayerCount: 2
 Back
@@ -14406,6 +14456,7 @@ SplineSet
  692 575 l 17
 EndSplineSet
 Validated: 9
+LCarets2: 2 0 0
 Ligature2: "'pres' Pre Base Substitutions lookup 14 subtable" bnTA.half bnMA
 Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 10 subtable" bnTA bnVirama bnMA
 EndChar
@@ -14418,7 +14469,7 @@ GlyphClass: 3
 Flags: W
 HStem: 37 64<202.189 321.561 399.265 486> 118 68<299.593 424.739> 444 72<235 507.346> 575 61<-14 660>
 VStem: 329 46<-58 -33.5> 486 65<-85 37 101 176> 525 69<303.176 424.972>
-AnchorPoint: "anchor 1" 486 0 basechar 0
+AnchorPoint: "anchor 1" 486 -80 basechar 0
 AnchorPoint: "anchor0" 382 636 basechar 0
 LayerCount: 2
 Back
@@ -14580,6 +14631,7 @@ SplineSet
  -11 636.328125 l 1
 EndSplineSet
 Validated: 1
+LCarets2: 1 0
 Ligature2: "'pres' Pre Base Substitutions lookup 14 subtable" bnDA.half bnGHA
 EndChar
 
@@ -14774,6 +14826,7 @@ SplineSet
  564 121 564 575 564 575.328125 c 1
 EndSplineSet
 Validated: 1
+LCarets2: 1 0
 Ligature2: "'pres' Pre Base Substitutions lookup 14 subtable" bnDA.half bnMA
 EndChar
 
@@ -14829,7 +14882,7 @@ GlyphClass: 3
 Flags: W
 HStem: -68 72<434.922 575.633> 420.554 69.1729<151.187 296.501> 575.328 61<-15 381.9 448.9 838>
 VStem: 59.3555 68.3916<288.411 396.178> 381.9 67<332 368 434 574.656> 694 69<72.4618 374> 716 47<-68 -41.2727>
-AnchorPoint: "anchor 1" 698 0 basechar 0
+AnchorPoint: "anchor 1" 710 -55 basechar 0
 AnchorPoint: "anchor0" 562 635 basechar 0
 LayerCount: 2
 Back
@@ -14987,7 +15040,7 @@ GlyphClass: 3
 Flags: W
 HStem: 426 64<132.875 298.585 408.319 535.989> 575 61.3281<-14 536 603 994>
 VStem: 47 65<256.845 403.936> 320 52<272 308.909> 536 67<332 413 482 575>
-AnchorPoint: "anchor 1" 797 0 basechar 0
+AnchorPoint: "anchor 1" 798 0 basechar 0
 AnchorPoint: "anchor0" 747 637 basechar 0
 LayerCount: 2
 Back
@@ -15176,6 +15229,7 @@ SplineSet
  447 170 l 1
 EndSplineSet
 Validated: 33
+LCarets2: 2 0 0
 Ligature2: "'pres' Pre Base Substitutions lookup 14 subtable" bnDHA.half bnNA
 Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 10 subtable" bnDHA bnVirama bnNA
 EndChar
@@ -15228,7 +15282,7 @@ GlyphClass: 3
 Flags: W
 HStem: -106 74<335.367 458.916> 95 63<329.605 499.751> 575.328 61<-11 209 276 771>
 VStem: 209 67<381 574.656> 265.1 64<159.909 224.152> 620.1 81<79.0918 142.528>
-AnchorPoint: "anchor 1" 505 1 basechar 0
+AnchorPoint: "anchor 1" 366 -100 basechar 0
 AnchorPoint: "anchor0" 442 635 basechar 0
 LayerCount: 2
 Back
@@ -15326,7 +15380,7 @@ GlyphClass: 3
 Flags: W
 HStem: -68 72<267.96 429.296> 125 66.4141<378.29 546.885> 169 80<568.983 615.951> 575.328 61<-11 112.9 179.9 794>
 VStem: 112.9 67<381 575.254> 310 68<192.952 267.365> 424.722 70.2783<327 412> 616 69<81.69 168.993> 638 47<-68 -41.2727>
-AnchorPoint: "anchor 1" 620 -1 basechar 0
+AnchorPoint: "anchor 1" 634 -61 basechar 0
 AnchorPoint: "anchor0" 442 635 basechar 0
 LayerCount: 2
 Back
@@ -15435,6 +15489,7 @@ SplineSet
  447 170 l 1
 EndSplineSet
 Validated: 33
+LCarets2: 2 0 0
 Ligature2: "'pres' Pre Base Substitutions lookup 14 subtable" bnDHA.half bnMA
 Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 10 subtable" bnDHA bnVirama bnMA
 EndChar
@@ -15447,7 +15502,7 @@ GlyphClass: 3
 Flags: W
 HStem: 288 67<252.069 381>
 VStem: 474 67<433.098 547.054> 492 64<193.288 277.802>
-AnchorPoint: "anchor 1" 309 0 basechar 0
+AnchorPoint: "anchor 1" 392 -40 basechar 0
 AnchorPoint: "anchor0" 442 635 basechar 0
 LayerCount: 2
 Back
@@ -15559,7 +15614,7 @@ GlyphClass: 3
 Flags: W
 HStem: -30 68<324.676 449.801> 285 124<384.52 449.372> 285 72<456 537.781> 285 53<270 318.56>
 VStem: 474 67<433.501 544.953> 554 69<158.357 268.598>
-AnchorPoint: "anchor 1" 442 0 basechar 0
+AnchorPoint: "anchor 1" 372 -26 basechar 0
 AnchorPoint: "anchor0" 492 635 basechar 0
 LayerCount: 2
 Back
@@ -15612,7 +15667,7 @@ GlyphClass: 3
 Flags: W
 HStem: 254 70<438 511.389> 457.178 62.2803<149.17 270.812>
 VStem: 77.8096 63.9619<364.713 449.177> 529 66<-28 237.028>
-AnchorPoint: "anchor 1" 373 1 basechar 0
+AnchorPoint: "anchor 1" 373 -34 basechar 0
 AnchorPoint: "anchor0" 437 635 basechar 0
 LayerCount: 2
 Back
@@ -15701,6 +15756,7 @@ SplineSet
  385 -10 l 9
 EndSplineSet
 Validated: 1
+LCarets2: 1 0
 Ligature2: "'pres' Pre Base Substitutions lookup 14 subtable" bnNA.half bnNA
 EndChar
 
@@ -15756,6 +15812,7 @@ SplineSet
  530 293 530 575 530 575 c 13
 EndSplineSet
 Validated: 1
+LCarets2: 1 0
 Ligature2: "'pres' Pre Base Substitutions lookup 14 subtable" bnNA.half bnMA
 EndChar
 
@@ -15812,6 +15869,7 @@ SplineSet
  636.71875 361.12109375 685 341 685 341 c 9
 EndSplineSet
 Validated: 1
+LCarets2: 1 0
 Ligature2: "'pres' Pre Base Substitutions lookup 14 subtable" bnNA.half bnSA
 EndChar
 
@@ -15938,7 +15996,7 @@ GlyphClass: 3
 Flags: W
 HStem: -206 68<174.936 302.027> 254 70<494.9 567.785> 457.178 61.2803<202.821 330.531> 575 61<-14 425 495 710>
 VStem: 132.71 63.9619<365.082 449.611> 426.9 68<-57 -34 42 249 324 388 448 575> 448.9 46<-206 -179.273> 583.9 66<-28 237.515>
-AnchorPoint: "anchor 1" 427 0 basechar 0
+AnchorPoint: "anchor 1" 443 -190 basechar 0
 AnchorPoint: "anchor0" 512 635 basechar 0
 LayerCount: 2
 Back
@@ -16119,7 +16177,7 @@ GlyphClass: 3
 Flags: W
 HStem: -105 68<391.864 515.801> 210 72<336 553.796> 550 68<263.493 397.441>
 VStem: 620 69<72.4003 193.622>
-AnchorPoint: "anchor 1" 565 0 basechar 0
+AnchorPoint: "anchor 1" 427 -100 basechar 0
 AnchorPoint: "anchor0" 497 637 basechar 0
 LayerCount: 2
 Back
@@ -16230,6 +16288,7 @@ SplineSet
  741 228 741 575 741 575 c 9xde
 EndSplineSet
 Validated: 1
+LCarets2: 1 0
 Ligature2: "'pres' Pre Base Substitutions lookup 14 subtable" bnPA.half bnMA
 EndChar
 
@@ -16355,6 +16414,7 @@ SplineSet
  815.211591923 361.389369883 864 341 864 341 c 9
 EndSplineSet
 Validated: 1
+LCarets2: 1 0
 Ligature2: "'pres' Pre Base Substitutions lookup 14 subtable" bnPA.half bnSA
 EndChar
 
@@ -16512,7 +16572,7 @@ GlyphClass: 3
 Flags: W
 HStem: 85 68<202 268.866 378.929 451> 455 61<518 666.077> 575 61<-13 132 172 826>
 VStem: 62 65<-49.6949 69.2406> 292 52<-56 -13> 451 67<-80 84 148 190 258 455> 684 72<329.559 436.249>
-AnchorPoint: "anchor 1" 451 0 basechar 0
+AnchorPoint: "anchor 1" 451 -68 basechar 0
 AnchorPoint: "anchor0" 497 637 basechar 0
 LayerCount: 2
 Back
@@ -16631,7 +16691,7 @@ GlyphClass: 3
 Flags: W
 HStem: 254 71<422 495.327> 575 61<-12 356 422 654>
 VStem: 356 65.5488<42 249 325 469 542 575> 513.549 66<-27.8954 234.102>
-AnchorPoint: "anchor 1" 356 0 basechar 0
+AnchorPoint: "anchor 1" 356 -34 basechar 0
 AnchorPoint: "anchor0" 427 637 basechar 0
 LayerCount: 2
 Back
@@ -16680,7 +16740,7 @@ GlyphClass: 3
 Flags: W
 HStem: -125 74<332.417 455.817> 76 63<326.506 498.227> 575 61<-10 518 584 768>
 VStem: 262 64<140.909 205.152> 519 65<264 473 545 575> 617 81<60.0918 124.283>
-AnchorPoint: "anchor 1" 420 1 basechar 0
+AnchorPoint: "anchor 1" 364 -120 basechar 0
 AnchorPoint: "anchor0" 517 637 basechar 0
 LayerCount: 2
 Back
@@ -16771,6 +16831,7 @@ SplineSet
  405.955078125 149 l 17
 EndSplineSet
 Validated: 9
+LCarets2: 1 0
 Ligature2: "'pres' Pre Base Substitutions lookup 14 subtable" bnBA.half bnLA
 EndChar
 
@@ -16782,7 +16843,7 @@ GlyphClass: 2
 Flags: W
 HStem: 51 64<273 341.585 447.943 522> 134 74<329.573 454.837> 335 63<323.506 354 457 495.372> 574 62<-14 760>
 VStem: 133 65<-86.5619 36.2406> 259 64<399.792 463.771> 614 78<318.687 383.024>
-AnchorPoint: "anchor 1" 554 0 basechar 0
+AnchorPoint: "anchor 1" 554 -120 basechar 0
 AnchorPoint: "anchor0" 557 637 basechar 0
 LayerCount: 2
 Back
@@ -16850,7 +16911,7 @@ Flags: W
 HStem: -30 68<372.593 497.805> 285 72<501 587.34> 438 69<141.817 210.744> 575 61<-10 166 241 474 534 735>
 VStem: 60 65<349.024 424.748> 214.834 67.166<495.118 546.192> 504 67<435.032 545.003> 602 69<157.714 269.12>
 AnchorPoint: "anchor0" 557 637 basechar 0
-AnchorPoint: "anchor 1" 473 0 basechar 0
+AnchorPoint: "anchor 1" 415 -25 basechar 0
 LayerCount: 2
 Back
 Fore
@@ -16972,7 +17033,7 @@ Flags: W
 HStem: 0 74<315.573 444.121> 201 59<303.836 477.232> 342 67<440.765 520.5> 438 69<183.073 249.97> 575 61<-10 207 282 515 575 735>
 VStem: 101 65<349.024 424.748> 245 57<261.14 330.152> 255.834 67.166<495.118 547.302> 545 67<434.274 545.404> 600 81<182.646 243.624>
 AnchorPoint: "anchor0" 497 637 basechar 0
-AnchorPoint: "anchor 1" 404 0 basechar 0
+AnchorPoint: "anchor 1" 344 7 basechar 0
 LayerCount: 2
 Back
 Fore
@@ -17173,7 +17234,7 @@ Flags: W
 HStem: -200 72<181.382 348.125> 421 69<232.71 301.673> 575 61<-13 238 313 506 568 670>
 VStem: 151 63<330.564 404.771> 305.834 67.166<478.118 532.724> 492 65<-48 -29 46 252> 510 47<-200 -172.318> 564 69<414.133 504.291>
 AnchorPoint: "anchor0" 477 637 basechar 0
-AnchorPoint: "anchor 1" 488 0 basechar 0
+AnchorPoint: "anchor 1" 505 -190 basechar 0
 LayerCount: 2
 Back
 Fore
@@ -17365,6 +17426,7 @@ SplineSet
  274 513 262 476 262 476 c 5
 EndSplineSet
 Validated: 1
+LCarets2: 1 0
 Ligature2: "'pres' Pre Base Substitutions lookup 14 subtable" bnMA.half bnSA
 EndChar
 
@@ -17441,7 +17503,7 @@ GlyphClass: 3
 Flags: W
 HStem: 447 64<149.875 315.585 425.319 561.931> 575 61<-14 576 641 931>
 VStem: 64 65<280.415 424.936> 338 52<302 336.3> 576 65<55 266 341 405 489 574.127> 789.146 71.5596<130.78 226.17>
-AnchorPoint: "anchor 1" 577 0 basechar 0
+AnchorPoint: "anchor 1" 577 -29 basechar 0
 AnchorPoint: "anchor0" 576 637 basechar 0
 LayerCount: 2
 Back
@@ -17557,6 +17619,7 @@ SplineSet
  576 574.521484375 l 17
 EndSplineSet
 Validated: 41
+LCarets2: 1 0
 Ligature2: "'pres' Pre Base Substitutions lookup 14 subtable" bnLA.half bnGA
 EndChar
 
@@ -17568,7 +17631,7 @@ GlyphClass: 3
 Flags: W
 HStem: -83 68<462.758 587.801> 232 72<641 678.276> 232 53<408 575.932> 447 64<149.875 203 262 315.585 425.319 490 504 562.444>
 VStem: 64 65<277.945 424.936> 338 52<301 336> 692 69<102.75 216.235>
-AnchorPoint: "anchor 1" 548 0 basechar 0
+AnchorPoint: "anchor 1" 507 -79 basechar 0
 AnchorPoint: "anchor0" 577 637 basechar 0
 LayerCount: 2
 Back
@@ -17628,7 +17691,7 @@ GlyphClass: 3
 Flags: W
 HStem: 274 70<643 715.722> 447 64<149.875 203 262 315.585 425.319 490 504 562.444>
 VStem: 64 65<277.553 424.936> 338 52<301 336> 732 66<-8 257.515>
-AnchorPoint: "anchor 1" 573 0 basechar 0
+AnchorPoint: "anchor 1" 574 -13 basechar 0
 AnchorPoint: "anchor0" 577 637 basechar 0
 LayerCount: 2
 Back
@@ -17739,6 +17802,7 @@ SplineSet
  641 -68 l 17
 EndSplineSet
 Validated: 1
+LCarets2: 1 0
 Ligature2: "'pres' Pre Base Substitutions lookup 14 subtable" bnLA.half bnPA
 EndChar
 
@@ -17865,6 +17929,7 @@ SplineSet
  784 200 784 575 784 575 c 9
 EndSplineSet
 Validated: 1
+LCarets2: 1 0
 Ligature2: "'pres' Pre Base Substitutions lookup 14 subtable" bnLA.half bnMA
 EndChar
 
@@ -17925,6 +17990,7 @@ SplineSet
  641 0 l 25
 EndSplineSet
 Validated: 9
+LCarets2: 1 0
 Ligature2: "'pres' Pre Base Substitutions lookup 14 subtable" bnLA.nukt bnLA
 EndChar
 
@@ -17936,7 +18002,7 @@ GlyphClass: 3
 Flags: W
 HStem: 0.328125 75<555.865 660.261> 264 68<280.825 403.685> 526 69<17.4187 190.982 282.937 466.821> 575.328 61<540 1004>
 VStem: 201 71<348.925 513.164> 473 67<90.8339 404.328 463.328 512 572 575.328> 860 71<262.152 343.961>
-AnchorPoint: "anchor 1" 638 0 basechar 0
+AnchorPoint: "anchor 1" 567 6 basechar 0
 AnchorPoint: "anchor0" 747 637 basechar 0
 LayerCount: 2
 Back
@@ -17994,7 +18060,7 @@ GlyphClass: 3
 Flags: W
 HStem: 174 82<512.064 576.307> 264 65<284.386 401.961> 526 69<17.4187 190.982 284.126 439.963> 575 61<507 1010>
 VStem: 201 71<348.623 511.392> 440 67<259.941 463 516 516> 724 70<343.772 404.863> 889 66<254.815 377.558>
-AnchorPoint: "anchor 1" 638 0 basechar 0
+AnchorPoint: "anchor 1" 758 0 basechar 0
 AnchorPoint: "anchor0" 697 637 basechar 0
 LayerCount: 2
 Back
@@ -18067,7 +18133,7 @@ GlyphClass: 3
 Flags: W
 HStem: -105 68<388.593 512.85> 201 70<334 485> 299 70<279.038 399.971> 526 69<14.9056 188.982 282.126 474.52>
 VStem: 199 71<383.615 419 459 511.392> 485 69<489 509.715 636 661.773> 507 47<691.227 717> 618 69<77.8003 182.534>
-AnchorPoint: "anchor 1" 458 0 basechar 0
+AnchorPoint: "anchor 1" 436 -101 basechar 0
 AnchorPoint: "anchor0" 447 637 basechar 0
 LayerCount: 2
 Back
@@ -18186,6 +18252,7 @@ SplineSet
  678 200 678 575 678 575 c 25xeec0
 EndSplineSet
 Validated: 1
+LCarets2: 1 0
 Ligature2: "'pres' Pre Base Substitutions lookup 14 subtable" bnSHA.half bnMA
 EndChar
 
@@ -18322,7 +18389,7 @@ GlyphClass: 3
 Flags: W
 HStem: 575 61<-14 77 141 372 432 669>
 VStem: 40.7046 62.2209<408.511 506.69> 342 62<53 267> 406 63<424.596 539.991> 555.146 71.5596<131.84 227.269>
-AnchorPoint: "anchor 1" 340 0 basechar 0
+AnchorPoint: "anchor 1" 340 -29 basechar 0
 AnchorPoint: "anchor0" 329 637 basechar 0
 LayerCount: 2
 Back
@@ -18547,6 +18614,7 @@ SplineSet
  385 424 l 1
 EndSplineSet
 Validated: 1
+LCarets2: 1 0
 Ligature2: "'pres' Pre Base Substitutions lookup 14 subtable" bnSSA.half bnMA.half
 EndChar
 
@@ -18558,7 +18626,7 @@ GlyphClass: 3
 Flags: W
 HStem: -90 69<194.872 335.638> 575 61<-14 157 221 452 512 768>
 VStem: 120.704 62.2217<408.316 506.69> 455 69<62 209> 477 47<-90 -63.9091> 486 63<424.68 539.354> 640.586 67.5596<84.468 177.363>
-AnchorPoint: "anchor 1" 457 0 basechar 0
+AnchorPoint: "anchor 1" 471 -80 basechar 0
 AnchorPoint: "anchor0" 446 637 basechar 0
 LayerCount: 2
 Back
@@ -18684,7 +18752,7 @@ GlyphClass: 3
 Flags: W
 HStem: 324 75<128.212 206.561> 575 61<-10 288 362 554 617 808>
 VStem: 468 62<61 272> 578 75<422.488 540.995> 681.146 71.5596<137.271 232.046>
-AnchorPoint: "anchor 1" 468 0 basechar 0
+AnchorPoint: "anchor 1" 468 -20 basechar 0
 AnchorPoint: "anchor0" 457 637 basechar 0
 LayerCount: 2
 Back
@@ -18739,7 +18807,7 @@ GlyphClass: 3
 Flags: W
 HStem: -90 69<278.872 424.253> 302 61.3184<382.988 425> 324 75<127.195 206.561> 575 61<-10 288 362 554 617 831>
 VStem: 539 69<62 209> 561 47<-90 -63.9091> 578 75<422.482 540.995> 724.586 67.5596<86.1205 177.369>
-AnchorPoint: "anchor 1" 541 0 basechar 0
+AnchorPoint: "anchor 1" 557 -77 basechar 0
 AnchorPoint: "anchor0" 530 637 basechar 0
 LayerCount: 2
 Back
@@ -18850,6 +18918,7 @@ SplineSet
  909 575 l 25
 EndSplineSet
 Validated: 33
+LCarets2: 1 0
 Ligature2: "'pres' Pre Base Substitutions lookup 14 subtable" bnSA.half bnKHA
 EndChar
 
@@ -18861,7 +18930,7 @@ GlyphClass: 3
 Flags: W
 HStem: -33 68<369.593 494.759> 282 117<467.62 554.627> 282 53<315 454.952> 324 75<127.602 206.272> 575 61<-10 288 362 554 617 736>
 VStem: 578 75<422.235 542.191> 599 69<154.79 266.213>
-AnchorPoint: "anchor 1" 498 0 basechar 0
+AnchorPoint: "anchor 1" 415 -30 basechar 0
 AnchorPoint: "anchor0" 487 637 basechar 0
 LayerCount: 2
 Back
@@ -18911,10 +18980,10 @@ Encoding: 521 -1 452
 Width: 725
 VWidth: 0
 GlyphClass: 3
-Flags: HW
+Flags: W
 HStem: 298 117<474.62 561.627> 298 53<322 461.952> 340 75<135.008 213.189> 575 61<-10 288 362 554 617 736>
 VStem: 535 65.1992<-153 12> 585 75<438.363 538.033> 606 69<160.959 282.213>
-AnchorPoint: "anchor 1" 538 0 basechar 0
+AnchorPoint: "anchor 1" 536 -228 basechar 0
 LayerCount: 2
 Back
 Fore
@@ -18976,7 +19045,7 @@ GlyphClass: 3
 Flags: W
 HStem: 288 65<372 455> 324 75<127.195 206.073> 575 61<-10 288 362 554 617 732>
 VStem: 578 75<421.356 538.977> 612 64<191.127 278.197>
-AnchorPoint: "anchor 1" 398 0 basechar 0
+AnchorPoint: "anchor 1" 491 -30 basechar 0
 AnchorPoint: "anchor0" 477 637 basechar 0
 LayerCount: 2
 Back
@@ -19246,6 +19315,7 @@ SplineSet
  324 484 l 1
 EndSplineSet
 Validated: 1
+LCarets2: 1 0
 Ligature2: "'pres' Pre Base Substitutions lookup 14 subtable" bnSA.half bnMA
 EndChar
 
@@ -19301,6 +19371,7 @@ SplineSet
  324 484 l 1
 EndSplineSet
 Validated: 1
+LCarets2: 1 0
 Ligature2: "'pres' Pre Base Substitutions lookup 14 subtable" bnSA.half bnLA
 EndChar
 
@@ -19312,7 +19383,7 @@ GlyphClass: 3
 Flags: W
 HStem: -90 69<278.804 419.634> 302 61.3184<383.225 425> 324 75<128.344 206.733> 575 61<-10 288 378 554 617 718>
 VStem: 539 69<62 280.727> 561 47<-90 -63.9091> 578 75<422.269 541.964>
-AnchorPoint: "anchor 1" 539 0 basechar 0
+AnchorPoint: "anchor 1" 556 -78 basechar 0
 AnchorPoint: "anchor0" 528 637 basechar 0
 LayerCount: 2
 Back
@@ -19437,7 +19508,7 @@ GlyphClass: 3
 Flags: W
 HStem: 443 73<134 449.203> 575 61<-14 603>
 VStem: 469 65<303.321 423.591>
-AnchorPoint: "anchor 1" 365 0 basechar 0
+AnchorPoint: "anchor 1" 364 -199 basechar 0
 AnchorPoint: "anchor0" 354 637 basechar 0
 LayerCount: 2
 Back
@@ -19488,7 +19559,7 @@ GlyphClass: 3
 Flags: W
 HStem: 443 72<94 406.368> 575 61<-14 756>
 VStem: 630.44 67.5596<188.721 281.531>
-AnchorPoint: "anchor 1" 308 0 basechar 0
+AnchorPoint: "anchor 1" 328 0 basechar 0
 AnchorPoint: "anchor0" 301 637 basechar 0
 LayerCount: 2
 Back
@@ -19532,7 +19603,7 @@ GlyphClass: 3
 Flags: W
 HStem: -90 66<349.64 456> -78 65<124 264.058> 443 72<242 555.565> 575 61<-14 713>
 VStem: 49 65<-194.18 -86.1327> 279 52<-188 -152> 456 65<-200 -90> 577 65<303.321 420.461>
-AnchorPoint: "anchor 1" 457 0 basechar 0
+AnchorPoint: "anchor 1" 456 -199 basechar 0
 AnchorPoint: "anchor0" 446 637 basechar 0
 LayerCount: 2
 Back
@@ -19647,6 +19718,7 @@ SplineSet
  792.680719453 352.998696132 747 365 670 365 c 1
 EndSplineSet
 Validated: 33
+LCarets2: 2 0 0
 Ligature2: "'pres' Pre Base Substitutions lookup 14 subtable" bnHA.half bnMA
 Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 10 subtable" bnHA bnVirama bnMA
 EndChar
@@ -21449,7 +21521,7 @@ StartChar: bnmUU1
 Encoding: 576 -1 507
 Width: 0
 VWidth: 2048
-Flags: HW
+Flags: W
 HStem: -345.059 76.0293<-281.029 -170.249> -148 70<-354 -270.083>
 VStem: -416 78<-255.5 -156.764>
 AnchorPoint: "anchor 1" -236 0 mark 0
@@ -21483,7 +21555,7 @@ StartChar: bnmvR1
 Encoding: 577 -1 508
 Width: 0
 VWidth: 2048
-Flags: HW
+Flags: W
 AnchorPoint: "anchor 1" -178 0 mark 0
 LayerCount: 2
 Back
@@ -21505,7 +21577,7 @@ StartChar: bnVirama1
 Encoding: 578 -1 509
 Width: 0
 VWidth: 2048
-Flags: HW
+Flags: W
 HStem: -247 218.148
 VStem: -197 275
 AnchorPoint: "anchor 1" -198 0 mark 0
@@ -21526,7 +21598,7 @@ StartChar: bnVirama2
 Encoding: 579 -1 510
 Width: 0
 VWidth: 2048
-Flags: HW
+Flags: W
 HStem: -267 218.148
 VStem: -197 275
 AnchorPoint: "anchor 1" -198 0 mark 0
@@ -21547,7 +21619,7 @@ StartChar: bnVirama3
 Encoding: 580 -1 511
 Width: 0
 VWidth: 2048
-Flags: HW
+Flags: W
 HStem: -309 218.148
 VStem: -197 275
 AnchorPoint: "anchor 1" -198 0 mark 0
@@ -21568,7 +21640,7 @@ StartChar: bnmvR2
 Encoding: 581 -1 512
 Width: 0
 VWidth: 2048
-Flags: HW
+Flags: W
 HStem: -414 320
 AnchorPoint: "anchor 1" -178 0 mark 0
 LayerCount: 2
@@ -21591,7 +21663,7 @@ StartChar: bnmvR3
 Encoding: 582 -1 513
 Width: 0
 VWidth: 2048
-Flags: HW
+Flags: W
 AnchorPoint: "anchor 1" -178 0 mark 0
 LayerCount: 2
 Back
@@ -21613,7 +21685,7 @@ StartChar: bnmUU2
 Encoding: 583 -1 514
 Width: 0
 VWidth: 2048
-Flags: HW
+Flags: W
 HStem: -361.059 76.0293<-281.029 -170.249> -164 70<-354 -270.083>
 VStem: -416 78<-271.5 -172.764>
 AnchorPoint: "anchor 1" -243 0 mark 0
@@ -21647,7 +21719,7 @@ StartChar: bnmUU3
 Encoding: 584 -1 515
 Width: 0
 VWidth: 2048
-Flags: HW
+Flags: W
 HStem: -361.059 76.0293<-281.029 -170.249> -164 70<-354 -262.032>
 VStem: -416 78<-271.5 -172.764>
 AnchorPoint: "anchor 1" -247 0 mark 0
@@ -21681,7 +21753,7 @@ StartChar: bnmU2
 Encoding: 585 -1 516
 Width: 0
 VWidth: 2048
-Flags: HW
+Flags: W
 HStem: -337.098 67.918<-298.07 -206.995> -147.603 74.3525<-303.362 -235.099>
 VStem: -412.729 80.6592<-240.638 -181.92>
 AnchorPoint: "anchor 1" -145 0 mark 0
@@ -21713,7 +21785,7 @@ StartChar: bnmU3
 Encoding: 586 -1 517
 Width: 0
 VWidth: 2048
-Flags: HW
+Flags: W
 HStem: -337.098 67.918<-298.07 -206.995> -147.603 74.3525<-303.362 -235.099>
 VStem: -412.729 80.6592<-240.638 -181.92>
 AnchorPoint: "anchor 1" -152 0 mark 0
@@ -21748,7 +21820,7 @@ VWidth: 0
 Flags: W
 HStem: 0 72<214.382 381.893> 134 71<253.774 371.851> 427 59<346 519.805> 575 61<-12 170 237 678>
 VStem: 170 67<220.608 575> 525 69<152 253.384 321.274 415.735> 547 47<0 26.7273>
-AnchorPoint: "anchor 1" 521 0 mark 0
+AnchorPoint: "anchor 1" 531 0 basechar 0
 AnchorPoint: "anchor0" 380 636 basechar 0
 LayerCount: 2
 Back
@@ -21794,7 +21866,7 @@ Flags: W
 HStem: -28 72<162.382 330.229> 112 75<253.656 355.323> 397 61<322.988 480.303>
 VStem: 483 67<216.737 391.203> 495 47<-28 -1.27273>
 AnchorPoint: "anchor0" 340 636 basechar 0
-AnchorPoint: "anchor 1" 465 0 mark 0
+AnchorPoint: "anchor 1" 485 -10 basechar 0
 LayerCount: 2
 Back
 Fore
@@ -21839,7 +21911,7 @@ StartChar: bnmU4
 Encoding: 589 -1 520
 Width: 0
 VWidth: 2048
-Flags: HW
+Flags: W
 HStem: -286.098 67.918<-298.07 -206.995> -96.6025 74.3525<-303.362 -235.099>
 VStem: -412.729 80.6592<-189.638 -130.92>
 AnchorPoint: "anchor 1" -150 0 mark 0
@@ -21871,7 +21943,7 @@ StartChar: bnmUU4
 Encoding: 590 -1 521
 Width: 0
 VWidth: 2048
-Flags: HW
+Flags: W
 HStem: -298.059 76.0293<-281.029 -170.249> -271 21G<23.2785 75.2857> -101 70<-354 -270.083>
 VStem: -416 78<-208.5 -109.764>
 AnchorPoint: "anchor 1" -254 0 mark 0
@@ -21905,7 +21977,7 @@ StartChar: bnmU5
 Encoding: 591 -1 522
 Width: 0
 VWidth: 2048
-Flags: HW
+Flags: W
 HStem: -286.098 67.918<-298.07 -206.995> -96.6025 74.3525<-303.362 -235.099>
 VStem: -412.729 80.6592<-189.638 -130.92>
 AnchorPoint: "anchor 1" -151 0 mark 0
@@ -21937,7 +22009,7 @@ StartChar: bnmUU5
 Encoding: 592 -1 523
 Width: 0
 VWidth: 2048
-Flags: HW
+Flags: W
 HStem: -298.059 76.0293<-281.029 -170.249> -271 21G<23.2785 75.2857> -101 70<-354 -270.083>
 VStem: -416 78<-208.5 -109.764>
 AnchorPoint: "anchor 1" -254 0 mark 0
@@ -23176,20 +23248,21 @@ SplineSet
  -329 -259 l 1
  -316 -330 l 1
  58 -485 l 1
- 84 -441 l 5
- 84 -441 -26.0947265625 -380.002929688 -90 -349 c 4
+ 84 -441 l 1
+ 84 -441 -26.0947265625 -380.002929688 -90 -349 c 0
  -160.002929688 -315.0390625 -229 -287 -229 -287 c 1
  -143 -243 l 1
  25 -314 l 1
  49 -270 l 1
- 49 -270 -61.4567241945 -208.796212537 -125 -178 c 0
- -194.242292051 -144.441762476 -262 -116 -262 -116 c 1
+ 49 -270 -61.45703125 -208.795898438 -125 -178 c 0
+ -194.2421875 -144.44140625 -262 -116 -262 -116 c 1
  -90 -37 l 1
  -123 22 l 1
  -362 -88 l 1
  -349 -159 l 1
  -229 -209 l 1
 EndSplineSet
+Position2: "Single Positioning lookup 3 subtable" dx=280 dy=0 dh=0 dv=0
 EndChar
 
 StartChar: bnvRR
@@ -23212,7 +23285,7 @@ Width: 650
 Flags: W
 HStem: -325 44<497.011 603.543> -214 44<395.868 478.537> -20 20G<555 567>
 VStem: 469 51<-87.0728 -48.1184> 612 49<-271.362 -171.478>
-AnchorPoint: "anchor 1" 590 0 basechar 0
+AnchorPoint: "anchor 1" 576 -324 basechar 0
 LayerCount: 2
 Back
 Fore
@@ -23236,6 +23309,7 @@ SplineSet
  493 -214 470 -214 434 -214 c 0
  395 -214 388 -226 399 -296 c 1
 EndSplineSet
+Position2: "Single Positioning lookup 3 subtable" dx=340 dy=0 dh=0 dv=0
 EndChar
 
 StartChar: bnvLL
@@ -23255,15 +23329,16 @@ EndChar
 StartChar: bnmvLL
 Encoding: 164 2531 570
 Width: 0
-Flags: HW
-HStem: -350 44<-317.989 -211.457> -311 44<-58.989 47.5429> -239 44<-419.132 -336.463> -200 44<-160.132 -77.4634> -45 20G<-260 -248> -6 20G<-1 11>
+Flags: W
+HStem: -350 44<-317.989 -211.457> -311 44<-58.989 47.543> -239 44<-419.132 -336.463> -200 44<-160.132 -77.463> -45 20G<-260 -248> -6 20G<-1 11>
 VStem: -346 51<-112.073 -73.1184> -203 49<-296.362 -196.478> -87 51<-73.0728 -34.1184> 56 49<-257.362 -157.478>
-AnchorPoint: "anchor 1" -67 0 mark 0
+AnchorPoint: "anchor 1" -17 -310 mark 0
 LayerCount: 2
 Back
 Fore
 Refer: 568 2530 N 1 0 0 1 -815 -25 2
 Refer: 568 2530 N 1 0 0 1 -556 14 2
+Position2: "Single Positioning lookup 3 subtable" dx=460 dy=0 dh=0 dv=0
 EndChar
 
 StartChar: indianrupee
@@ -24135,7 +24210,7 @@ GlyphClass: 3
 Flags: W
 HStem: -160.028 72<260.382 423.107> -0.356499 76.9109<347.135 449.205> 358 70<391.686 603.655>
 VStem: 613.638 70.3635<248.505 346.876> 613.638 43.9972<-147.028 -123.163>
-AnchorPoint: "anchor 1" 593 0 basechar 0
+AnchorPoint: "anchor 1" 606 -131 basechar 0
 AnchorPoint: "anchor0" 402 637 basechar 0
 LayerCount: 2
 Back
@@ -24174,7 +24249,7 @@ SplineSet
  215.724609375 -154.209960938 281 -160.028320312 324 -160.028320312 c 0
  420.612304688 -160.028320312 589 -63.0283203125 589 -63.0283203125 c 9
  611 -147.028320312 l 1
- 658 -149.028320312 l 1
+ 658 -147.028320312 l 1
  657.635742188 226 l 17xe8
 EndSplineSet
 LCarets2: 1 0
@@ -24242,7 +24317,7 @@ VWidth: 0
 Flags: W
 HStem: 444.232 69<128.509 191.743> 467.862 60.0537<395.697 479.238> 575 59.3281<-14 153 226 272 357 511 583.797 726>
 VStem: 57.166 65<375.553 440.161> 194 70<499.49 557.127> 366 62<98 309> 579.146 71.5596<174.271 269.103>
-AnchorPoint: "anchor 1" 366 0 basechar 0
+AnchorPoint: "anchor 1" 366 13 basechar 0
 AnchorPoint: "anchor0" 391 636 basechar 0
 LayerCount: 2
 Back
@@ -24305,7 +24380,7 @@ VWidth: 0
 Flags: W
 HStem: -67 69<213.872 359.253> 444.232 69<128.509 192.416> 467.862 60.0537<395.697 479.238> 575 61<-14 176.374 226 272 357 511 583.797 796>
 VStem: 57.166 65<375.553 440.161> 194 70<499.49 557.127> 474 69<85 232 302 302> 496 47<-67 -40.9091> 659.586 67.5596<109.121 200.369>
-AnchorPoint: "anchor 1" 478 0 basechar 0
+AnchorPoint: "anchor 1" 488 -55 basechar 0
 AnchorPoint: "anchor0" 460 636 basechar 0
 LayerCount: 2
 Back
@@ -24423,23 +24498,23 @@ Encoding: 609 -1 609
 Width: 665
 VWidth: 0
 Flags: W
-HStem: -114 98<318 413> 0 72<214.382 381.893> 134 71<253.774 371.851> 427 59<346 519.805> 575 61<-12 170 237 678>
-VStem: 170 67<220.608 575> 318 95<-114 -16> 525 69<152 253.384 321.274 415.735> 547 47<0 26.7273>
+HStem: -124 98<158 253> 0 72<214.382 381.893> 134 71<253.774 371.851> 427 59<346 519.805> 575 61<-12 170 237 678>
+VStem: 158 95<-124 -26> 170 67<220.608 575> 525 69<152 253.384 321.274 415.735> 547 47<0 26.7273>
 AnchorPoint: "anchor 1" 547 0 basechar 0
 AnchorPoint: "anchor0" 302 637 basechar 0
 LayerCount: 2
 Back
 Fore
 SplineSet
-318 -94 m 2xfe
- 318 -37 l 2
- 318 -24 325 -16 338 -16 c 2
- 392 -16 l 2
- 407 -16 413 -24 413 -37 c 2
- 413 -94 l 2
- 413 -109 404 -114 392 -114 c 2
- 338 -114 l 2
- 326 -114 318 -106 318 -94 c 2xfe
+158 -104 m 6xfc
+ 158 -47 l 6
+ 158 -34 165 -26 178 -26 c 6
+ 232 -26 l 6
+ 247 -26 253 -34 253 -47 c 6
+ 253 -104 l 6
+ 253 -119 244 -124 232 -124 c 6
+ 178 -124 l 6
+ 166 -124 158 -116 158 -104 c 6xfc
 678 636 m 17
  678 575 l 1
  237 575 l 1
@@ -24451,9 +24526,9 @@ SplineSet
  396.189453125 427 346 427 346 427 c 1
  340 478 l 1
  340 478 423 486 458 486 c 0
- 546.690018332 486 594 448.446274916 594 381 c 0xff
+ 546.690018332 486 594 448.446274916 594 381 c 0xfb
  594 334 594 0 594 0 c 1
- 547 0 l 1xfe80
+ 547 0 l 1xf880
  525 84 l 1
  525 84 373.02734375 0 278 0 c 0
  235 0 169.724609375 5.818359375 115 89 c 0
@@ -24462,10 +24537,10 @@ SplineSet
  172 138 l 2
  211.440429688 80.3564453125 253 72 281 72 c 0
  368 72 525 152 525 152 c 9
- 525 253.383789062 l 1xff
+ 525 253.383789062 l 1
  525 253.383789062 415.676757812 134 298 134 c 0
  233 134 170 171 170 293 c 2
- 170 575 l 1
+ 170 575 l 1xfb
  -12 575 l 1
  -12 636 l 1
  678 636 l 17
@@ -24502,6 +24577,7 @@ Fore
 Refer: 126 2509 N 1 0 0 1 650 0 2
 Refer: 107 2492 N 1 0 0 1 288 112 2
 Refer: 583 2545 N 1 0 0 1 0 0 2
+LCarets2: 2 0 0
 Ligature2: "'half' Half Forms in Bengali lookup 6 subtable" asWA bnNukta bnVirama
 EndChar
 
