@@ -21,7 +21,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1437065704
-ModificationTime: 1456597397
+ModificationTime: 1456600071
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -113,7 +113,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 225 25 4
+WinInfo: 525 25 4
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -173,9 +173,9 @@ StartChar: bnAA
 Encoding: 100 2438 1
 Width: 1098
 VWidth: 0
-Flags: HW
-HStem: 16 112<346.086 471.966> 66 112<1623.25 1761.41> 379 109<255 569.741 1591 1845.74> 526 110<864 927> 526 90<2220 2283>
-VStem: 583 104<260.838 367.07> 1859 104<272.452 367.07>
+Flags: W
+HStem: 16 112<346.086 471.966> 379 109<255 569.741> 526 110<864 927>
+VStem: 583 104<260.838 367.07>
 AnchorPoint: "anchor0" 922 634.328 basechar 0
 LayerCount: 2
 Back
@@ -185,14 +185,14 @@ SplineSet
  933 0 l 1
  1042 0 l 1
  1042 526 l 25
- 1109 526 l 1xae
+ 1109 526 l 1
  1109 636 l 9
  1031 636 l 17
  1008 702 l 1
  932 702 l 1
  936 628 l 1
  864 636 l 1
- -16 636 l 1x36
+ -16 636 l 1
  -16 526 l 1
  746 526 l 1
  746 226 l 1
@@ -208,7 +208,7 @@ SplineSet
  97 400 l 1
  35 352 l 1
  35 352 128 210 202 132 c 0
- 275.000976562 55.052734375 350 16 407 16 c 0xae
+ 275.000976562 55.052734375 350 16 407 16 c 0
  552 16 634 174 634 174 c 1
  746 137 l 25
  746 0 l 1
@@ -1218,9 +1218,9 @@ StartChar: bnBHA
 Encoding: 134 2477 27
 Width: 850
 VWidth: 0
-Flags: HW
-HStem: 12 114<367.608 497.711 1311.19 1468.15> 254 95<382.795 545.312 1331.92 1431.18> 399 90.0977<381.943 500 1331.94 1430> 526 110<-14 860 906 1780>
-VStem: 274 107<289.5 397.61> 674 124<239.779 297.164> 1224 107<289.5 397.61> 1594 124<230.323 297.949>
+Flags: W
+HStem: 12 114<367.608 497.711> 254 95<382.795 545.312> 399 90.0977<381.943 500> 526 110<-14 860>
+VStem: 274 107<289.5 397.61> 674 124<239.779 297.164>
 AnchorPoint: "anchor 1" 393 22 basechar 0
 AnchorPoint: "anchor0" 443 636 basechar 0
 LayerCount: 2
@@ -4208,7 +4208,7 @@ VWidth: 0
 GlyphClass: 4
 Flags: W
 HStem: 698.862 140.054<-206.7 -123.775>
-AnchorPoint: "anchor0" -218 634 mark 0
+AnchorPoint: "anchor0" -218 635 mark 0
 LayerCount: 2
 Back
 Fore
@@ -4232,7 +4232,6 @@ SplineSet
  -122.739257812 706.546875 -144.008789062 698.862304688 -164.16796875 698.862304688 c 0
  -214.213867188 698.862304688 -369 847 -369 847 c 1
 EndSplineSet
-Validated: 33
 Substitution2: "Single Substitution lookup 17 subtable" bnCandrabindu2
 EndChar
 
@@ -4749,9 +4748,9 @@ Encoding: 218 -1 149
 Width: 850
 VWidth: 0
 GlyphClass: 3
-Flags: HW
-HStem: -139.752 97.9033<377.673 473> 12 114<367.608 497.711 1311.19 1468.15> 254 95<382.795 545.312 1331.92 1431.18> 399 90.0977<381.943 500 1331.94 1430> 526 110<-14 860 906 1780>
-VStem: 274 107<289.5 397.61> 377.673 95.3271<-139.752 -41.8486> 674 124<239.779 297.164> 1224 107<289.5 397.61> 1594 124<230.323 297.949>
+Flags: W
+HStem: -139.752 97.9033<377.673 473> 12 114<367.608 497.711> 254 95<382.795 545.312> 399 90.0977<381.943 500> 526 110<-14 860>
+VStem: 274 107<289.5 397.61> 377.673 95.3271<-139.752 -41.8486> 674 124<239.779 297.164>
 AnchorPoint: "anchor0" 463 636 basechar 0
 LayerCount: 2
 Back
@@ -10029,9 +10028,9 @@ Encoding: 363 -1 294
 Width: 850
 VWidth: 0
 GlyphClass: 3
-Flags: HW
-HStem: 12 114<370.608 500.711 1314.19 1471.15> 254 95<385.795 548.312 1334.92 1434.18> 399 90.0977<384.943 503 1334.94 1433> 526 110<-11 863 909 1783>
-VStem: 277 107<289.5 397.61> 548 106.594<-120.4 33.5996> 677 124<239.779 297.164> 1227 107<289.5 397.61> 1597 124<230.323 297.949>
+Flags: W
+HStem: 12 114<370.608 500.711> 254 95<385.795 548.312> 399 90.0977<384.943 503> 526 110<-11 863>
+VStem: 277 107<289.5 397.61> 548 106.594<-120.4 33.5996> 677 124<239.779 297.164>
 AnchorPoint: "anchor0" 483 636 basechar 0
 LayerCount: 2
 Back
@@ -21563,7 +21562,7 @@ Width: 0
 VWidth: 0
 Flags: W
 HStem: 679.19 140.054<-382.7 -299.775>
-AnchorPoint: "anchor0" -193 634 basechar 0
+AnchorPoint: "anchor0" -193 635 mark 0
 LayerCount: 2
 Back
 Fore
@@ -21601,10 +21600,9 @@ EndChar
 StartChar: bnCandrabindu_bnmII
 Encoding: 560 -1 491
 Width: 320
-Flags: W
+Flags: HW
 HStem: 0 21G<93 202> 526 102<202 259.358> 526 110<-14 91 210.119 330> 680 83<-403.673 -182.848> 698.862 140.054<226.3 309.225> 820 93<-278.769 34.9602>
 VStem: -504 99<768.047 805.317> 93 109<0 526 636 748.604>
-AnchorPoint: "anchor0" -176 637 basechar 0
 LayerCount: 2
 Back
 Fore
@@ -21620,10 +21618,9 @@ EndChar
 StartChar: bnReph_bnmII
 Encoding: 561 -1 492
 Width: 320
-Flags: W
+Flags: HW
 HStem: 0 21G<93 202> 526 102<202 259.358> 526 110<-14 91 210.119 330> 680 83<-403.673 -182.848> 820 93<-278.769 34.9602>
 VStem: -504 99<768.047 805.317> 93 109<0 526 636 748.604>
-AnchorPoint: "anchor0" -176 637 basechar 0
 LayerCount: 2
 Back
 Fore
@@ -21645,10 +21642,9 @@ EndChar
 StartChar: bnReph_bnCandrabindu_bnmII
 Encoding: 562 -1 493
 Width: 320
-Flags: W
+Flags: HW
 HStem: 0 21G<93 202> 526 102<202 259.358> 526 110<-14 91 210.119 330> 680 83<-403.673 -182.848> 710.862 140.054<354.3 437.225> 820 93<-278.769 34.9602>
 VStem: -504 99<768.047 805.317> 93 109<0 526 636 748.604>
-AnchorPoint: "anchor0" -176 637 basechar 0
 LayerCount: 2
 Back
 Fore
@@ -21700,7 +21696,6 @@ SplineSet
  -510 753.328125 l 17xce
 EndSplineSet
 Refer: 123 2433 N 1 0 0 1 443 0 2
-Validated: 37
 EndChar
 
 StartChar: bnReph_bnCandrabindu_bnmII2
@@ -21740,7 +21735,6 @@ SplineSet
  -37 748 l 1
 EndSplineSet
 Refer: 123 2433 N 1 0 0 1 551 12 2
-Validated: 37
 EndChar
 
 StartChar: bnCandrabindu_bnmII3
@@ -21778,7 +21772,6 @@ SplineSet
  176 943 197 751 197 628 c 1xb7
 EndSplineSet
 Refer: 123 2433 N 1 0 0 1 453 0 2
-Validated: 5
 EndChar
 
 StartChar: bnReph_bnCandrabindu_bnmII3
@@ -21822,7 +21815,6 @@ SplineSet
  -27 748 l 5
 EndSplineSet
 Refer: 123 2433 S 1 0 0 1 622 0 2
-Validated: 5
 EndChar
 
 StartChar: bnReph2_bnCandrabindu_bnmII
@@ -21867,7 +21859,6 @@ SplineSet
  -406 775.165039062 -395 769 -395 769 c 1
 EndSplineSet
 Refer: 123 2433 N 1 0 0 1 453 0 2
-Validated: 5
 EndChar
 
 StartChar: bnCandrabindu_bnAUlntmk
@@ -21882,7 +21873,6 @@ Back
 Fore
 Refer: 106 2519 N 1 0 0 1 0 0 2
 Refer: 123 2433 S 1 0 0 1 479 -48 2
-Validated: 5
 LCarets2: 1 0
 Ligature2: "'abvs' Above Base Substitutions lookup 15 subtable" bnCandrabindu bnAUlntmk
 EndChar
@@ -21907,7 +21897,6 @@ SplineSet
 EndSplineSet
 Refer: 123 2433 N 1 0 0 1 489 -38 2
 Refer: 106 2519 N 1 0 0 1 0 0 2
-Validated: 5
 LCarets2: 2 0 0
 Ligature2: "'abvs' Above Base Substitutions lookup 15 subtable" bnReph bnCandrabindu bnAUlntmk
 Ligature2: "'abvs' Above Base Substitutions lookup 15 subtable" bnReph bnAUlntmk bnCandrabindu
@@ -22032,10 +22021,9 @@ EndChar
 StartChar: bnReph2_bnmII
 Encoding: 573 -1 504
 Width: 315
-Flags: W
+Flags: HW
 HStem: 0 21G<92 201> 526 110<-15 90 209.119 329> 526 102<201 258.358>
 VStem: -505 99<769.228 832.312> 92 109<0 526 636 760.139>
-AnchorPoint: "anchor0" -176 637 mark 0
 LayerCount: 2
 Back
 Fore
@@ -22071,16 +22059,14 @@ SplineSet
  -404 829 -406 805 -406 783 c 0
  -406 775.165079077 -395 769 -395 769 c 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: bnmII3
 Encoding: 574 -1 505
 Width: 305
-Flags: W
+Flags: HW
 HStem: 0 21G<92 201> 526 110<-15 90 209.119 329> 526 102<201 258.358> 680 83<-404.673 -183.848> 843 100<-286.276 30.9365>
 VStem: -505 99<768.047 832.288> 92 109<0 526 636 762.144>
-AnchorPoint: "anchor0" -177 637 basechar 0
 LayerCount: 2
 Back
 Fore
