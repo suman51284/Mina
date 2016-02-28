@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bnPHA.half" format="1">
+  <advance width="900"/>
+  <outline>
+    <component base="bnVirama" xOffset="647"/>
+    <component base="bnPHA"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-273</integer>
+            <key>width</key>
+            <integer>260</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>0</integer>
+            <key>width</key>
+            <integer>21</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>390</integer>
+            <key>width</key>
+            <integer>99</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>526</integer>
+            <key>width</key>
+            <integer>110</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>428</integer>
+            <key>width</key>
+            <integer>307</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>478</integer>
+            <key>width</key>
+            <integer>110</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>740</integer>
+            <key>width</key>
+            <integer>108</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

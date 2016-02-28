@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bnB_LA" format="1">
+  <advance width="535"/>
+  <outline>
+    <contour>
+      <point x="405.549" y="263" type="line"/>
+      <point x="219.955" y="395.996" type="line"/>
+      <point x="406" y="470" type="line"/>
+    </contour>
+    <contour>
+      <point x="405.955" y="149" type="line"/>
+      <point x="341.918" y="148"/>
+      <point x="318.913" y="141.785"/>
+      <point x="296" y="97" type="curve"/>
+      <point x="277.101" y="137.656"/>
+      <point x="241" y="148"/>
+      <point x="198" y="148" type="curve" smooth="yes"/>
+      <point x="128.365" y="148"/>
+      <point x="59" y="133"/>
+      <point x="59" y="46" type="curve" smooth="yes"/>
+      <point x="59" y="-15.5385"/>
+      <point x="101" y="-93"/>
+      <point x="101" y="-93" type="curve"/>
+      <point x="147" y="-79" type="line"/>
+      <point x="147" y="-79"/>
+      <point x="125" y="-6.87268"/>
+      <point x="125" y="29" type="curve" smooth="yes"/>
+      <point x="125" y="75"/>
+      <point x="158" y="82"/>
+      <point x="201" y="82" type="curve" smooth="yes"/>
+      <point x="240.386" y="82"/>
+      <point x="255.872" y="65.1865"/>
+      <point x="259" y="-13" type="curve"/>
+      <point x="262" y="-44" type="line"/>
+      <point x="314" y="-44" type="line"/>
+      <point x="320" y="-12" type="line"/>
+      <point x="330.8" y="65.7598"/>
+      <point x="339.759" y="84"/>
+      <point x="406" y="84" type="curve"/>
+      <point x="406" y="-68" type="line"/>
+      <point x="469" y="-68" type="line"/>
+      <point x="469" y="575.328" type="line"/>
+      <point x="544" y="575.328" type="line"/>
+      <point x="544" y="636.328" type="line"/>
+      <point x="-12" y="636" type="line"/>
+      <point x="-12" y="575" type="line"/>
+      <point x="404" y="575" type="line"/>
+      <point x="404.271" y="545" type="line"/>
+      <point x="154.955" y="441.996" type="line"/>
+      <point x="154.955" y="360.996" type="line"/>
+      <point x="405.955" y="186.996" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>82</integer>
+            <key>width</key>
+            <integer>66</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>59</integer>
+            <key>width</key>
+            <integer>66</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

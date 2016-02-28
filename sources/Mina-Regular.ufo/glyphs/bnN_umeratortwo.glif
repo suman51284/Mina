@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bnNumeratortwo" format="1">
+  <advance width="718"/>
+  <unicode hex="09F5"/>
+  <outline>
+    <contour>
+      <point x="602" y="532" type="line"/>
+      <point x="602" y="532"/>
+      <point x="523.363" y="251.886"/>
+      <point x="470" y="193" type="curve" smooth="yes"/>
+      <point x="412.189" y="129.206"/>
+      <point x="306" y="138"/>
+      <point x="306" y="138" type="curve"/>
+      <point x="306" y="138"/>
+      <point x="380.208" y="242.699"/>
+      <point x="361.776" y="285.253" type="curve" smooth="yes"/>
+      <point x="344.58" y="324.955"/>
+      <point x="317.699" y="346.688"/>
+      <point x="273.053" y="377.063" type="curve" smooth="yes"/>
+      <point x="196.162" y="429.377"/>
+      <point x="143.301" y="412.124"/>
+      <point x="92.6738" y="337.713" type="curve" smooth="yes"/>
+      <point x="63.9854" y="295.547"/>
+      <point x="43.334" y="246.074"/>
+      <point x="43.334" y="246.074" type="curve"/>
+      <point x="90" y="224" type="line"/>
+      <point x="90" y="224"/>
+      <point x="99.7292" y="240.59"/>
+      <point x="125.107" y="276.942" type="curve" smooth="yes"/>
+      <point x="152.584" y="316.301"/>
+      <point x="182.416" y="354.064"/>
+      <point x="232.851" y="319.751" type="curve" smooth="yes"/>
+      <point x="252.829" y="306.158"/>
+      <point x="294.161" y="283"/>
+      <point x="294.161" y="262.313" type="curve" smooth="yes"/>
+      <point x="294.161" y="238.883"/>
+      <point x="248.027" y="164.285"/>
+      <point x="248.027" y="164.285" type="curve" smooth="yes"/>
+      <point x="194" y="74" type="line"/>
+      <point x="194" y="74"/>
+      <point x="343.461" y="47.3169"/>
+      <point x="455" y="82" type="curve" smooth="yes"/>
+      <point x="628.861" y="136.062"/>
+      <point x="660" y="516"/>
+      <point x="660" y="516" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

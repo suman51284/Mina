@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bnSS_BA" format="1">
+  <advance width="615"/>
+  <outline>
+    <contour>
+      <point x="592.994" y="-315.696" type="line"/>
+      <point x="486.4" y="-315.7" type="line"/>
+      <point x="237.4" y="-141.7" type="line"/>
+      <point x="237.4" y="-26.7002" type="line"/>
+      <point x="487.4" y="76.2998" type="line"/>
+      <point x="592.994" y="76.2998" type="line"/>
+    </contour>
+    <contour>
+      <point x="486.4" y="-193.7" type="line"/>
+      <point x="486.4" y="-39.7002" type="line"/>
+      <point x="351.4" y="-97.7002" type="line"/>
+    </contour>
+    <component base="bnSSA" xOffset="5" yOffset="-0.671875"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-1</integer>
+            <key>width</key>
+            <integer>21</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>574</integer>
+            <key>width</key>
+            <integer>61</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-178</integer>
+            <key>width</key>
+            <integer>88</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>28</integer>
+            <key>width</key>
+            <integer>65</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>486</integer>
+            <key>width</key>
+            <integer>107</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bnReph_bnCandrabindu_bnmII" format="1">
+  <advance width="320"/>
+  <outline>
+    <contour>
+      <point x="-27" y="748" type="line"/>
+      <point x="-27" y="748"/>
+      <point x="-19.791" y="755.888"/>
+      <point x="17.2451" y="782.854" type="curve" smooth="yes"/>
+      <point x="91.2129" y="836.713"/>
+      <point x="195.572" y="903.717"/>
+      <point x="262.788" y="941.758" type="curve"/>
+      <point x="323" y="860" type="line"/>
+      <point x="52.9814" y="652.612" type="line"/>
+    </contour>
+    <component base="bnCandrabindu" xOffset="561" yOffset="12"/>
+    <component base="bnmII"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>0</integer>
+            <key>width</key>
+            <integer>21</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>526</integer>
+            <key>width</key>
+            <integer>102</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>526</integer>
+            <key>width</key>
+            <integer>110</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>680</integer>
+            <key>width</key>
+            <integer>83</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>711</integer>
+            <key>width</key>
+            <integer>140</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>820</integer>
+            <key>width</key>
+            <integer>93</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-504</integer>
+            <key>width</key>
+            <integer>99</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>93</integer>
+            <key>width</key>
+            <integer>109</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

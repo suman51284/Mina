@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bnHA.nukt.half" format="1">
+  <advance width="0"/>
+  <outline>
+    <component base="bnHA"/>
+    <component base="bnNukta" xOffset="300" yOffset="52"/>
+    <component base="bnVirama" xOffset="466" yOffset="-32"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-305</integer>
+            <key>width</key>
+            <integer>260</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>-128</integer>
+            <key>width</key>
+            <integer>98</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>378</integer>
+            <key>width</key>
+            <integer>111</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>526</integer>
+            <key>width</key>
+            <integer>110</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>96</integer>
+            <key>width</key>
+            <integer>95</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>247</integer>
+            <key>width</key>
+            <integer>307</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>404</integer>
+            <key>width</key>
+            <integer>112</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

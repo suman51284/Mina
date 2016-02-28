@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bnBAc2" format="1">
+  <advance width="0"/>
+  <outline>
+    <contour>
+      <point x="-70.4062" y="-308.996" type="line"/>
+      <point x="-177" y="-309" type="line"/>
+      <point x="-426" y="-135" type="line"/>
+      <point x="-426" y="-20" type="line"/>
+      <point x="-176" y="83" type="line"/>
+      <point x="-70.4062" y="83" type="line"/>
+    </contour>
+    <contour>
+      <point x="-177" y="-187" type="line"/>
+      <point x="-177" y="-33" type="line"/>
+      <point x="-312" y="-91" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-177</integer>
+            <key>width</key>
+            <integer>68</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bnDA.half" format="1">
+  <advance width="495"/>
+  <outline>
+    <contour>
+      <point x="75" y="526" type="line"/>
+      <point x="74.9004" y="319" type="line"/>
+      <point x="140" y="250" type="line"/>
+      <point x="343" y="359" type="line"/>
+      <point x="293.499" y="112" type="line"/>
+      <point x="372" y="112" type="line"/>
+      <point x="423.4" y="213" type="line"/>
+      <point x="467" y="462" type="line"/>
+      <point x="386.9" y="498" type="line"/>
+      <point x="181" y="399" type="line"/>
+      <point x="181" y="526" type="line"/>
+      <point x="509" y="526" type="line"/>
+      <point x="509" y="636.328" type="line"/>
+      <point x="-11" y="636.328" type="line"/>
+      <point x="-11" y="526" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>575</integer>
+            <key>width</key>
+            <integer>61</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>105</integer>
+            <key>width</key>
+            <integer>67</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
