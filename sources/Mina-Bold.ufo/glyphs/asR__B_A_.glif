@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="asR_BA" format="1">
+  <advance width="650"/>
+  <outline>
+    <contour>
+      <point x="564" y="-310.996" type="line"/>
+      <point x="457.406" y="-311" type="line"/>
+      <point x="208.406" y="-137" type="line"/>
+      <point x="208.406" y="-22" type="line"/>
+      <point x="458.406" y="81" type="line"/>
+      <point x="564" y="81" type="line"/>
+    </contour>
+    <contour>
+      <point x="457.406" y="-189" type="line"/>
+      <point x="457.406" y="-35" type="line"/>
+      <point x="322.406" y="-93" type="line"/>
+    </contour>
+    <component base="asRA"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>0</integer>
+            <key>width</key>
+            <integer>21</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>575</integer>
+            <key>width</key>
+            <integer>61</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>447</integer>
+            <key>width</key>
+            <integer>65</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>457</integer>
+            <key>width</key>
+            <integer>107</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

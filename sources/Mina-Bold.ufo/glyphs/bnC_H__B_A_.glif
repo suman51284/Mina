@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bnCH_BA" format="1">
+  <advance width="679"/>
+  <outline>
+    <contour>
+      <point x="323" y="634" type="move" name="anchor0"/>
+    </contour>
+    <contour>
+      <point x="457.594" y="-303.996" type="line"/>
+      <point x="351" y="-304" type="line"/>
+      <point x="102" y="-130" type="line"/>
+      <point x="102" y="-15" type="line"/>
+      <point x="352" y="88" type="line"/>
+      <point x="457.594" y="88" type="line"/>
+    </contour>
+    <contour>
+      <point x="351" y="-182" type="line"/>
+      <point x="351" y="-28" type="line"/>
+      <point x="216" y="-86" type="line"/>
+    </contour>
+    <component base="bnCHA" xOffset="5" yOffset="0.328125"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>526</integer>
+            <key>width</key>
+            <integer>110</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>74</integer>
+            <key>width</key>
+            <integer>105</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>351</integer>
+            <key>width</key>
+            <integer>107</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>558</integer>
+            <key>width</key>
+            <integer>108</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

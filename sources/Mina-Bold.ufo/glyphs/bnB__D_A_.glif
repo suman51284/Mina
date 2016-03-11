@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bnB_DA" format="1">
+  <advance width="775"/>
+  <outline>
+    <contour>
+      <point x="374" y="636" type="move" name="anchor0"/>
+    </contour>
+    <contour>
+      <point x="562" y="-1" type="move" name="anchor 1"/>
+    </contour>
+    <contour>
+      <point x="258.033" y="512" type="line"/>
+      <point x="258" y="526" type="line"/>
+      <point x="-11" y="526" type="line"/>
+      <point x="-11" y="636.328" type="line"/>
+      <point x="790" y="636.328" type="line"/>
+      <point x="790" y="526" type="line"/>
+      <point x="367" y="526" type="line"/>
+      <point x="367" y="341" type="line"/>
+      <point x="655" y="466.605" type="line"/>
+      <point x="727" y="429" type="line"/>
+      <point x="682.5" y="66" type="line"/>
+      <point x="631.1" y="-35" type="line"/>
+      <point x="557.1" y="-35" type="line"/>
+      <point x="598.1" y="324" type="line"/>
+      <point x="361" y="211.501" type="line"/>
+      <point x="258.104" y="211.501" type="line"/>
+      <point x="43.1035" y="359.604" type="line"/>
+      <point x="43.1035" y="447.604" type="line"/>
+    </contour>
+    <contour>
+      <point x="258.104" y="329" type="line"/>
+      <point x="258.104" y="417" type="line"/>
+      <point x="168" y="386" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>526</integer>
+            <key>width</key>
+            <integer>110</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>258</integer>
+            <key>width</key>
+            <integer>109</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

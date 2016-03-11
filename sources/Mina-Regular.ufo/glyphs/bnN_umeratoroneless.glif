@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bnNumeratoroneless" format="1">
+  <advance width="640"/>
+  <unicode hex="09F8"/>
+  <outline>
+    <contour>
+      <point x="455.1" y="0" type="line"/>
+      <point x="586" y="0" type="line"/>
+      <point x="586" y="43" type="line"/>
+      <point x="521" y="54" type="line"/>
+      <point x="521" y="408" type="line"/>
+      <point x="479.801" y="448" type="line"/>
+      <point x="209.9" y="332" type="line" smooth="yes"/>
+      <point x="209.9" y="636.328" type="line"/>
+      <point x="59" y="636.328" type="line"/>
+      <point x="59" y="575.328" type="line"/>
+      <point x="142.9" y="574.656" type="line"/>
+      <point x="142.9" y="294.501" type="line" smooth="yes"/>
+      <point x="177.9" y="244" type="line"/>
+      <point x="455.1" y="363" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>0</integer>
+            <key>width</key>
+            <integer>43</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
