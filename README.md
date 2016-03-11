@@ -1,5 +1,7 @@
-Exo-Mina Font
+Mina Font Project
 ===================
-Mina is a geometric Bangla(Bengali) typeface that tries to convey a contemporary feeling through it's elegant design. Mina has been designed as a set of two weights, Regular and Bold.
-Influenced by the Exo Font designed by Natanael Gama, it retains the essence of the traditional aspects of the Bangla letter construct, even though there has been a lot of reduction while designing the basic letterforms.
-It can be used as a display face but it works good for small to intermediate size texts.
+
+Mina is a geometric Bangla (Bengali) and Latin typeface family that conveys a contemporary feeling through elegant design.
+Mina has been designed as a set of two weights, Regular and Bold.
+The project began by extending Exo, designed by Natanael Gama, into Bangla while retaining the essence of the traditional aspects of Bangla letter construction when reducing the forms into low contrast strokes.
+It can be used as a display typeface but it works well at small to intermediate text sizes.

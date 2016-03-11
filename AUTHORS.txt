@@ -6,4 +6,5 @@
 # Name or Organization <email address>
 
 Suman Bhandary <neilalwayz@gmail.com>
-Natanael Gana <info@ndiscover.com>
+Natanael Gama <info@ndiscover.com>
+Mooniak <hello@mooniak.com>
