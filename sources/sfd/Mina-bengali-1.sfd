@@ -108,12 +108,13 @@ ChainSub2: class "'abvs' Above Base Substitutions lookup 16 subtable" 0 0 0 0
 EndFPST
 LangName: 1033 "" "" "" "" "" "" "" "" "" "" "" "" "" "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL" "http://scripts.sil.org/OFL"
 Encoding: UnicodeBmp
+Compacted: 1
 UnicodeInterp: none
 NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 8175 25 4
+WinInfo: 248 31 11
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -3865,8 +3866,8 @@ Fore
 Validated: 1
 EndChar
 
-StartChar: uniFFFF
-Encoding: 65535 65535 112
+StartChar: glyph1
+Encoding: 65535 -1 112
 Width: 589
 VWidth: 2048
 Flags: W
@@ -6334,7 +6335,6 @@ HStem: -9.752 97.9033<284.673 380> 154 63.9822<283.301 377.544> 410 62<361.455 5
 VStem: 284.673 95.3271<-9.752 88.1514> 296 65<458 575> 510 64<332.385 406.535>
 LayerCount: 2
 Back
-Fore
 SplineSet
 415 182 m 4xf2
  384.598632812 157.489257812 345 137 317 137 c 4
@@ -6360,6 +6360,7 @@ SplineSet
 EndSplineSet
 Refer: 107 2492 N 1 0 0 1 474 170 2
 Validated: 1
+Fore
 LCarets2: 1 0
 Ligature2: "'half' Half Forms in Bengali2 lookup 7 subtable" bnDDxA bnVirama
 Ligature2: "'half' Half Forms in Bengali lookup 6 subtable" bnDDxA bnVirama
