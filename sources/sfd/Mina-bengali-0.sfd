@@ -113,13 +113,12 @@ ChainSub2: class "'abvs' Above Base Substitutions lookup 16 subtable" 0 0 0 0
 EndFPST
 LangName: 1033 "" "" "" "" "" "" "" "" "" "" "" "" "" "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL" "http://scripts.sil.org/OFL"
 Encoding: UnicodeBmp
-Compacted: 1
 UnicodeInterp: none
 NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 325 25 4
+WinInfo: 100 25 4
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -36184,7 +36183,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: bnGandaMark
+StartChar: uni09FB
 Encoding: 2555 2555 918
 Width: 375
 VWidth: 2048
