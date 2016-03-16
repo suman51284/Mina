@@ -3,7 +3,7 @@
   <advance width="820"/>
   <unicode hex="09CB"/>
   <outline>
-    <component base="bnmAA" xOffset="586" yOffset="0.328125"/>
+    <component base="bnmAA" xOffset="586"/>
     <component base="bnmE"/>
   </outline>
   <lib>

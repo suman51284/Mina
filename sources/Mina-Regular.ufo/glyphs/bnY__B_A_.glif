@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="bnY_BA" format="1">
-  <advance width="675"/>
+  <advance width="616"/>
   <outline>
-    <component base="bnYA" xOffset="2"/>
-    <component base="bnBAc2" xOffset="687.052" yOffset="-1.7"/>
+    <component base="bnYA" xOffset="-3"/>
+    <component base="bnBAc2" xOffset="662.402" yOffset="-1.7"/>
   </outline>
   <lib>
     <dict>

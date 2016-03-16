@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="bnBA" format="1">
-  <advance width="600"/>
+  <advance width="585"/>
   <unicode hex="09AC"/>
   <outline>
     <contour>
-      <point x="513" y="575" type="line"/>
+      <point x="513" y="572.998" type="line"/>
       <point x="512" y="0" type="line"/>
       <point x="447" y="0" type="line"/>
       <point x="69" y="281" type="line"/>
       <point x="69" y="362" type="line"/>
       <point x="447" y="532" type="line"/>
-      <point x="447" y="575" type="line"/>
-      <point x="-14" y="575" type="line"/>
-      <point x="-14" y="636" type="line"/>
-      <point x="615" y="636" type="line"/>
-      <point x="615" y="575" type="line"/>
+      <point x="447" y="572.998" type="line"/>
+      <point x="-14" y="572.998" type="line"/>
+      <point x="-14" y="636.328" type="line"/>
+      <point x="595" y="636.328" type="line"/>
+      <point x="595" y="572.998" type="line"/>
     </contour>
     <contour>
-      <point x="447" y="82" type="line"/>
+      <point x="447" y="93.7891" type="line"/>
       <point x="447" y="459" type="line"/>
-      <point x="140" y="316" type="line"/>
+      <point x="144" y="318" type="line"/>
     </contour>
   </outline>
   <lib>

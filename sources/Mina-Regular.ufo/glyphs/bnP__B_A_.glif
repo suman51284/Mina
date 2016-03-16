@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="bnP_BA" format="1">
-  <advance width="700"/>
+  <advance width="650"/>
   <outline>
     <contour>
-      <point x="483" y="635" type="move" name="anchor0"/>
+      <point x="463" y="635" type="move" name="anchor0"/>
     </contour>
-    <component base="bnBAc2" xOffset="730.994" yOffset="69"/>
-    <component base="bnPA"/>
+    <component base="bnBAc2" xOffset="690.852" yOffset="69"/>
+    <component base="bnPA" xOffset="-20"/>
   </outline>
   <lib>
     <dict>

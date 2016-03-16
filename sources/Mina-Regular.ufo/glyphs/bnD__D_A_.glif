@@ -22,12 +22,12 @@
       <point x="330.199" y="425.328" type="line"/>
       <point x="102.9" y="319" type="line"/>
       <point x="65.9004" y="372.501" type="line"/>
-      <point x="66" y="575.328" type="line"/>
-      <point x="-11" y="575.328" type="line"/>
+      <point x="66" y="573.002" type="line"/>
+      <point x="-11" y="573.002" type="line"/>
       <point x="-11" y="636.328" type="line"/>
       <point x="738" y="636.328" type="line"/>
-      <point x="738" y="575.328" type="line"/>
-      <point x="132.9" y="575.328" type="line"/>
+      <point x="738" y="573.002" type="line"/>
+      <point x="132.9" y="573.002" type="line"/>
       <point x="132.9" y="410" type="line"/>
       <point x="364" y="516" type="line"/>
     </contour>

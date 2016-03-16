@@ -3,7 +3,7 @@
   <advance width="615"/>
   <outline>
     <component base="bnSSA" xOffset="5" yOffset="-0.671875"/>
-    <component base="bnBAc2" xOffset="654.4" yOffset="-6.7"/>
+    <component base="bnBAc2" xOffset="659.4" yOffset="-0.7"/>
   </outline>
   <lib>
     <dict>

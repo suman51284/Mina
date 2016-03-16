@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="asRA.nukt.half" format="1">
-  <advance width="608"/>
+  <advance width="575"/>
   <outline>
     <component base="bnVirama" xOffset="650"/>
     <component base="bnNukta" xOffset="344" yOffset="189"/>

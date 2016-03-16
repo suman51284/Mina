@@ -6,7 +6,7 @@
       <point x="260" y="637" type="move" name="anchor0"/>
     </contour>
     <component base="bnCHA" xOffset="5" yOffset="0.328125"/>
-    <component base="bnBAc2" xOffset="445" yOffset="20"/>
+    <component base="bnBAc2" xOffset="538" yOffset="-15"/>
   </outline>
   <lib>
     <dict>

@@ -1,9 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="bnRA_mU" format="1">
-  <advance width="825"/>
+  <advance width="820"/>
   <outline>
     <contour>
       <point x="447" y="637" type="move" name="anchor0"/>
+    </contour>
+    <contour>
+      <point x="447" y="93.7891" type="line"/>
+      <point x="447" y="459" type="line"/>
+      <point x="144" y="318" type="line"/>
     </contour>
     <contour>
       <point x="127.673" y="11.3184" type="curve" smooth="yes"/>
@@ -24,9 +29,21 @@
       <point x="127.673" y="-0.705078"/>
     </contour>
     <contour>
-      <point x="519" y="360" type="line"/>
+      <point x="512.506" y="290" type="line"/>
+      <point x="512" y="0" type="line"/>
+      <point x="447" y="0" type="line"/>
+      <point x="69" y="281" type="line"/>
+      <point x="69" y="362" type="line"/>
+      <point x="447" y="532" type="line"/>
+      <point x="447" y="572.998" type="line"/>
+      <point x="-14" y="572.998" type="line"/>
+      <point x="-14" y="636.328" type="line"/>
+      <point x="835" y="636.328" type="line"/>
+      <point x="835" y="572.998" type="line"/>
+      <point x="513" y="572.998" type="line"/>
+      <point x="512.637" y="363" type="line"/>
       <point x="615" y="318" type="line" smooth="yes"/>
-      <point x="653.483" y="300.497"/>
+      <point x="653.947" y="300.879"/>
       <point x="674.114" y="296.895"/>
       <point x="694.483" y="320.497" type="curve" smooth="yes"/>
       <point x="707" y="335"/>
@@ -37,25 +54,8 @@
       <point x="766.826" y="300.96"/>
       <point x="745.292" y="275.967" type="curve" smooth="yes"/>
       <point x="709.059" y="233.914"/>
-      <point x="656.483" y="227.497"/>
+      <point x="657.058" y="228.136"/>
       <point x="610.27" y="248.16" type="curve" smooth="yes"/>
-      <point x="519" y="287" type="line"/>
-      <point x="519" y="0" type="line"/>
-      <point x="454" y="0" type="line"/>
-      <point x="76" y="281" type="line"/>
-      <point x="76" y="362" type="line"/>
-      <point x="454" y="532" type="line"/>
-      <point x="454" y="575" type="line"/>
-      <point x="-14" y="575" type="line"/>
-      <point x="-14" y="636" type="line"/>
-      <point x="834" y="636" type="line"/>
-      <point x="834" y="575" type="line"/>
-      <point x="519" y="575" type="line"/>
-    </contour>
-    <contour>
-      <point x="454" y="82" type="line"/>
-      <point x="454" y="459" type="line"/>
-      <point x="147" y="316" type="line"/>
     </contour>
   </outline>
   <lib>

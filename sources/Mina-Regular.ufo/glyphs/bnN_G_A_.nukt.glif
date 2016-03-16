@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="bnNGA.nukt" format="1">
   <advance width="690"/>
+  <outline>
+    <contour>
+      <point x="352" y="634" type="move" name="anchor0"/>
+    </contour>
+    <component base="bnNGA"/>
+    <component base="bnNukta" xOffset="477" yOffset="24"/>
+  </outline>
   <lib>
     <dict>
       <key>com.fontlab.hintData</key>

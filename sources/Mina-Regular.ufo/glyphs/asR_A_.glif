@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="asRA" format="1">
-  <advance width="608"/>
+  <advance width="575"/>
   <unicode hex="09F0"/>
   <outline>
     <contour>
-      <point x="520" y="575" type="line"/>
-      <point x="519" y="0" type="line"/>
-      <point x="454" y="0" type="line"/>
-      <point x="76" y="281" type="line"/>
-      <point x="76" y="362" type="line"/>
-      <point x="454" y="532" type="line"/>
-      <point x="454" y="575" type="line"/>
-      <point x="-14" y="575" type="line"/>
-      <point x="-14" y="636" type="line"/>
-      <point x="620" y="636" type="line"/>
-      <point x="620" y="575" type="line"/>
+      <point x="503.961" y="573" type="line"/>
+      <point x="503.961" y="0" type="line"/>
+      <point x="437.961" y="0" type="line"/>
+      <point x="59.9609" y="281" type="line"/>
+      <point x="59.9609" y="362" type="line"/>
+      <point x="437.961" y="532" type="line"/>
+      <point x="437.961" y="573" type="line"/>
+      <point x="-14" y="573" type="line"/>
+      <point x="-14" y="636.328" type="line"/>
+      <point x="590" y="636.328" type="line"/>
+      <point x="590" y="573" type="line"/>
     </contour>
     <contour>
-      <point x="454" y="285" type="line"/>
-      <point x="454" y="459" type="line"/>
-      <point x="313" y="393" type="line"/>
+      <point x="437.961" y="290" type="line"/>
+      <point x="437.961" y="459" type="line"/>
+      <point x="296.961" y="393" type="line"/>
     </contour>
     <contour>
-      <point x="454" y="203" type="line"/>
-      <point x="240" y="360" type="line"/>
-      <point x="147" y="316" type="line"/>
-      <point x="454" y="82" type="line"/>
+      <point x="437.961" y="203" type="line"/>
+      <point x="223.961" y="360" type="line"/>
+      <point x="130.961" y="316" type="line"/>
+      <point x="437.961" y="88.0508" type="line"/>
     </contour>
   </outline>
   <lib>

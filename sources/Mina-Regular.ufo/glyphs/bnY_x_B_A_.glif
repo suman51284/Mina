@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="bnYx_BA" format="1">
-  <advance width="666"/>
+  <advance width="625"/>
   <outline>
     <component base="bnYA"/>
     <component base="bnNukta" xOffset="350" yOffset="180"/>
-    <component base="bnBAc2" xOffset="684.4" yOffset="-2"/>
+    <component base="bnBAc2" xOffset="665.4"/>
   </outline>
   <lib>
     <dict>

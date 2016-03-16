@@ -2,8 +2,8 @@
 <glyph name="bnGHA.nukt" format="1">
   <advance width="630"/>
   <outline>
-    <component base="bnNukta" xOffset="369" yOffset="151"/>
     <component base="bnGHA"/>
+    <component base="bnNukta" xOffset="369" yOffset="151"/>
   </outline>
   <lib>
     <dict>

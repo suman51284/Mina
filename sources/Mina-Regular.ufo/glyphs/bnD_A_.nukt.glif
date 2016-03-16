@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="bnDA.nukt" format="1">
-  <advance width="575"/>
+  <advance width="525"/>
   <outline>
     <contour>
       <point x="252" y="637" type="move" name="anchor0"/>

@@ -8,8 +8,8 @@
     <contour>
       <point x="448" y="637" type="move" name="anchor0"/>
     </contour>
-    <component base="bnNukta" xOffset="324" yOffset="170"/>
     <component base="bnKA"/>
+    <component base="bnNukta" xOffset="324" yOffset="170"/>
   </outline>
   <lib>
     <dict>

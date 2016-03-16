@@ -6,7 +6,7 @@
     <contour>
       <point x="464" y="515" type="move" name="anchor0"/>
     </contour>
-    <component base="bnmvL" xOffset="-242" yOffset="62"/>
+    <component base="bnmvL" xOffset="-170" yOffset="49"/>
     <component base="bnvL"/>
   </outline>
   <lib>

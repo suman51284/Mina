@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="bnJA.half" format="1">
-  <advance width="950"/>
+  <advance width="875"/>
   <outline>
     <component base="bnVirama" xOffset="675"/>
     <component base="bnJA"/>
