@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="bnKH_BA" format="1">
-  <advance width="706"/>
+  <advance width="665"/>
   <outline>
     <contour>
-      <point x="489" y="635" type="move" name="anchor0"/>
+      <point x="519" y="637" type="move" name="anchor0"/>
     </contour>
-    <component base="bnKHA" xOffset="-36" yOffset="-2"/>
-    <component base="bnBAc2" xOffset="721.4" yOffset="-2"/>
+    <component base="bnKHA" xOffset="-6"/>
+    <component base="bnBAc2" xOffset="710.4"/>
   </outline>
   <lib>
     <dict>

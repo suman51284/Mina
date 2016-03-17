@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="bnDDx_BA" format="1">
-  <advance width="750"/>
+  <advance width="735"/>
   <outline>
     <contour>
       <point x="396" y="636" type="move" name="anchor0"/>
     </contour>
     <component base="bnNukta" xOffset="323" yOffset="159"/>
     <component base="bnDDA" xOffset="1"/>
-    <component base="bnBAc2" xOffset="675.8" yOffset="29"/>
+    <component base="bnBAc2" xOffset="675.8" yOffset="24"/>
   </outline>
   <lib>
     <dict>

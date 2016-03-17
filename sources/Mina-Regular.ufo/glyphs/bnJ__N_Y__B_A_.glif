@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="bnJ_NY_BA" format="1">
-  <advance width="975"/>
+  <advance width="945"/>
   <outline>
     <contour>
       <point x="576" y="636" type="move" name="anchor0"/>
     </contour>
-    <component base="bnBAc2" xOffset="684" yOffset="51.2"/>
+    <component base="bnBAc2" xOffset="669" yOffset="49.2"/>
     <component base="bnJ_NYA"/>
   </outline>
   <lib>

@@ -2,7 +2,7 @@
 <glyph name="bnTTHA.nukt" format="1">
   <advance width="580"/>
   <outline>
-    <component base="bnNukta" xOffset="371" yOffset="14"/>
+    <component base="bnNukta" xOffset="371" yOffset="23"/>
     <component base="bnTTHA"/>
   </outline>
   <lib>

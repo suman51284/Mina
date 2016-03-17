@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="bnLA.nukt" format="1">
-  <advance width="750"/>
+  <advance width="725"/>
   <outline>
     <component base="bnNukta" xOffset="498" yOffset="168"/>
     <component base="bnLA"/>

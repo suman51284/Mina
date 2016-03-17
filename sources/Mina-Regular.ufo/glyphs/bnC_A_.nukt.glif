@@ -5,8 +5,8 @@
     <contour>
       <point x="264" y="637" type="move" name="anchor0"/>
     </contour>
-    <component base="bnNukta" xOffset="382" yOffset="14"/>
     <component base="bnCA"/>
+    <component base="bnNukta" xOffset="382" yOffset="14"/>
   </outline>
   <lib>
     <dict>

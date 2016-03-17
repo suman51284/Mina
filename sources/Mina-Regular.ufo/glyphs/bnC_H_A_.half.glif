@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="bnCHA.half" format="1">
-  <advance width="670"/>
+  <advance width="660"/>
   <outline>
     <component base="bnVirama" xOffset="535" yOffset="-2"/>
     <component base="bnCHA"/>

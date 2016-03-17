@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="bnmAA" format="1">
-  <advance width="235"/>
+  <advance width="200"/>
   <unicode hex="09BE"/>
   <outline>
     <contour>
-      <point x="35" y="637" type="move" name="anchor0"/>
+      <point x="45" y="637" type="move" name="anchor0"/>
     </contour>
     <contour>
-      <point x="-10" y="575" type="line"/>
-      <point x="-10" y="636" type="line"/>
-      <point x="16" y="636" type="line"/>
+      <point x="-10" y="573" type="line"/>
+      <point x="-10" y="636.328" type="line"/>
+      <point x="16" y="636.328" type="line"/>
       <point x="88" y="628" type="line"/>
       <point x="84" y="702" type="line"/>
       <point x="120" y="702" type="line"/>
-      <point x="143" y="636" type="line"/>
-      <point x="246" y="636" type="line"/>
-      <point x="246" y="575" type="line"/>
-      <point x="154" y="575" type="line"/>
+      <point x="143" y="636.328" type="line"/>
+      <point x="211" y="636.328" type="line"/>
+      <point x="211" y="573" type="line"/>
+      <point x="154" y="573" type="line"/>
       <point x="154" y="0" type="line"/>
       <point x="85" y="0" type="line"/>
-      <point x="85" y="575" type="line"/>
+      <point x="85" y="573" type="line"/>
     </contour>
   </outline>
   <lib>

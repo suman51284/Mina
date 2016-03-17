@@ -53,13 +53,13 @@
       <point x="36" y="348" type="line"/>
       <point x="36" y="429" type="line"/>
       <point x="312" y="542" type="line"/>
-      <point x="312" y="574" type="line"/>
-      <point x="-12" y="575" type="line"/>
-      <point x="-12" y="636" type="line"/>
-      <point x="693" y="636" type="line"/>
-      <point x="693" y="575" type="line"/>
-      <point x="377" y="575" type="line"/>
-      <point x="378" y="538" type="line"/>
+      <point x="312" y="573.002" type="line"/>
+      <point x="-12" y="573.008" type="line"/>
+      <point x="-12" y="636.328" type="line"/>
+      <point x="693" y="636.328" type="line"/>
+      <point x="693" y="573.008" type="line"/>
+      <point x="377" y="573.008" type="line"/>
+      <point x="377" y="538" type="line"/>
       <point x="526" y="500" type="line" smooth="yes"/>
       <point x="572.287" y="486.239"/>
       <point x="625.705" y="445.887"/>

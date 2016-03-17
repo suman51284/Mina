@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="bnvRR" format="1">
-  <advance width="800"/>
+  <advance width="760"/>
   <unicode hex="09E0"/>
   <outline>
-    <component base="bnmvR" xOffset="648" yOffset="4"/>
-    <component base="bnvR"/>
+    <component base="bnvR" xOffset="-40"/>
+    <component base="bnmvR" xOffset="597" yOffset="6"/>
   </outline>
   <lib>
     <dict>
