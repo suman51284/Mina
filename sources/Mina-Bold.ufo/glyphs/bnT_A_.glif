@@ -10,10 +10,10 @@
       <point x="523" y="636" type="move" name="anchor0"/>
     </contour>
     <contour>
-      <point x="804" y="526" type="line"/>
-      <point x="804" y="636.328" type="line"/>
-      <point x="-14" y="636" type="line"/>
-      <point x="-14" y="526" type="line"/>
+      <point x="806" y="636.328" type="line"/>
+      <point x="806" y="530" type="line"/>
+      <point x="-14" y="530" type="line"/>
+      <point x="-14" y="636.328" type="line"/>
     </contour>
     <contour>
       <point x="717" y="329" type="curve" smooth="yes"/>

@@ -1846,5 +1846,9 @@
     <string>nbsp.glif</string>
     <key>uni25CC</key>
     <string>uni25C_C_.glif</string>
+    <key>nbspace</key>
+    <string>nbspace.glif</string>
+    <key>DivisionSlash</key>
+    <string>D_ivisionS_lash.glif</string>
   </dict>
 </plist>
