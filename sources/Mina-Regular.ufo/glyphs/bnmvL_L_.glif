@@ -17,66 +17,42 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>-350</integer>
+            <integer>-330</integer>
             <key>width</key>
-            <integer>44</integer>
+            <integer>322</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>-311</integer>
+            <integer>-305</integer>
             <key>width</key>
-            <integer>44</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>-239</integer>
-            <key>width</key>
-            <integer>44</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>-200</integer>
-            <key>width</key>
-            <integer>44</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>-45</integer>
-            <key>width</key>
-            <integer>20</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>-6</integer>
-            <key>width</key>
-            <integer>20</integer>
+            <integer>322</integer>
           </dict>
         </array>
         <key>vhints</key>
         <array>
           <dict>
             <key>position</key>
-            <integer>-346</integer>
+            <integer>-349</integer>
             <key>width</key>
-            <integer>51</integer>
+            <integer>44</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>-203</integer>
+            <integer>-190</integer>
             <key>width</key>
-            <integer>49</integer>
+            <integer>41</integer>
           </dict>
           <dict>
             <key>position</key>
             <integer>-87</integer>
             <key>width</key>
-            <integer>51</integer>
+            <integer>44</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>56</integer>
+            <integer>72</integer>
             <key>width</key>
-            <integer>49</integer>
+            <integer>41</integer>
           </dict>
         </array>
       </dict>

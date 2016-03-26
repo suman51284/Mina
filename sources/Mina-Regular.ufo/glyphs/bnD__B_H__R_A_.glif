@@ -87,60 +87,54 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>-68</integer>
+            <integer>-98</integer>
             <key>width</key>
             <integer>72</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>125</integer>
+            <integer>95</integer>
             <key>width</key>
-            <integer>66</integer>
+            <integer>69</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>169</integer>
+            <integer>234</integer>
             <key>width</key>
-            <integer>80</integer>
+            <integer>64</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>575</integer>
+            <integer>573</integer>
             <key>width</key>
-            <integer>61</integer>
+            <integer>63</integer>
           </dict>
         </array>
         <key>vhints</key>
         <array>
           <dict>
             <key>position</key>
-            <integer>113</integer>
+            <integer>139</integer>
             <key>width</key>
             <integer>67</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>310</integer>
-            <key>width</key>
-            <integer>68</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>425</integer>
+            <integer>181</integer>
             <key>width</key>
             <integer>70</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>616</integer>
+            <integer>536</integer>
             <key>width</key>
-            <integer>69</integer>
+            <integer>67</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>638</integer>
+            <integer>558</integer>
             <key>width</key>
-            <integer>47</integer>
+            <integer>45</integer>
           </dict>
         </array>
       </dict>

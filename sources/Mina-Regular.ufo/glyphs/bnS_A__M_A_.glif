@@ -93,42 +93,54 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>25</integer>
+            <integer>0</integer>
             <key>width</key>
-            <integer>73</integer>
+            <integer>21</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>157</integer>
+            <integer>0</integer>
             <key>width</key>
-            <integer>71</integer>
+            <integer>21</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>324</integer>
+            <integer>86</integer>
+            <key>width</key>
+            <integer>69</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>160</integer>
+            <key>width</key>
+            <integer>68</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>322</integer>
             <key>width</key>
             <integer>75</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>575</integer>
+            <integer>573</integer>
             <key>width</key>
-            <integer>61</integer>
+            <integer>63</integer>
           </dict>
         </array>
         <key>vhints</key>
         <array>
           <dict>
             <key>position</key>
-            <integer>380</integer>
+            <integer>334</integer>
             <key>width</key>
-            <integer>65</integer>
+            <integer>67</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>560</integer>
+            <integer>509</integer>
             <key>width</key>
-            <integer>73</integer>
+            <integer>69</integer>
           </dict>
           <dict>
             <key>position</key>
@@ -138,7 +150,7 @@
           </dict>
           <dict>
             <key>position</key>
-            <integer>757</integer>
+            <integer>711</integer>
             <key>width</key>
             <integer>67</integer>
           </dict>

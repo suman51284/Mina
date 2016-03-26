@@ -6,6 +6,10 @@
     <string>Mina</string>
     <key>styleName</key>
     <string>Regular</string>
+    <key>styleMapFamilyName</key>
+    <string>Mina</string>
+    <key>styleMapStyleName</key>
+    <string>regular</string>
     <key>versionMajor</key>
     <integer>1</integer>
     <key>versionMinor</key>
@@ -39,7 +43,7 @@
     <key>openTypeNameLicenseURL</key>
     <string>http://scripts.sil.org/OFL</string>
     <key>openTypeNameVersion</key>
-    <string>Version 001.000</string>
+    <string>Version 1.000</string>
     <key>openTypeOS2WidthClass</key>
     <integer>5</integer>
     <key>openTypeOS2WeightClass</key>
@@ -51,6 +55,8 @@
       <integer>0</integer>
       <integer>0</integer>
     </array>
+    <key>openTypeOS2Type</key>
+    <array/>
     <key>openTypeOS2TypoAscender</key>
     <integer>1075</integer>
     <key>openTypeOS2TypoDescender</key>

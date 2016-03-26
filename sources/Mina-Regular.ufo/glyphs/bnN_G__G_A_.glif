@@ -91,22 +91,22 @@
           </dict>
           <dict>
             <key>position</key>
-            <integer>468</integer>
+            <integer>463</integer>
             <key>width</key>
-            <integer>60</integer>
+            <integer>65</integer>
           </dict>
         </array>
         <key>vhints</key>
         <array>
           <dict>
             <key>position</key>
-            <integer>336</integer>
+            <integer>284</integer>
             <key>width</key>
-            <integer>68</integer>
+            <integer>71</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>520</integer>
+            <integer>470</integer>
             <key>width</key>
             <integer>42</integer>
           </dict>

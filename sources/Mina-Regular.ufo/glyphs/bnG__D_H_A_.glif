@@ -95,34 +95,40 @@
           </dict>
           <dict>
             <key>position</key>
-            <integer>550</integer>
+            <integer>549</integer>
             <key>width</key>
-            <integer>71</integer>
+            <integer>72</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>575</integer>
+            <integer>573</integer>
             <key>width</key>
-            <integer>61</integer>
+            <integer>63</integer>
           </dict>
         </array>
         <key>vhints</key>
         <array>
           <dict>
             <key>position</key>
-            <integer>253</integer>
+            <integer>47</integer>
             <key>width</key>
-            <integer>68</integer>
+            <integer>82</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>420</integer>
+            <integer>245</integer>
             <key>width</key>
-            <integer>69</integer>
+            <integer>70</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>580</integer>
+            <integer>445</integer>
+            <key>width</key>
+            <integer>67</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>603</integer>
             <key>width</key>
             <integer>66</integer>
           </dict>
