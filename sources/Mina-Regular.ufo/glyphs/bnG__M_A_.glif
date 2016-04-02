@@ -100,40 +100,58 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>0</integer>
+            <integer>-59</integer>
             <key>width</key>
-            <integer>21</integer>
+            <integer>70</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>550</integer>
+            <integer>59</integer>
             <key>width</key>
-            <integer>71</integer>
+            <integer>68</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>575</integer>
+            <integer>549</integer>
             <key>width</key>
-            <integer>61</integer>
+            <integer>72</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>573</integer>
+            <key>width</key>
+            <integer>63</integer>
           </dict>
         </array>
         <key>vhints</key>
         <array>
           <dict>
             <key>position</key>
-            <integer>39</integer>
+            <integer>35</integer>
             <key>width</key>
-            <integer>73</integer>
+            <integer>79</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>220</integer>
+            <integer>152</integer>
             <key>width</key>
-            <integer>66</integer>
+            <integer>69</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>402</integer>
+            <integer>227</integer>
+            <key>width</key>
+            <integer>71</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>422</integer>
+            <key>width</key>
+            <integer>67</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>620</integer>
             <key>width</key>
             <integer>67</integer>
           </dict>

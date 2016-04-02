@@ -48,16 +48,16 @@
             <key>position</key>
             <integer>-2</integer>
             <key>width</key>
-            <integer>84</integer>
+            <integer>89</integer>
           </dict>
         </array>
         <key>vhints</key>
         <array>
           <dict>
             <key>position</key>
-            <integer>423</integer>
+            <integer>420</integer>
             <key>width</key>
-            <integer>87</integer>
+            <integer>90</integer>
           </dict>
         </array>
       </dict>

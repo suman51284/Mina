@@ -1854,5 +1854,9 @@
     <string>bnG_andaM_ark.glif</string>
     <key>nbsp</key>
     <string>nbsp.glif</string>
+    <key>nbspace</key>
+    <string>nbspace.glif</string>
+    <key>DivisionSlash</key>
+    <string>D_ivisionS_lash.glif</string>
   </dict>
 </plist>

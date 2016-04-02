@@ -115,33 +115,33 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>-181</integer>
+            <integer>-146</integer>
             <key>width</key>
             <integer>72</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>3</integer>
+            <integer>16</integer>
             <key>width</key>
-            <integer>75</integer>
+            <integer>67</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>287</integer>
+            <integer>290</integer>
             <key>width</key>
             <integer>70</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>428</integer>
+            <integer>431</integer>
             <key>width</key>
-            <integer>59</integer>
+            <integer>60</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>577</integer>
+            <integer>571</integer>
             <key>width</key>
-            <integer>57</integer>
+            <integer>66</integer>
           </dict>
         </array>
         <key>vhints</key>
@@ -156,7 +156,7 @@
             <key>position</key>
             <integer>518</integer>
             <key>width</key>
-            <integer>55</integer>
+            <integer>57</integer>
           </dict>
           <dict>
             <key>position</key>
@@ -166,15 +166,15 @@
           </dict>
           <dict>
             <key>position</key>
-            <integer>565</integer>
+            <integer>569</integer>
             <key>width</key>
-            <integer>47</integer>
+            <integer>68</integer>
           </dict>
           <dict>
             <key>position</key>
             <integer>569</integer>
             <key>width</key>
-            <integer>68</integer>
+            <integer>43</integer>
           </dict>
         </array>
       </dict>

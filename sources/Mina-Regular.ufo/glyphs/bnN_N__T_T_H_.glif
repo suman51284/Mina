@@ -95,28 +95,34 @@
           </dict>
           <dict>
             <key>position</key>
-            <integer>525</integer>
+            <integer>543</integer>
             <key>width</key>
-            <integer>68</integer>
+            <integer>64</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>575</integer>
+            <integer>573</integer>
             <key>width</key>
-            <integer>61</integer>
+            <integer>63</integer>
           </dict>
         </array>
         <key>vhints</key>
         <array>
           <dict>
             <key>position</key>
-            <integer>40</integer>
+            <integer>35</integer>
             <key>width</key>
-            <integer>68</integer>
+            <integer>70</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>618</integer>
+            <integer>396</integer>
+            <key>width</key>
+            <integer>14</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>625</integer>
             <key>width</key>
             <integer>73</integer>
           </dict>

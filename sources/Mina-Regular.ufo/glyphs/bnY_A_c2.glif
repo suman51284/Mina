@@ -47,22 +47,22 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>575</integer>
+            <integer>573</integer>
             <key>width</key>
-            <integer>61</integer>
+            <integer>63</integer>
           </dict>
         </array>
         <key>vhints</key>
         <array>
           <dict>
             <key>position</key>
-            <integer>41</integer>
+            <integer>29</integer>
             <key>width</key>
-            <integer>67</integer>
+            <integer>72</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>124</integer>
+            <integer>112</integer>
             <key>width</key>
             <integer>69</integer>
           </dict>

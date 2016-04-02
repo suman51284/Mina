@@ -113,15 +113,21 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>10</integer>
+            <integer>-55</integer>
             <key>width</key>
-            <integer>78</integer>
+            <integer>73</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>119</integer>
+            <integer>55</integer>
             <key>width</key>
-            <integer>75</integer>
+            <integer>68</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>123</integer>
+            <key>width</key>
+            <integer>71</integer>
           </dict>
           <dict>
             <key>position</key>
@@ -137,30 +143,30 @@
           </dict>
           <dict>
             <key>position</key>
-            <integer>575</integer>
+            <integer>573</integer>
             <key>width</key>
-            <integer>61</integer>
+            <integer>63</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>587</integer>
+            <integer>585</integer>
             <key>width</key>
-            <integer>49</integer>
+            <integer>51</integer>
           </dict>
         </array>
         <key>vhints</key>
         <array>
           <dict>
             <key>position</key>
-            <integer>228</integer>
+            <integer>191</integer>
             <key>width</key>
-            <integer>62</integer>
+            <integer>67</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>265</integer>
+            <integer>228</integer>
             <key>width</key>
-            <integer>65</integer>
+            <integer>63</integer>
           </dict>
           <dict>
             <key>position</key>
@@ -176,7 +182,7 @@
           </dict>
           <dict>
             <key>position</key>
-            <integer>642</integer>
+            <integer>620</integer>
             <key>width</key>
             <integer>67</integer>
           </dict>

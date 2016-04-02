@@ -117,40 +117,40 @@
           </dict>
           <dict>
             <key>position</key>
-            <integer>174</integer>
+            <integer>198</integer>
             <key>width</key>
-            <integer>82</integer>
+            <integer>68</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>575</integer>
+            <integer>573</integer>
             <key>width</key>
-            <integer>61</integer>
+            <integer>63</integer>
           </dict>
         </array>
         <key>vhints</key>
         <array>
           <dict>
             <key>position</key>
-            <integer>142</integer>
+            <integer>119</integer>
             <key>width</key>
             <integer>67</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>426</integer>
+            <integer>403</integer>
             <key>width</key>
-            <integer>70</integer>
+            <integer>71</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>535</integer>
+            <integer>503</integer>
             <key>width</key>
-            <integer>47</integer>
+            <integer>45</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>591</integer>
+            <integer>561</integer>
             <key>width</key>
             <integer>66</integer>
           </dict>

@@ -100,40 +100,40 @@
           </dict>
           <dict>
             <key>position</key>
-            <integer>136</integer>
+            <integer>0</integer>
             <key>width</key>
-            <integer>73</integer>
+            <integer>21</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>323</integer>
+            <integer>128</integer>
             <key>width</key>
-            <integer>80</integer>
+            <integer>75</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>335</integer>
+            <integer>319</integer>
             <key>width</key>
-            <integer>70</integer>
+            <integer>71</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>575</integer>
+            <integer>573</integer>
             <key>width</key>
-            <integer>61</integer>
+            <integer>63</integer>
           </dict>
         </array>
         <key>vhints</key>
         <array>
           <dict>
             <key>position</key>
-            <integer>56</integer>
+            <integer>49</integer>
             <key>width</key>
-            <integer>68</integer>
+            <integer>70</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>685</integer>
+            <integer>680</integer>
             <key>width</key>
             <integer>65</integer>
           </dict>

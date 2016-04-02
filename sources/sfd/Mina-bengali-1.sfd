@@ -1,6 +1,6 @@
 SplineFontDB: 3.0
 FontName: Mina-Bold
-FullName: Mina
+FullName: Mina Bold
 FamilyName: Mina
 Weight: Bold
 Copyright: Copyright 2015 The Mina Project Authors, with Reserved Font Name 'Exo'
@@ -21,9 +21,13 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1437065704
+<<<<<<< HEAD
 ModificationTime: 1459618225
+=======
+ModificationTime: 1459017364
+>>>>>>> origin/master
 PfmFamily: 17
-TTFWeight: 400
+TTFWeight: 700
 TTFWidth: 5
 LineGap: 0
 VLineGap: 0
@@ -10581,7 +10585,6 @@ VStem: 52.8506 139.149<401.936 505.485> 235 119<234.658 325.355>
 AnchorPoint: "anchor0" 367 634 basechar 0
 LayerCount: 2
 Back
-Fore
 SplineSet
 408 34 m 9
  408 460 l 1xbc
@@ -10620,6 +10623,7 @@ SplineSet
  232.393554688 88.84375 263.373997822 84.9120005124 280 81 c 0
  348 65 408 34 408 34 c 9
 EndSplineSet
+Fore
 LCarets2: 1 0
 Ligature2: "'pres' Pre Base Substitutions lookup 14 subtable" bnGA.half bnNA
 EndChar
@@ -20483,7 +20487,6 @@ HStem: 0 21G<93 202> 526 102<202 259.358> 526 110<-14 91 210.119 330> 680 83<-40
 VStem: -504 99<768.047 805.317> 93 109<0 526 636 748.604>
 LayerCount: 2
 Back
-Fore
 SplineSet
 -37 748 m 1x9e
  -37 748 -29.791015625 755.887695312 7.2451171875 782.854492188 c 0
@@ -20493,6 +20496,7 @@ SplineSet
  -37 748 l 1x9e
 EndSplineSet
 Refer: 101 2496 N 1 0 0 1 0 0 2
+Fore
 LCarets2: 1 0
 Substitution2: "Single Substitution lookup 17 subtable" bnReph_bnmII2
 Ligature2: "'abvs' Above Base Substitutions lookup 15 subtable" bnReph bnmII
@@ -31597,7 +31601,6 @@ Width: 508
 Flags: HW
 LayerCount: 2
 Back
-Fore
 SplineSet
 211 598 m 1
  301 737 l 1
@@ -31632,6 +31635,7 @@ SplineSet
  179 204 l 2
  79.6666666667 204 30 251.666666667 30 347 c 2
 EndSplineSet
+Fore
 EndChar
 
 StartChar: Scircumflex
@@ -31890,7 +31894,6 @@ Width: 508
 Flags: HW
 LayerCount: 2
 Back
-Fore
 SplineSet
 106 734 m 1
  199 734 l 1
@@ -31928,6 +31931,7 @@ SplineSet
  179 204 l 2
  79.6666666667 204 30 251.666666667 30 347 c 2
 EndSplineSet
+Fore
 EndChar
 
 StartChar: uni0162
@@ -32095,7 +32099,6 @@ Width: 374
 Flags: HW
 LayerCount: 2
 Back
-Fore
 SplineSet
 15 425 m 1
  15 503 l 1
@@ -32125,6 +32128,7 @@ SplineSet
  101 425 l 1
  15 425 l 1
 EndSplineSet
+Fore
 EndChar
 
 StartChar: Utilde

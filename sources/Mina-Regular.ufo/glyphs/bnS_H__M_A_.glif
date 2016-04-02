@@ -111,64 +111,58 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>0</integer>
-            <key>width</key>
-            <integer>73</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>132</integer>
-            <key>width</key>
-            <integer>71</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>299</integer>
-            <key>width</key>
-            <integer>65</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>526</integer>
+            <integer>64</integer>
             <key>width</key>
             <integer>69</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>575</integer>
+            <integer>138</integer>
             <key>width</key>
-            <integer>61</integer>
+            <integer>68</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>562</integer>
+            <key>width</key>
+            <integer>72</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>573</integer>
+            <key>width</key>
+            <integer>63</integer>
           </dict>
         </array>
         <key>vhints</key>
         <array>
           <dict>
             <key>position</key>
-            <integer>199</integer>
+            <integer>198</integer>
             <key>width</key>
-            <integer>71</integer>
+            <integer>77</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>301</integer>
+            <integer>282</integer>
             <key>width</key>
-            <integer>65</integer>
+            <integer>67</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>485</integer>
+            <integer>457</integer>
             <key>width</key>
             <integer>69</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>507</integer>
+            <integer>479</integer>
             <key>width</key>
             <integer>47</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>678</integer>
+            <integer>649</integer>
             <key>width</key>
             <integer>67</integer>
           </dict>

@@ -74,42 +74,42 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>0</integer>
-            <key>width</key>
-            <integer>20</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>168</integer>
-            <key>width</key>
-            <integer>60</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>538</integer>
+            <integer>186</integer>
             <key>width</key>
             <integer>69</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>575</integer>
+            <integer>539</integer>
             <key>width</key>
-            <integer>61</integer>
+            <integer>68</integer>
           </dict>
         </array>
         <key>vhints</key>
         <array>
           <dict>
             <key>position</key>
-            <integer>77</integer>
+            <integer>47</integer>
             <key>width</key>
-            <integer>68</integer>
+            <integer>70</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>462</integer>
+            <integer>103</integer>
+            <key>width</key>
+            <integer>70</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>432</integer>
             <key>width</key>
             <integer>69</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>454</integer>
+            <key>width</key>
+            <integer>47</integer>
           </dict>
         </array>
       </dict>

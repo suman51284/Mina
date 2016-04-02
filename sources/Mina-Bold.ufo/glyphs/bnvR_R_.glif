@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="bnvRR" format="1">
-  <advance width="800"/>
+  <advance width="810"/>
   <unicode hex="09E0"/>
   <outline>
     <component base="bnmvR" xOffset="648" yOffset="4"/>

@@ -72,40 +72,40 @@
           </dict>
           <dict>
             <key>position</key>
-            <integer>450</integer>
+            <integer>449</integer>
+            <key>width</key>
+            <integer>67</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>573</integer>
+            <key>width</key>
+            <integer>63</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>706</integer>
             <key>width</key>
             <integer>66</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>575</integer>
-            <key>width</key>
-            <integer>61</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>708</integer>
-            <key>width</key>
-            <integer>64</integer>
           </dict>
         </array>
         <key>vhints</key>
         <array>
           <dict>
             <key>position</key>
-            <integer>336</integer>
+            <integer>313</integer>
             <key>width</key>
             <integer>71</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>520</integer>
+            <integer>493</integer>
             <key>width</key>
-            <integer>42</integer>
+            <integer>46</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>564</integer>
+            <integer>494</integer>
             <key>width</key>
             <integer>70</integer>
           </dict>
