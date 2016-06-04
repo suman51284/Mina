@@ -3,10 +3,10 @@
   <advance width="750"/>
   <outline>
     <contour>
-      <point x="404" y="-69" type="move" name="anchor 1"/>
+      <point x="404" y="-68" type="move" name="anchor 1"/>
     </contour>
     <contour>
-      <point x="404" y="637" type="move" name="anchor0"/>
+      <point x="544" y="636" type="move" name="anchor0"/>
     </contour>
     <contour>
       <point x="471" y="467" type="line"/>
@@ -45,12 +45,12 @@
       <point x="128" y="348" type="line"/>
       <point x="128" y="429" type="line"/>
       <point x="404" y="542" type="line"/>
-      <point x="404" y="574" type="line"/>
-      <point x="-12" y="575" type="line"/>
+      <point x="404" y="573" type="line"/>
+      <point x="-12" y="573" type="line"/>
       <point x="-12" y="636" type="line"/>
       <point x="763" y="636" type="line"/>
-      <point x="763" y="575" type="line"/>
-      <point x="469" y="575" type="line"/>
+      <point x="763" y="573" type="line"/>
+      <point x="470" y="573" type="line"/>
       <point x="470" y="538" type="line"/>
       <point x="601" y="503" type="line" smooth="yes"/>
       <point x="647.287" y="489.239"/>
@@ -93,9 +93,9 @@
           </dict>
           <dict>
             <key>position</key>
-            <integer>575</integer>
+            <integer>573</integer>
             <key>width</key>
-            <integer>61</integer>
+            <integer>63</integer>
           </dict>
         </array>
         <key>vhints</key>

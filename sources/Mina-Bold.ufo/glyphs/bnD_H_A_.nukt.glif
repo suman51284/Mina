@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="bnDHA.nukt" format="1">
-  <advance width="800"/>
+  <advance width="615"/>
   <outline>
+    <contour>
+      <point x="434" y="636.326" type="move" name="anchor0"/>
+    </contour>
+    <contour>
+      <point x="434" y="9" type="move" name="anchor 1"/>
+    </contour>
+    <contour>
+      <point x="434" y="0" type="move"/>
+    </contour>
     <component base="bnNukta" xOffset="319" yOffset="155"/>
     <component base="bnDHA"/>
   </outline>

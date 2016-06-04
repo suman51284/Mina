@@ -2,7 +2,13 @@
 <glyph name="bnMA.nukt" format="1">
   <advance width="650"/>
   <outline>
-    <component base="bnNukta" xOffset="479" yOffset="68"/>
+    <contour>
+      <point x="478" y="15" type="move" name="anchor 1"/>
+    </contour>
+    <contour>
+      <point x="413" y="636.4" type="move" name="anchor0"/>
+    </contour>
+    <component base="bnNukta" xOffset="509" yOffset="68"/>
     <component base="bnMA"/>
   </outline>
   <lib>

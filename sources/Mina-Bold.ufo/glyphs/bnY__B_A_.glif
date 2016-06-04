@@ -1,21 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="bnY_BA" format="1">
-  <advance width="675"/>
+  <advance width="650"/>
   <outline>
     <contour>
-      <point x="589.985" y="-310.696" type="line"/>
-      <point x="483.392" y="-310.7" type="line"/>
-      <point x="234.392" y="-136.7" type="line"/>
-      <point x="234.392" y="-21.7002" type="line"/>
-      <point x="484.392" y="81.2998" type="line"/>
-      <point x="589.985" y="81.2998" type="line"/>
+      <point x="402" y="637" type="move" name="anchor0"/>
     </contour>
     <contour>
-      <point x="483.392" y="-188.7" type="line"/>
-      <point x="483.392" y="-34.7002" type="line"/>
-      <point x="348.392" y="-92.7002" type="line"/>
+      <point x="482" y="-269" type="move" name="anchor 1"/>
     </contour>
-    <component base="bnYA" xOffset="2"/>
+    <component base="bnBAc2" xOffset="657.406" yOffset="33"/>
+    <component base="bnYA" xOffset="-1"/>
   </outline>
   <lib>
     <dict>

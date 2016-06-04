@@ -2,6 +2,12 @@
 <glyph name="bnTT_BA" format="1">
   <advance width="610"/>
   <outline>
+    <contour>
+      <point x="305" y="-259" type="move" name="anchor 1"/>
+    </contour>
+    <contour>
+      <point x="342" y="636.2" type="move" name="anchor0"/>
+    </contour>
     <component base="bnTTA" xOffset="2" yOffset="0.328125"/>
     <component base="bnBAc2" xOffset="482" yOffset="23"/>
   </outline>
@@ -31,7 +37,7 @@
           </dict>
           <dict>
             <key>position</key>
-            <integer>705</integer>
+            <integer>732</integer>
             <key>width</key>
             <integer>67</integer>
           </dict>
@@ -52,7 +58,7 @@
           </dict>
           <dict>
             <key>position</key>
-            <integer>418</integer>
+            <integer>437</integer>
             <key>width</key>
             <integer>70</integer>
           </dict>

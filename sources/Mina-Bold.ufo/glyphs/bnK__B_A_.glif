@@ -6,19 +6,19 @@
       <point x="308" y="-147" type="move" name="anchor 1"/>
     </contour>
     <contour>
-      <point x="307" y="636" type="move" name="anchor0"/>
+      <point x="437" y="636" type="move" name="anchor0"/>
     </contour>
     <contour>
       <point x="202" y="199" type="line"/>
       <point x="49" y="325" type="line"/>
       <point x="49" y="423" type="line"/>
       <point x="306" y="511" type="line"/>
-      <point x="306" y="526" type="line"/>
-      <point x="-12" y="526" type="line"/>
-      <point x="-12" y="636" type="line"/>
-      <point x="697" y="636" type="line"/>
-      <point x="697" y="526" type="line"/>
-      <point x="415" y="526" type="line"/>
+      <point x="306" y="530" type="line"/>
+      <point x="-12" y="530" type="line"/>
+      <point x="-12" y="636.328" type="line"/>
+      <point x="697" y="636.328" type="line"/>
+      <point x="697" y="530" type="line"/>
+      <point x="415" y="530" type="line"/>
       <point x="416" y="510" type="line"/>
       <point x="539" y="473" type="line" smooth="yes"/>
       <point x="592.653" y="457.22"/>
@@ -30,9 +30,9 @@
       <point x="594" y="232"/>
       <point x="563" y="205"/>
       <point x="563" y="205" type="curve"/>
-      <point x="491" y="241" type="line"/>
+      <point x="494" y="248" type="line"/>
       <point x="511.854" y="280.197" type="line" smooth="yes"/>
-      <point x="523.878" y="303.08"/>
+      <point x="524.357" y="302.744"/>
       <point x="533" y="323.348"/>
       <point x="533" y="335" type="curve" smooth="yes"/>
       <point x="533" y="368.177"/>

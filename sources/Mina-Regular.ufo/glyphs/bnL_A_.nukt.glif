@@ -2,6 +2,12 @@
 <glyph name="bnLA.nukt" format="1">
   <advance width="725"/>
   <outline>
+    <contour>
+      <point x="518" y="636.8" type="move" name="anchor0"/>
+    </contour>
+    <contour>
+      <point x="588" y="0" type="move" name="anchor 1"/>
+    </contour>
     <component base="bnNukta" xOffset="498" yOffset="168"/>
     <component base="bnLA"/>
   </outline>

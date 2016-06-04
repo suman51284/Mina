@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="bnmO" format="1">
-  <advance width="820"/>
+  <advance width="900"/>
   <unicode hex="09CB"/>
   <outline>
+    <component base="bnNukta" xOffset="620" yOffset="430"/>
     <component base="bnmAA" xOffset="586" yOffset="0.328125"/>
     <component base="bnmE"/>
   </outline>

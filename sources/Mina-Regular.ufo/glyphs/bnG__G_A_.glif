@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="bnG_GA" format="1">
-  <advance width="500"/>
+  <advance width="535"/>
   <outline>
     <contour>
-      <point x="382" y="636" type="move" name="anchor0"/>
+      <point x="387" y="11" type="move" name="anchor 1"/>
+    </contour>
+    <contour>
+      <point x="388.9" y="636.2" type="move" name="anchor0"/>
     </contour>
     <contour>
       <point x="155" y="327" type="curve" smooth="yes"/>
@@ -26,12 +29,12 @@
       <point x="188.266" y="620.778"/>
       <point x="389" y="563"/>
       <point x="389" y="563" type="curve"/>
-      <point x="389" y="617" type="line"/>
+      <point x="389" y="636.199" type="line"/>
       <point x="381" y="702" type="line"/>
       <point x="417" y="702" type="line"/>
       <point x="443" y="636.328" type="line"/>
-      <point x="509" y="636.328" type="line"/>
-      <point x="509" y="573" type="line"/>
+      <point x="550" y="636.328" type="line"/>
+      <point x="550" y="573" type="line"/>
       <point x="456" y="573" type="line"/>
       <point x="456" y="0" type="line"/>
       <point x="387" y="0" type="line"/>
@@ -163,12 +166,6 @@
             <integer>388</integer>
             <key>width</key>
             <integer>68</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>389</integer>
-            <key>width</key>
-            <integer>120</integer>
           </dict>
         </array>
       </dict>

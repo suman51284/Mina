@@ -3,9 +3,15 @@
   <advance width="600"/>
   <outline>
     <contour>
-      <point x="353" y="634" type="move" name="anchor0"/>
+      <point x="409.1" y="636.2" type="move" name="anchor0"/>
     </contour>
-    <component base="bnNukta" xOffset="406" yOffset="129"/>
+    <contour>
+      <point x="408" y="9.9" type="move" name="anchor 1"/>
+    </contour>
+    <contour>
+      <point x="408" y="0" type="move"/>
+    </contour>
+    <component base="bnNukta" xOffset="404" yOffset="129"/>
     <component base="bnGA"/>
   </outline>
   <lib>
@@ -43,25 +49,25 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>37</integer>
+            <integer>35</integer>
             <key>width</key>
             <integer>139</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>202</integer>
+            <integer>200</integer>
             <key>width</key>
             <integer>95</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>219</integer>
+            <integer>217</integer>
             <key>width</key>
             <integer>119</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>408</integer>
+            <integer>406</integer>
             <key>width</key>
             <integer>117</integer>
           </dict>

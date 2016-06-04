@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="asRA.nukt.half" format="1">
-  <advance width="650"/>
+  <advance width="585"/>
   <outline>
     <component base="bnVirama" xOffset="650"/>
-    <component base="bnNukta" xOffset="344" yOffset="189"/>
+    <component base="bnNukta" xOffset="304" yOffset="149"/>
     <component base="asRA"/>
   </outline>
   <lib>

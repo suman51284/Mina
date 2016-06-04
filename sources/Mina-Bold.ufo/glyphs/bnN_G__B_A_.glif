@@ -1,24 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="bnNG_BA" format="1">
-  <advance width="700"/>
+  <advance width="775"/>
   <outline>
     <contour>
-      <point x="414" y="634" type="move" name="anchor0"/>
+      <point x="512" y="636" type="move" name="anchor0"/>
     </contour>
-    <contour>
-      <point x="552.594" y="-284.996" type="line"/>
-      <point x="446" y="-285" type="line"/>
-      <point x="197" y="-111" type="line"/>
-      <point x="197" y="4" type="line"/>
-      <point x="447" y="107" type="line"/>
-      <point x="552.594" y="107" type="line"/>
-    </contour>
-    <contour>
-      <point x="446" y="-163" type="line"/>
-      <point x="446" y="-9" type="line"/>
-      <point x="311" y="-67" type="line"/>
-    </contour>
-    <component base="bnNGA" xOffset="14"/>
+    <component base="bnBAc2" xOffset="628.07" yOffset="29"/>
+    <component base="bnNGA" xOffset="12"/>
   </outline>
   <lib>
     <dict>

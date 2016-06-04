@@ -3,7 +3,7 @@
   <advance width="850"/>
   <outline>
     <contour>
-      <point x="467" y="637" type="move" name="anchor0"/>
+      <point x="644" y="636.5" type="move" name="anchor0"/>
     </contour>
     <contour>
       <point x="565" y="242" type="line"/>

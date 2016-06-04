@@ -2,7 +2,13 @@
 <glyph name="bnTTA.nukt" format="1">
   <advance width="650"/>
   <outline>
-    <component base="bnNukta" xOffset="367" yOffset="14"/>
+    <contour>
+      <point x="187" y="15" type="move" name="anchor 1"/>
+    </contour>
+    <contour>
+      <point x="394" y="636.7" type="move" name="anchor0"/>
+    </contour>
+    <component base="bnNukta" xOffset="367" yOffset="8"/>
     <component base="bnTTA"/>
   </outline>
   <lib>

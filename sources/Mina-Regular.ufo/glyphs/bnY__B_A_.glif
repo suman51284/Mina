@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="bnY_BA" format="1">
-  <advance width="616"/>
+  <advance width="620"/>
   <outline>
+    <contour>
+      <point x="486" y="-284" type="move" name="anchor 1"/>
+    </contour>
+    <contour>
+      <point x="422" y="636.2" type="move" name="anchor0"/>
+    </contour>
     <component base="bnYA" xOffset="-3"/>
     <component base="bnBAc2" xOffset="662.402" yOffset="-1.7"/>
   </outline>

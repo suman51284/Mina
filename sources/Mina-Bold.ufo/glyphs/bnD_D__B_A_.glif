@@ -1,24 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="bnDD_BA" format="1">
-  <advance width="780"/>
+  <advance width="790"/>
   <outline>
     <contour>
-      <point x="453" y="636" type="move" name="anchor0"/>
+      <point x="483" y="-264" type="move" name="anchor 1"/>
     </contour>
     <contour>
-      <point x="588.594" y="-286.996" type="line"/>
-      <point x="482" y="-287" type="line"/>
-      <point x="233" y="-113" type="line"/>
-      <point x="233" y="2" type="line"/>
-      <point x="483" y="105" type="line"/>
-      <point x="588.594" y="105" type="line"/>
+      <point x="523" y="636.41" type="move" name="anchor0"/>
     </contour>
-    <contour>
-      <point x="482" y="-165" type="line"/>
-      <point x="482" y="-11" type="line"/>
-      <point x="347" y="-69" type="line"/>
-    </contour>
-    <component base="bnDDA" xOffset="2" yOffset="0.328125"/>
+    <component base="bnBAc2" xOffset="660" yOffset="40"/>
+    <component base="bnDDA" xOffset="2" yOffset="0.000124994"/>
   </outline>
   <lib>
     <dict>

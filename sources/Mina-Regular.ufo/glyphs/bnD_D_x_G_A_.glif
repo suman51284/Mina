@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="bnDDx_GA" format="1">
-  <advance width="1025"/>
+  <advance width="1060"/>
   <outline>
     <contour>
-      <point x="854" y="637" type="move" name="anchor0"/>
+      <point x="913.8" y="10" type="move" name="anchor 1"/>
+    </contour>
+    <contour>
+      <point x="913.616" y="636.199" type="move" name="anchor0"/>
     </contour>
     <contour>
       <point x="304" y="154" type="curve" smooth="yes"/>
@@ -50,12 +53,12 @@
       <point x="913.617" y="0" type="line"/>
       <point x="981" y="0" type="line"/>
       <point x="981" y="573" type="line"/>
-      <point x="1036" y="573" type="line"/>
-      <point x="1036" y="636.328" type="line"/>
+      <point x="1071" y="573" type="line"/>
+      <point x="1071" y="636.328" type="line"/>
       <point x="968" y="636.328" type="line"/>
       <point x="942" y="702" type="line"/>
       <point x="906" y="702" type="line"/>
-      <point x="913.616" y="617" type="line"/>
+      <point x="913.616" y="636.199" type="line"/>
       <point x="913.617" y="561" type="line"/>
       <point x="913.617" y="561"/>
       <point x="766.266" y="621.778"/>

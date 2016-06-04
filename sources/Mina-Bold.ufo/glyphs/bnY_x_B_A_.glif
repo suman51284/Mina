@@ -1,23 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="bnYx_BA" format="1">
-  <advance width="666"/>
+  <advance width="650"/>
   <outline>
     <contour>
-      <point x="587.999" y="-305.996" type="line"/>
-      <point x="481.405" y="-306" type="line"/>
-      <point x="232.405" y="-132" type="line"/>
-      <point x="232.405" y="-17" type="line"/>
-      <point x="482.405" y="86" type="line"/>
-      <point x="587.999" y="86" type="line"/>
+      <point x="401" y="636.4" type="move" name="anchor0"/>
     </contour>
-    <contour>
-      <point x="481.405" y="-184" type="line"/>
-      <point x="481.405" y="-30" type="line"/>
-      <point x="346.405" y="-88" type="line"/>
-    </contour>
+    <component base="bnBAc2" xOffset="658.406" yOffset="20"/>
     <component base="bnYA"/>
-    <component base="bnNukta" xOffset="310" yOffset="154"/>
-    <component base="bnBAc2" xOffset="658.405" yOffset="3"/>
+    <component base="bnNukta" xOffset="300" yOffset="160.01"/>
   </outline>
   <lib>
     <dict>

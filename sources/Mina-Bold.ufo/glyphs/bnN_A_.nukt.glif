@@ -2,6 +2,12 @@
 <glyph name="bnNA.nukt" format="1">
   <advance width="645"/>
   <outline>
+    <contour>
+      <point x="462" y="14" type="move" name="anchor 1"/>
+    </contour>
+    <contour>
+      <point x="385" y="636" type="move" name="anchor0"/>
+    </contour>
     <component base="bnNukta" xOffset="482" yOffset="82"/>
     <component base="bnNA"/>
   </outline>

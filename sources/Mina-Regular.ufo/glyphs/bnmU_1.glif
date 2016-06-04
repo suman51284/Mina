@@ -6,9 +6,9 @@
       <point x="-148" y="0" type="move" name="_anchor 1"/>
     </contour>
     <contour>
-      <point x="-78" y="-25.3799" type="line"/>
-      <point x="-109.8" y="-139.605" type="line"/>
-      <point x="-82.0664" y="-154.81"/>
+      <point x="-90" y="-36" type="line"/>
+      <point x="-116" y="-135" type="line"/>
+      <point x="-88.2666" y="-150.204"/>
       <point x="45" y="-260"/>
       <point x="45" y="-260" type="curve"/>
       <point x="22" y="-291" type="line"/>

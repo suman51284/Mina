@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="bnSA_P_RA" format="1">
-  <advance width="1030"/>
+  <advance width="1050"/>
   <outline>
     <contour>
-      <point x="803" y="637" type="move" name="anchor0"/>
+      <point x="922" y="27" type="move" name="anchor 1"/>
+    </contour>
+    <contour>
+      <point x="908" y="636.199" type="move" name="anchor0"/>
     </contour>
     <contour>
       <point x="908" y="164" type="curve"/>
@@ -47,12 +50,12 @@
       <point x="839" y="553"/>
       <point x="908" y="485"/>
       <point x="908" y="485" type="curve"/>
-      <point x="908" y="617" type="line"/>
+      <point x="908" y="636.199" type="line"/>
       <point x="900.598" y="702" type="line"/>
       <point x="936.598" y="702" type="line"/>
       <point x="962.598" y="636.328" type="line"/>
-      <point x="1040.6" y="636.328" type="line"/>
-      <point x="1040.6" y="572.998" type="line"/>
+      <point x="1060.6" y="636.328" type="line"/>
+      <point x="1060.6" y="572.998" type="line"/>
       <point x="975.454" y="572.998" type="line"/>
       <point x="975.454" y="0" type="line"/>
       <point x="929.387" y="0" type="line"/>

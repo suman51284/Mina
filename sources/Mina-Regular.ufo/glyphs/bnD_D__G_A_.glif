@@ -1,21 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="bnDD_GA" format="1">
-  <advance width="1065"/>
+  <advance width="1090"/>
   <outline>
     <contour>
-      <point x="844" y="636" type="move" name="anchor0"/>
+      <point x="951.6" y="0" type="move" name="anchor 1"/>
+    </contour>
+    <contour>
+      <point x="951.7" y="636.3" type="move" name="anchor0"/>
     </contour>
     <contour>
       <point x="951.617" y="502" type="line"/>
       <point x="951.617" y="0" type="line"/>
       <point x="1019" y="0" type="line"/>
       <point x="1019" y="573" type="line"/>
-      <point x="1082" y="573" type="line"/>
-      <point x="1082" y="636.328" type="line"/>
+      <point x="1098" y="573" type="line"/>
+      <point x="1098" y="636.328" type="line"/>
       <point x="1006" y="636.328" type="line"/>
       <point x="980" y="702" type="line"/>
       <point x="944" y="702" type="line"/>
-      <point x="951.616" y="617" type="line"/>
+      <point x="951.616" y="636.299" type="line"/>
       <point x="951.617" y="561" type="line"/>
       <point x="951.617" y="561"/>
       <point x="804.266" y="621.778"/>

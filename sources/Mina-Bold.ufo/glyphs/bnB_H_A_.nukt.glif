@@ -1,11 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="bnBHA.nukt" format="1">
-  <advance width="850"/>
+  <advance width="800"/>
   <outline>
     <contour>
-      <point x="463" y="636" type="move" name="anchor0"/>
+      <point x="567" y="636.2" type="move" name="anchor0"/>
     </contour>
-    <component base="bnNukta" xOffset="582" yOffset="40"/>
+    <contour>
+      <point x="397" y="1.19209e-07" type="move" name="anchor 1"/>
+    </contour>
+    <component base="bnNukta" xOffset="582" yOffset="12"/>
     <component base="bnBHA"/>
   </outline>
   <lib>

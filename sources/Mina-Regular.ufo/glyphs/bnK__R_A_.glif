@@ -6,7 +6,7 @@
       <point x="556.96" y="0" type="move" name="anchor 1"/>
     </contour>
     <contour>
-      <point x="501.96" y="637" type="move" name="anchor0"/>
+      <point x="650.96" y="637" type="move" name="anchor0"/>
     </contour>
     <contour>
       <point x="534.961" y="160" type="line"/>

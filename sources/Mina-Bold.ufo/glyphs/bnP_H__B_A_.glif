@@ -1,24 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="bnPH_BA" format="1">
-  <advance width="882"/>
+  <advance width="890"/>
   <outline>
     <contour>
-      <point x="483" y="636" type="move" name="anchor0"/>
+      <point x="478" y="-270" type="move" name="anchor 1"/>
     </contour>
     <contour>
-      <point x="591.994" y="-310.596" type="line"/>
-      <point x="485.4" y="-310.6" type="line"/>
-      <point x="236.4" y="-136.6" type="line"/>
-      <point x="236.4" y="-21.5996" type="line"/>
-      <point x="486.4" y="81.4004" type="line"/>
-      <point x="591.994" y="81.4004" type="line"/>
+      <point x="643" y="636" type="move" name="anchor0"/>
     </contour>
-    <contour>
-      <point x="485.4" y="-188.6" type="line"/>
-      <point x="485.4" y="-34.5996" type="line"/>
-      <point x="350.4" y="-92.5996" type="line"/>
-    </contour>
-    <component base="bnPHA" xOffset="4"/>
+    <component base="bnBAc2" xOffset="652.406" yOffset="33"/>
+    <component base="bnPHA" xOffset="-6"/>
   </outline>
   <lib>
     <dict>

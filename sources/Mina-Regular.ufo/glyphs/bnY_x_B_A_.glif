@@ -2,6 +2,9 @@
 <glyph name="bnYx_BA" format="1">
   <advance width="625"/>
   <outline>
+    <contour>
+      <point x="425" y="636.2" type="move" name="anchor0"/>
+    </contour>
     <component base="bnYA"/>
     <component base="bnNukta" xOffset="350" yOffset="180"/>
     <component base="bnBAc2" xOffset="665.4"/>

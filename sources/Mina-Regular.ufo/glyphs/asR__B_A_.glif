@@ -2,6 +2,9 @@
 <glyph name="asR_BA" format="1">
   <advance width="575"/>
   <outline>
+    <contour>
+      <point x="399" y="636.2" type="move" name="anchor0"/>
+    </contour>
     <component base="bnBAc2" xOffset="613.4" yOffset="-2"/>
     <component base="asRA"/>
   </outline>

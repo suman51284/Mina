@@ -3,9 +3,12 @@
   <advance width="585"/>
   <outline>
     <contour>
-      <point x="223" y="635" type="move" name="anchor0"/>
+      <point x="323" y="636.2" type="move" name="anchor0"/>
     </contour>
-    <component base="bnNukta" xOffset="290" yOffset="62"/>
+    <contour>
+      <point x="269" y="0" type="move" name="anchor 1"/>
+    </contour>
+    <component base="bnNukta" xOffset="280" yOffset="51"/>
     <component base="bnHA"/>
   </outline>
   <lib>

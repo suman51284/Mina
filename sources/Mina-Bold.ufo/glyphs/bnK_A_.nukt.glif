@@ -6,7 +6,7 @@
       <point x="423" y="0" type="move" name="anchor 1"/>
     </contour>
     <contour>
-      <point x="423" y="636" type="move" name="anchor0"/>
+      <point x="594" y="636.3" type="move" name="anchor0"/>
     </contour>
     <component base="bnNukta" xOffset="324" yOffset="170"/>
     <component base="bnKA"/>

@@ -3,19 +3,13 @@
   <advance width="650"/>
   <outline>
     <contour>
-      <point x="588" y="-308.996" type="line"/>
-      <point x="481.406" y="-309" type="line"/>
-      <point x="232.406" y="-135" type="line"/>
-      <point x="232.406" y="-20" type="line"/>
-      <point x="482.406" y="83" type="line"/>
-      <point x="588" y="83" type="line"/>
+      <point x="414" y="636.5" type="move" name="anchor0"/>
     </contour>
     <contour>
-      <point x="481.406" y="-187" type="line"/>
-      <point x="481.406" y="-33" type="line"/>
-      <point x="346.406" y="-91" type="line"/>
+      <point x="483" y="-270" type="move" name="anchor 1"/>
     </contour>
-    <component base="bnGHA"/>
+    <component base="bnBAc2" xOffset="658.407" yOffset="33"/>
+    <component base="bnGHA" yOffset="-0.02"/>
   </outline>
   <lib>
     <dict>

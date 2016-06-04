@@ -1,21 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="bnSS_BA" format="1">
-  <advance width="615"/>
+  <advance width="645"/>
   <outline>
     <contour>
-      <point x="592.994" y="-315.696" type="line"/>
-      <point x="486.4" y="-315.7" type="line"/>
-      <point x="237.4" y="-141.7" type="line"/>
-      <point x="237.4" y="-26.7002" type="line"/>
-      <point x="487.4" y="76.2998" type="line"/>
-      <point x="592.994" y="76.2998" type="line"/>
+      <point x="402" y="636.3" type="move" name="anchor0"/>
     </contour>
     <contour>
-      <point x="486.4" y="-193.7" type="line"/>
-      <point x="486.4" y="-39.7002" type="line"/>
-      <point x="351.4" y="-97.7002" type="line"/>
+      <point x="478" y="-298.3" type="move" name="anchor 1"/>
     </contour>
-    <component base="bnSSA" xOffset="5" yOffset="-0.671875"/>
+    <component base="bnBAc2" xOffset="653.406" yOffset="5"/>
+    <component base="bnSSA" xOffset="-5" yOffset="-0.023875"/>
   </outline>
   <lib>
     <dict>

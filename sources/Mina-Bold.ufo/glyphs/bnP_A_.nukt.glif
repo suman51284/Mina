@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="bnPA.nukt" format="1">
-  <advance width="770"/>
+  <advance width="750"/>
   <outline>
     <contour>
-      <point x="533" y="636.328" type="move" name="anchor0"/>
+      <point x="576" y="14" type="move" name="anchor 1"/>
+    </contour>
+    <contour>
+      <point x="574" y="636.3" type="move" name="anchor0"/>
     </contour>
     <component base="bnNukta" xOffset="425" yOffset="154"/>
     <component base="bnPA"/>

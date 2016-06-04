@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="bnDDxA.half" format="1">
-  <advance width="0"/>
+  <advance width="640"/>
   <outline>
-    <component base="bnNukta" xOffset="473" yOffset="170"/>
-    <component base="bnDDA.half"/>
+    <component base="bnNukta" xOffset="478" yOffset="170"/>
+    <component base="bnDDA.half" xOffset="5"/>
   </outline>
   <lib>
     <dict>
@@ -40,19 +40,19 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>269</integer>
+            <integer>274</integer>
             <key>width</key>
             <integer>95</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>280</integer>
+            <integer>284</integer>
             <key>width</key>
             <integer>65</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>494</integer>
+            <integer>498</integer>
             <key>width</key>
             <integer>64</integer>
           </dict>

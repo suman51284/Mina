@@ -2,8 +2,14 @@
 <glyph name="bnSS_BA" format="1">
   <advance width="615"/>
   <outline>
-    <component base="bnSSA" xOffset="5" yOffset="-0.671875"/>
-    <component base="bnBAc2" xOffset="659.4" yOffset="-0.7"/>
+    <contour>
+      <point x="472" y="-282" type="move" name="anchor 1"/>
+    </contour>
+    <contour>
+      <point x="410" y="636.268" type="move" name="anchor0"/>
+    </contour>
+    <component base="bnSSA" xOffset="-5" yOffset="0.000249964"/>
+    <component base="bnBAc2" xOffset="649.4" yOffset="-0.7"/>
   </outline>
   <lib>
     <dict>
@@ -13,19 +19,19 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>-1</integer>
+            <integer>0</integer>
             <key>width</key>
             <integer>21</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>352</integer>
+            <integer>353</integer>
             <key>width</key>
             <integer>76</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>572</integer>
+            <integer>573</integer>
             <key>width</key>
             <integer>63</integer>
           </dict>
@@ -34,13 +40,13 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>482</integer>
+            <integer>472</integer>
             <key>width</key>
             <integer>68</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>485</integer>
+            <integer>475</integer>
             <key>width</key>
             <integer>65</integer>
           </dict>

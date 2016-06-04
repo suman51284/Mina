@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="bnGA.nukt.half" format="1">
-  <advance width="0"/>
+  <advance width="589"/>
   <outline>
-    <component base="bnGA"/>
-    <component base="bnNukta" xOffset="386" yOffset="128"/>
-    <component base="bnVirama" xOffset="627" yOffset="-7"/>
+    <component base="bnGA" xOffset="-5"/>
+    <component base="bnNukta" xOffset="381" yOffset="128"/>
+    <component base="bnVirama" xOffset="622" yOffset="-7"/>
   </outline>
   <lib>
     <dict>
@@ -47,31 +47,31 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>37</integer>
+            <integer>52</integer>
             <key>width</key>
             <integer>139</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>182</integer>
+            <integer>197</integer>
             <key>width</key>
             <integer>95</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>219</integer>
+            <integer>234</integer>
             <key>width</key>
             <integer>119</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>408</integer>
+            <integer>423</integer>
             <key>width</key>
             <integer>117</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>408</integer>
+            <integer>423</integer>
             <key>width</key>
             <integer>307</integer>
           </dict>

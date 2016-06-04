@@ -2,6 +2,15 @@
 <glyph name="bnGHA.nukt" format="1">
   <advance width="650"/>
   <outline>
+    <contour>
+      <point x="398" y="635.8" type="move" name="anchor0"/>
+    </contour>
+    <contour>
+      <point x="467" y="17.4" type="move" name="anchor 1"/>
+    </contour>
+    <contour>
+      <point x="463" y="0" type="move"/>
+    </contour>
     <component base="bnNukta" xOffset="369" yOffset="138"/>
     <component base="bnGHA"/>
   </outline>

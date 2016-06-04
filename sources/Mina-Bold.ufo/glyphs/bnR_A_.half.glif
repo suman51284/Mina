@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="bnRA.half" format="1">
-  <advance width="0"/>
+  <advance width="578"/>
   <outline>
-    <component base="bnBA"/>
-    <component base="bnNukta" xOffset="334" yOffset="160"/>
-    <component base="bnVirama" xOffset="642" yOffset="-1"/>
+    <component base="bnBA" xOffset="-1"/>
+    <component base="bnNukta" xOffset="313" yOffset="143"/>
+    <component base="bnVirama" xOffset="641" yOffset="-1"/>
   </outline>
   <lib>
     <dict>
@@ -41,19 +41,19 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>130</integer>
+            <integer>166</integer>
             <key>width</key>
             <integer>95</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>423</integer>
+            <integer>459</integer>
             <key>width</key>
             <integer>307</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>447</integer>
+            <integer>483</integer>
             <key>width</key>
             <integer>65</integer>
           </dict>

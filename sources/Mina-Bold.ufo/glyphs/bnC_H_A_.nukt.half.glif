@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="bnCHA.nukt.half" format="1">
-  <advance width="0"/>
+  <advance width="683"/>
   <outline>
     <component base="bnCHA"/>
-    <component base="bnNukta" xOffset="331" yOffset="63"/>
-    <component base="bnVirama" xOffset="540" yOffset="-26"/>
+    <component base="bnNukta" xOffset="291" yOffset="43"/>
+    <component base="bnVirama" xOffset="480" yOffset="-34"/>
   </outline>
   <lib>
     <dict>
@@ -35,25 +35,25 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>69</integer>
+            <integer>129</integer>
             <key>width</key>
             <integer>105</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>127</integer>
+            <integer>187</integer>
             <key>width</key>
             <integer>95</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>321</integer>
+            <integer>381</integer>
             <key>width</key>
             <integer>307</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>553</integer>
+            <integer>613</integer>
             <key>width</key>
             <integer>108</integer>
           </dict>

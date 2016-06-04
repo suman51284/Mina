@@ -3,21 +3,12 @@
   <advance width="650"/>
   <outline>
     <contour>
-      <point x="253" y="634" type="move" name="anchor0"/>
+      <point x="302" y="-265" type="move" name="anchor 1"/>
     </contour>
     <contour>
-      <point x="405.594" y="-282.996" type="line"/>
-      <point x="299" y="-283" type="line"/>
-      <point x="50" y="-109" type="line"/>
-      <point x="50" y="6" type="line"/>
-      <point x="300" y="109" type="line"/>
-      <point x="405.594" y="109" type="line"/>
+      <point x="403" y="636" type="move" name="anchor0"/>
     </contour>
-    <contour>
-      <point x="299" y="-161" type="line"/>
-      <point x="299" y="-7" type="line"/>
-      <point x="164" y="-65" type="line"/>
-    </contour>
+    <component base="bnBAc2" xOffset="479" yOffset="40"/>
     <component base="bnDDHA"/>
   </outline>
   <lib>

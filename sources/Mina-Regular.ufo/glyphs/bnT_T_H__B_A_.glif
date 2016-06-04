@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="bnTTH_BA" format="1">
-  <advance width="588"/>
+  <advance width="585"/>
   <outline>
+    <contour>
+      <point x="354" y="-264" type="move" name="anchor 1"/>
+    </contour>
+    <contour>
+      <point x="410" y="636.2" type="move" name="anchor0"/>
+    </contour>
     <component base="bnTTHA" xOffset="2"/>
     <component base="bnBAc2" xOffset="531" yOffset="18"/>
   </outline>

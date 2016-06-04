@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="bnG_LA" format="1">
-  <advance width="555"/>
+  <advance width="590"/>
   <outline>
     <contour>
-      <point x="407" y="635" type="move" name="anchor0"/>
+      <point x="441.7" y="-16" type="move" name="anchor 1"/>
+    </contour>
+    <contour>
+      <point x="441.3" y="636.3" type="move" name="anchor0"/>
     </contour>
     <contour>
       <point x="441.617" y="140" type="curve"/>
@@ -46,12 +49,12 @@
       <point x="274.266" y="621.778"/>
       <point x="441.617" y="561"/>
       <point x="441.617" y="561" type="curve"/>
-      <point x="441.616" y="617" type="line"/>
+      <point x="441.616" y="636.299" type="line"/>
       <point x="434" y="702" type="line"/>
       <point x="470" y="702" type="line"/>
       <point x="496" y="636.328" type="line"/>
-      <point x="569" y="636.328" type="line"/>
-      <point x="569" y="573" type="line"/>
+      <point x="600" y="636.328" type="line"/>
+      <point x="600" y="573" type="line"/>
       <point x="509" y="573" type="line"/>
       <point x="509" y="-30" type="line"/>
       <point x="441.617" y="-30" type="line"/>
@@ -133,12 +136,6 @@
             <integer>249</integer>
             <key>width</key>
             <integer>71</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>442</integer>
-            <key>width</key>
-            <integer>127</integer>
           </dict>
           <dict>
             <key>position</key>

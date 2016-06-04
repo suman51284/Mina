@@ -3,7 +3,7 @@
   <advance width="235"/>
   <outline>
     <contour>
-      <point x="-189" y="635" type="move" name="_anchor0"/>
+      <point x="-193" y="636.2" type="move" name="_anchor0"/>
     </contour>
     <component base="bnCandrabindu" xOffset="343"/>
     <component base="bnReph2_bnmII"/>

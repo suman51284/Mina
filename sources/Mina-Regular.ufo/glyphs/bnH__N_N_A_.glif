@@ -3,10 +3,10 @@
   <advance width="565"/>
   <outline>
     <contour>
-      <point x="381" y="-224" type="move" name="anchor 1"/>
+      <point x="386" y="-202" type="move" name="anchor 1"/>
     </contour>
     <contour>
-      <point x="354" y="637" type="move" name="anchor0"/>
+      <point x="381" y="636.7" type="move" name="anchor0"/>
     </contour>
     <contour>
       <point x="381.004" y="-21" type="curve"/>

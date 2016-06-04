@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="bnT_THA" format="1">
-  <advance width="685"/>
+  <advance width="700"/>
   <outline>
     <contour>
-      <point x="495" y="634" type="move" name="anchor0"/>
+      <point x="562" y="4" type="move" name="anchor 1"/>
+    </contour>
+    <contour>
+      <point x="562.2" y="636.2" type="move" name="anchor0"/>
     </contour>
     <contour>
       <point x="562.322" y="86" type="line"/>
@@ -60,8 +63,8 @@
       <point x="562.322" y="0" type="line"/>
       <point x="627.322" y="0" type="line"/>
       <point x="627.322" y="572.998" type="line"/>
-      <point x="693.322" y="572.998" type="line"/>
-      <point x="693.322" y="636.328" type="line"/>
+      <point x="708.322" y="572.998" type="line"/>
+      <point x="708.322" y="636.328" type="line"/>
       <point x="619.322" y="636.328" type="line"/>
       <point x="600.322" y="711" type="line"/>
       <point x="562.322" y="711" type="line"/>

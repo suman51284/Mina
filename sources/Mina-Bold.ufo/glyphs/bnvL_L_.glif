@@ -4,7 +4,7 @@
   <unicode hex="09E1"/>
   <outline>
     <contour>
-      <point x="493" y="634" type="move" name="anchor0"/>
+      <point x="483" y="532.328" type="move" name="anchor0"/>
     </contour>
     <component base="bnmvL" xOffset="445" yOffset="62"/>
     <component base="bnvL"/>

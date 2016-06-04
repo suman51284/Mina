@@ -2,6 +2,12 @@
 <glyph name="bnTTA.nukt" format="1">
   <advance width="610"/>
   <outline>
+    <contour>
+      <point x="180" y="5" type="move" name="anchor 1"/>
+    </contour>
+    <contour>
+      <point x="417" y="636.2" type="move" name="anchor0"/>
+    </contour>
     <component base="bnNukta" xOffset="367" yOffset="14"/>
     <component base="bnTTA"/>
   </outline>
@@ -37,7 +43,7 @@
           </dict>
           <dict>
             <key>position</key>
-            <integer>705</integer>
+            <integer>732</integer>
             <key>width</key>
             <integer>67</integer>
           </dict>
@@ -58,7 +64,7 @@
           </dict>
           <dict>
             <key>position</key>
-            <integer>416</integer>
+            <integer>435</integer>
             <key>width</key>
             <integer>70</integer>
           </dict>

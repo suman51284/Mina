@@ -2,6 +2,12 @@
 <glyph name="bnSSA.nukt" format="1">
   <advance width="625"/>
   <outline>
+    <contour>
+      <point x="422" y="636.3" type="move" name="anchor0"/>
+    </contour>
+    <contour>
+      <point x="480" y="0" type="move" name="anchor 1"/>
+    </contour>
     <component base="bnNukta" xOffset="339" yOffset="152"/>
     <component base="bnSSA"/>
   </outline>

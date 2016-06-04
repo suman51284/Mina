@@ -1,24 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="bnNY_BA" format="1">
-  <advance width="900"/>
+  <advance width="940"/>
   <outline>
     <contour>
-      <point x="543" y="634" type="move" name="anchor0"/>
+      <point x="753" y="636" type="move" name="anchor0"/>
     </contour>
-    <contour>
-      <point x="650.034" y="-197.556" type="line"/>
-      <point x="543.44" y="-197.56" type="line"/>
-      <point x="294.44" y="-23.5596" type="line"/>
-      <point x="294.44" y="91.4404" type="line"/>
-      <point x="544.44" y="194.44" type="line"/>
-      <point x="650.034" y="194.44" type="line"/>
-    </contour>
-    <contour>
-      <point x="543.44" y="-75.5596" type="line"/>
-      <point x="543.44" y="78.4404" type="line"/>
-      <point x="408.44" y="20.4404" type="line"/>
-    </contour>
-    <component base="bnNYA" xOffset="-10"/>
+    <component base="bnBAc2" xOffset="715.41" yOffset="80"/>
+    <component base="bnNYA" xOffset="-10.006"/>
   </outline>
   <lib>
     <dict>

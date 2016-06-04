@@ -4,6 +4,12 @@
   <unicode hex="09B2"/>
   <outline>
     <contour>
+      <point x="588" y="0" type="move" name="anchor 1"/>
+    </contour>
+    <contour>
+      <point x="518" y="636.8" type="move" name="anchor0"/>
+    </contour>
+    <contour>
       <point x="588" y="423" type="curve"/>
       <point x="588" y="573" type="line"/>
       <point x="-14" y="573" type="line"/>

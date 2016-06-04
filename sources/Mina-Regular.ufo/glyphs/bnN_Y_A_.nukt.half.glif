@@ -2,9 +2,9 @@
 <glyph name="bnNYA.nukt.half" format="1">
   <advance width="0"/>
   <outline>
-    <component base="bnNYA"/>
-    <component base="bnNukta" xOffset="571" yOffset="20"/>
-    <component base="bnVirama" xOffset="744" yOffset="-6"/>
+    <component base="bnNYA" xOffset="-30"/>
+    <component base="bnNukta" xOffset="541" yOffset="20"/>
+    <component base="bnVirama" xOffset="714" yOffset="-6"/>
   </outline>
   <lib>
     <dict>
@@ -59,31 +59,31 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>367</integer>
+            <integer>337</integer>
             <key>width</key>
             <integer>95</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>547</integer>
+            <integer>517</integer>
             <key>width</key>
             <integer>275</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>553</integer>
+            <integer>523</integer>
             <key>width</key>
             <integer>69</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>575</integer>
+            <integer>545</integer>
             <key>width</key>
             <integer>47</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>788</integer>
+            <integer>758</integer>
             <key>width</key>
             <integer>71</integer>
           </dict>

@@ -3,10 +3,10 @@
   <advance width="875"/>
   <outline>
     <contour>
-      <point x="714" y="0" type="move" name="anchor 1"/>
+      <point x="676" y="636.9" type="move" name="anchor0"/>
     </contour>
     <contour>
-      <point x="607" y="638" type="move" name="anchor0"/>
+      <point x="675" y="0" type="move" name="anchor 1"/>
     </contour>
     <component base="bnNukta" xOffset="525" yOffset="44"/>
     <component base="bnJA"/>

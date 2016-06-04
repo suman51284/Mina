@@ -3,10 +3,10 @@
   <advance width="660"/>
   <outline>
     <contour>
-      <point x="340" y="-29" type="move" name="anchor 1"/>
+      <point x="339" y="-21" type="move" name="anchor 1"/>
     </contour>
     <contour>
-      <point x="329" y="637" type="move" name="anchor0"/>
+      <point x="470" y="636.7" type="move" name="anchor0"/>
     </contour>
     <contour>
       <point x="119" y="504.999" type="line"/>

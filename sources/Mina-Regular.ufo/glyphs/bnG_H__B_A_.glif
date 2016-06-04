@@ -2,6 +2,12 @@
 <glyph name="bnGH_BA" format="1">
   <advance width="630"/>
   <outline>
+    <contour>
+      <point x="489" y="-280" type="move" name="anchor 1"/>
+    </contour>
+    <contour>
+      <point x="438" y="636.2" type="move" name="anchor0"/>
+    </contour>
     <component base="bnGHA"/>
     <component base="bnBAc2" xOffset="667.4"/>
   </outline>

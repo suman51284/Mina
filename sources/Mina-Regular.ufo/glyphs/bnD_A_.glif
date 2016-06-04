@@ -7,15 +7,15 @@
       <point x="325" y="0" type="move" name="anchor 1"/>
     </contour>
     <contour>
-      <point x="202" y="637" type="move" name="anchor0"/>
+      <point x="332" y="636.3" type="move" name="anchor0"/>
     </contour>
     <contour>
-      <point x="63" y="572.998" type="line"/>
-      <point x="-11" y="572.998" type="line"/>
+      <point x="63" y="573" type="line"/>
+      <point x="-11" y="573" type="line"/>
       <point x="-11" y="636.328" type="line"/>
       <point x="534" y="636.328" type="line"/>
-      <point x="534" y="572.998" type="line"/>
-      <point x="129.9" y="572.998" type="line"/>
+      <point x="534" y="573" type="line"/>
+      <point x="129.9" y="573" type="line"/>
       <point x="129.9" y="332" type="line"/>
       <point x="408.9" y="452" type="line"/>
       <point x="454.1" y="427" type="line"/>

@@ -2,6 +2,9 @@
 <glyph name="asW_BA" format="1">
   <advance width="608"/>
   <outline>
+    <contour>
+      <point x="399" y="636.2" type="move" name="anchor0"/>
+    </contour>
     <component base="bnBAc2" xOffset="628.4" yOffset="0.8"/>
     <component base="asWA"/>
   </outline>

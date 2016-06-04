@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="bnGHA.nukt.half" format="1">
-  <advance width="0"/>
+  <advance width="649"/>
   <outline>
     <component base="bnGHA"/>
     <component base="bnNukta" xOffset="362" yOffset="120"/>
@@ -47,25 +47,25 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>76</integer>
+            <integer>106</integer>
             <key>width</key>
             <integer>65</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>158</integer>
+            <integer>188</integer>
             <key>width</key>
             <integer>95</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>479</integer>
+            <integer>509</integer>
             <key>width</key>
             <integer>307</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>493</integer>
+            <integer>523</integer>
             <key>width</key>
             <integer>65</integer>
           </dict>

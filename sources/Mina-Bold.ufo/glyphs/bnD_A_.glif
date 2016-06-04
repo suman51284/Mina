@@ -4,27 +4,27 @@
   <unicode hex="09A6"/>
   <outline>
     <contour>
-      <point x="345" y="0" type="move" name="anchor 1"/>
+      <point x="346" y="0" type="move" name="anchor 1"/>
     </contour>
     <contour>
-      <point x="203" y="636" type="move" name="anchor0"/>
+      <point x="353" y="636" type="move" name="anchor0"/>
     </contour>
     <contour>
-      <point x="68" y="526" type="line"/>
+      <point x="68" y="530" type="line"/>
       <point x="68.1035" y="294.501" type="line"/>
-      <point x="132" y="212" type="line"/>
-      <point x="382" y="324" type="line"/>
+      <point x="126" y="209" type="line"/>
+      <point x="390" y="327" type="line"/>
       <point x="341" y="-35" type="line"/>
       <point x="415" y="-35" type="line"/>
       <point x="466.4" y="66" type="line"/>
       <point x="510.9" y="429" type="line"/>
-      <point x="438.9" y="466.605" type="line"/>
+      <point x="435.9" y="469.605" type="line"/>
       <point x="177" y="359" type="line"/>
-      <point x="177" y="526" type="line"/>
-      <point x="590" y="526" type="line"/>
+      <point x="177" y="530" type="line"/>
+      <point x="590" y="530" type="line"/>
       <point x="590" y="636.328" type="line"/>
       <point x="-11" y="636.328" type="line"/>
-      <point x="-11" y="526" type="line"/>
+      <point x="-11" y="530" type="line"/>
     </contour>
   </outline>
 </glyph>
