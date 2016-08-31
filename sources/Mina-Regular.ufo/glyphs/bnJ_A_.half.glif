@@ -2,7 +2,7 @@
 <glyph name="bnJA.half" format="1">
   <advance width="875"/>
   <outline>
-    <component base="bnVirama" xOffset="675"/>
+    <component base="bnVirama" xOffset="983"/>
     <component base="bnJA"/>
   </outline>
   <lib>
@@ -19,25 +19,19 @@
           </dict>
           <dict>
             <key>position</key>
-            <integer>34</integer>
+            <integer>30</integer>
             <key>width</key>
-            <integer>73</integer>
+            <integer>77</integer>
           </dict>
           <dict>
             <key>position</key>
             <integer>315</integer>
             <key>width</key>
-            <integer>66</integer>
+            <integer>67</integer>
           </dict>
         </array>
         <key>vhints</key>
         <array>
-          <dict>
-            <key>position</key>
-            <integer>478</integer>
-            <key>width</key>
-            <integer>275</integer>
-          </dict>
           <dict>
             <key>position</key>
             <integer>561</integer>
@@ -46,9 +40,9 @@
           </dict>
           <dict>
             <key>position</key>
-            <integer>676</integer>
+            <integer>784</integer>
             <key>width</key>
-            <integer>38</integer>
+            <integer>277</integer>
           </dict>
         </array>
       </dict>

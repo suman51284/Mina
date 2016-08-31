@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="bnTT_BA" format="1">
-  <advance width="610"/>
+  <advance width="600"/>
   <outline>
     <contour>
-      <point x="305" y="-259" type="move" name="anchor 1"/>
+      <point x="307" y="-264" type="move" name="anchor 1"/>
     </contour>
     <contour>
       <point x="342" y="636.2" type="move" name="anchor0"/>
@@ -21,7 +21,7 @@
             <key>position</key>
             <integer>0</integer>
             <key>width</key>
-            <integer>71</integer>
+            <integer>74</integer>
           </dict>
           <dict>
             <key>position</key>
@@ -46,25 +46,25 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>82</integer>
+            <integer>75</integer>
             <key>width</key>
-            <integer>67</integer>
+            <integer>73</integer>
           </dict>
           <dict>
             <key>position</key>
             <integer>305</integer>
             <key>width</key>
-            <integer>68</integer>
+            <integer>74</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>437</integer>
+            <integer>427</integer>
             <key>width</key>
             <integer>70</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>457</integer>
+            <integer>450</integer>
             <key>width</key>
             <integer>71</integer>
           </dict>

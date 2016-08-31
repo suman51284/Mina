@@ -45,9 +45,9 @@
       <point x="338" y="0"/>
       <point x="238" y="0" type="curve" smooth="yes"/>
       <point x="173" y="0"/>
-      <point x="79" y="37"/>
-      <point x="79" y="159" type="curve" smooth="yes"/>
-      <point x="79" y="530" type="line"/>
+      <point x="72" y="37"/>
+      <point x="72" y="159" type="curve" smooth="yes"/>
+      <point x="72" y="530" type="line"/>
       <point x="-14" y="530" type="line"/>
       <point x="-14" y="636.328" type="line"/>
     </contour>
@@ -96,28 +96,28 @@
           </dict>
           <dict>
             <key>position</key>
-            <integer>526</integer>
+            <integer>530</integer>
             <key>width</key>
-            <integer>110</integer>
+            <integer>106</integer>
           </dict>
         </array>
         <key>vhints</key>
         <array>
           <dict>
             <key>position</key>
-            <integer>79</integer>
+            <integer>72</integer>
             <key>width</key>
-            <integer>113</integer>
+            <integer>120</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>174</integer>
+            <integer>164</integer>
             <key>width</key>
             <integer>135</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>434</integer>
+            <integer>454</integer>
             <key>width</key>
             <integer>124</integer>
           </dict>

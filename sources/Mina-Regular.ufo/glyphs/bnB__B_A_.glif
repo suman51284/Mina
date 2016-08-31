@@ -9,9 +9,19 @@
       <point x="741" y="637" type="move" name="anchor0"/>
     </contour>
     <contour>
-      <point x="499" y="0" type="line"/>
+      <point x="433" y="93.7891" type="line"/>
+      <point x="433" y="454" type="line"/>
+      <point x="130" y="314" type="line"/>
+    </contour>
+    <contour>
+      <point x="809" y="93.7891" type="line"/>
+      <point x="809" y="454" type="line"/>
+      <point x="506" y="314" type="line"/>
+    </contour>
+    <contour>
+      <point x="506" y="0" type="line"/>
       <point x="433" y="0" type="line"/>
-      <point x="55" y="281" type="line"/>
+      <point x="55" y="273" type="line"/>
       <point x="55" y="362" type="line"/>
       <point x="433" y="532" type="line"/>
       <point x="433" y="572.998" type="line"/>
@@ -19,25 +29,15 @@
       <point x="-16" y="636.328" type="line"/>
       <point x="961" y="636.328" type="line"/>
       <point x="961" y="572.998" type="line"/>
-      <point x="874" y="573" type="line"/>
-      <point x="874" y="0" type="line"/>
+      <point x="882" y="573" type="line"/>
+      <point x="882" y="0" type="line"/>
       <point x="809" y="0" type="line"/>
-      <point x="499" y="229.963" type="line"/>
-    </contour>
-    <contour>
-      <point x="433" y="93.7891" type="line"/>
-      <point x="433" y="459" type="line"/>
-      <point x="130" y="318" type="line"/>
-    </contour>
-    <contour>
-      <point x="809" y="93.7891" type="line"/>
-      <point x="809" y="459" type="line"/>
-      <point x="506" y="318" type="line"/>
+      <point x="506" y="220" type="line"/>
     </contour>
     <contour>
       <point x="809" y="572.999" type="line" smooth="yes"/>
-      <point x="499" y="573" type="line"/>
-      <point x="499" y="393.481" type="line"/>
+      <point x="506" y="572.998" type="line"/>
+      <point x="506" y="396" type="line"/>
       <point x="809" y="532" type="line"/>
     </contour>
   </outline>
@@ -72,13 +72,13 @@
             <key>position</key>
             <integer>433</integer>
             <key>width</key>
-            <integer>66</integer>
+            <integer>73</integer>
           </dict>
           <dict>
             <key>position</key>
             <integer>809</integer>
             <key>width</key>
-            <integer>65</integer>
+            <integer>73</integer>
           </dict>
         </array>
       </dict>

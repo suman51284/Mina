@@ -14,9 +14,9 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>-279</integer>
+            <integer>-291</integer>
             <key>width</key>
-            <integer>260</integer>
+            <integer>272</integer>
           </dict>
           <dict>
             <key>position</key>
@@ -28,23 +28,23 @@
             <key>position</key>
             <integer>0</integer>
             <key>width</key>
-            <integer>118</integer>
+            <integer>113</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>81</integer>
+            <integer>74</integer>
             <key>width</key>
-            <integer>105</integer>
+            <integer>94</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>278</integer>
+            <integer>257</integer>
             <key>width</key>
             <integer>101</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>464</integer>
+            <integer>443</integer>
             <key>width</key>
             <integer>105</integer>
           </dict>
@@ -59,33 +59,27 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>406</integer>
+            <integer>356</integer>
             <key>width</key>
             <integer>95</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>564</integer>
+            <integer>511</integer>
             <key>width</key>
-            <integer>307</integer>
+            <integer>330</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>592</integer>
+            <integer>527</integer>
             <key>width</key>
-            <integer>107</integer>
+            <integer>120</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>850</integer>
+            <integer>798</integer>
             <key>width</key>
             <integer>102</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>860</integer>
-            <key>width</key>
-            <integer>91</integer>
           </dict>
         </array>
       </dict>

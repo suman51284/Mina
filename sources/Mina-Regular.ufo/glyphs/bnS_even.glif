@@ -21,12 +21,12 @@
       <point x="258" y="632"/>
       <point x="329" y="632" type="curve" smooth="yes"/>
       <point x="394" y="632"/>
-      <point x="457" y="594.999"/>
-      <point x="457" y="473" type="curve"/>
-      <point x="457" y="473"/>
-      <point x="457" y="137"/>
-      <point x="457" y="117" type="curve" smooth="yes"/>
-      <point x="457" y="72"/>
+      <point x="465" y="594.999"/>
+      <point x="465" y="473" type="curve"/>
+      <point x="465" y="473"/>
+      <point x="465" y="137"/>
+      <point x="465" y="117" type="curve" smooth="yes"/>
+      <point x="465" y="72"/>
       <point x="497.938" y="8.9873"/>
       <point x="497.938" y="8.9873" type="curve"/>
       <point x="456" y="-21" type="line"/>
@@ -35,20 +35,20 @@
     </contour>
     <contour>
       <point x="390" y="316" type="curve"/>
-      <point x="390" y="466" type="line"/>
-      <point x="390" y="526"/>
-      <point x="377" y="561"/>
-      <point x="325" y="561" type="curve" smooth="yes"/>
-      <point x="283" y="561"/>
-      <point x="193" y="508"/>
-      <point x="142" y="448" type="curve" smooth="yes"/>
-      <point x="115.772" y="417.145"/>
-      <point x="104" y="389"/>
-      <point x="104" y="370" type="curve" smooth="yes"/>
-      <point x="104" y="334"/>
-      <point x="135" y="316"/>
-      <point x="162" y="316" type="curve" smooth="yes"/>
-      <point x="235.822" y="316"/>
+      <point x="390" y="462" type="line"/>
+      <point x="390" y="522"/>
+      <point x="377" y="557"/>
+      <point x="325" y="557" type="curve" smooth="yes"/>
+      <point x="283" y="557"/>
+      <point x="199" y="508"/>
+      <point x="148" y="448" type="curve" smooth="yes"/>
+      <point x="121.772" y="417.145"/>
+      <point x="110" y="389"/>
+      <point x="110" y="370" type="curve" smooth="yes"/>
+      <point x="110" y="334"/>
+      <point x="141" y="316"/>
+      <point x="168" y="316" type="curve" smooth="yes"/>
+      <point x="241.821" y="316"/>
       <point x="390" y="316"/>
     </contour>
   </outline>
@@ -66,9 +66,9 @@
           </dict>
           <dict>
             <key>position</key>
-            <integer>561</integer>
+            <integer>557</integer>
             <key>width</key>
-            <integer>71</integer>
+            <integer>75</integer>
           </dict>
         </array>
         <key>vhints</key>
@@ -77,13 +77,13 @@
             <key>position</key>
             <integer>33</integer>
             <key>width</key>
-            <integer>71</integer>
+            <integer>77</integer>
           </dict>
           <dict>
             <key>position</key>
             <integer>390</integer>
             <key>width</key>
-            <integer>67</integer>
+            <integer>75</integer>
           </dict>
         </array>
       </dict>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="bnTTA.nukt" format="1">
-  <advance width="610"/>
+  <advance width="600"/>
   <outline>
     <contour>
-      <point x="180" y="5" type="move" name="anchor 1"/>
+      <point x="178" y="13" type="move" name="anchor 1"/>
     </contour>
     <contour>
       <point x="417" y="636.2" type="move" name="anchor0"/>
@@ -27,7 +27,7 @@
             <key>position</key>
             <integer>0</integer>
             <key>width</key>
-            <integer>71</integer>
+            <integer>74</integer>
           </dict>
           <dict>
             <key>position</key>
@@ -52,9 +52,9 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>80</integer>
+            <integer>73</integer>
             <key>width</key>
-            <integer>67</integer>
+            <integer>73</integer>
           </dict>
           <dict>
             <key>position</key>
@@ -64,13 +64,13 @@
           </dict>
           <dict>
             <key>position</key>
-            <integer>435</integer>
+            <integer>425</integer>
             <key>width</key>
             <integer>70</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>455</integer>
+            <integer>448</integer>
             <key>width</key>
             <integer>71</integer>
           </dict>

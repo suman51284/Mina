@@ -6,7 +6,7 @@
       <point x="398" y="635.8" type="move" name="anchor0"/>
     </contour>
     <contour>
-      <point x="467" y="17.4" type="move" name="anchor 1"/>
+      <point x="467" y="4.4" type="move" name="anchor 1"/>
     </contour>
     <contour>
       <point x="463" y="0" type="move"/>
@@ -22,7 +22,7 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>-29</integer>
+            <integer>-42</integer>
             <key>width</key>
             <integer>98</integer>
           </dict>
@@ -34,25 +34,19 @@
           </dict>
           <dict>
             <key>position</key>
-            <integer>365</integer>
+            <integer>361</integer>
             <key>width</key>
-            <integer>61</integer>
+            <integer>93</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>575</integer>
+            <integer>530</integer>
             <key>width</key>
-            <integer>61</integer>
+            <integer>106</integer>
           </dict>
         </array>
         <key>vhints</key>
         <array>
-          <dict>
-            <key>position</key>
-            <integer>76</integer>
-            <key>width</key>
-            <integer>65</integer>
-          </dict>
           <dict>
             <key>position</key>
             <integer>165</integer>
@@ -61,9 +55,9 @@
           </dict>
           <dict>
             <key>position</key>
-            <integer>493</integer>
+            <integer>478</integer>
             <key>width</key>
-            <integer>65</integer>
+            <integer>120</integer>
           </dict>
         </array>
       </dict>

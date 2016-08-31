@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="bnTA.half" format="1">
-  <advance width="775"/>
+  <advance width="729"/>
   <outline>
-    <component base="bnVirama" xOffset="641" yOffset="13"/>
+    <component base="bnVirama" xOffset="595" yOffset="13"/>
     <component base="bnTA"/>
   </outline>
   <lib>
@@ -40,13 +40,13 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>444</integer>
+            <integer>396</integer>
             <key>width</key>
-            <integer>275</integer>
+            <integer>277</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>650</integer>
+            <integer>614</integer>
             <key>width</key>
             <integer>70</integer>
           </dict>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="bnGHA.nukt" format="1">
-  <advance width="630"/>
+  <advance width="600"/>
   <outline>
     <contour>
       <point x="493" y="0" type="move" name="anchor 1"/>
@@ -9,7 +9,7 @@
       <point x="428" y="636.5" type="move" name="anchor0"/>
     </contour>
     <component base="bnGHA"/>
-    <component base="bnNukta" xOffset="369" yOffset="151"/>
+    <component base="bnNukta" xOffset="339.05" yOffset="151"/>
   </outline>
   <lib>
     <dict>
@@ -46,21 +46,21 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>75</integer>
+            <integer>45</integer>
             <key>width</key>
             <integer>73</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>165</integer>
+            <integer>135</integer>
             <key>width</key>
             <integer>95</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>493</integer>
+            <integer>463</integer>
             <key>width</key>
-            <integer>65</integer>
+            <integer>73</integer>
           </dict>
         </array>
       </dict>

@@ -10,8 +10,8 @@
       <point x="496.3" y="636.3" type="move" name="anchor0"/>
     </contour>
     <contour>
-      <point x="221.322" y="533" type="curve" smooth="yes"/>
-      <point x="163.322" y="533"/>
+      <point x="218.322" y="533" type="curve" smooth="yes"/>
+      <point x="160.322" y="533"/>
       <point x="69.3223" y="533"/>
       <point x="69.3223" y="533" type="curve"/>
       <point x="61.3223" y="586" type="line"/>
@@ -22,24 +22,24 @@
       <point x="401.322" y="552"/>
       <point x="401.322" y="441" type="curve" smooth="yes"/>
       <point x="401.322" y="333.357"/>
-      <point x="169.322" y="266"/>
-      <point x="169.322" y="266" type="curve"/>
+      <point x="172.322" y="269"/>
+      <point x="172.322" y="269" type="curve"/>
       <point x="496.322" y="82" type="line"/>
       <point x="496.322" y="711" type="line"/>
-      <point x="534.322" y="711" type="line"/>
-      <point x="553.322" y="636.328" type="line"/>
+      <point x="542.322" y="711" type="line"/>
+      <point x="561.322" y="636.328" type="line"/>
       <point x="643.322" y="636.328" type="line"/>
       <point x="643.322" y="572.998" type="line"/>
-      <point x="561.322" y="572.998" type="line"/>
-      <point x="561.322" y="0" type="line"/>
+      <point x="569.322" y="572.998" type="line"/>
+      <point x="569.322" y="0" type="line"/>
       <point x="496.322" y="0" type="line"/>
-      <point x="92.3223" y="231" type="line"/>
-      <point x="91.3223" y="317" type="line"/>
-      <point x="91.3223" y="317"/>
-      <point x="332.322" y="375.092"/>
-      <point x="332.322" y="454" type="curve" smooth="yes"/>
-      <point x="332.322" y="514"/>
-      <point x="322.322" y="533"/>
+      <point x="91.3223" y="231" type="line"/>
+      <point x="91.3223" y="318" type="line"/>
+      <point x="91.3223" y="318"/>
+      <point x="329.322" y="375.092"/>
+      <point x="329.322" y="454" type="curve" smooth="yes"/>
+      <point x="329.322" y="514"/>
+      <point x="319.322" y="533"/>
     </contour>
   </outline>
   <lib>
@@ -77,21 +77,21 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>332</integer>
+            <integer>329</integer>
             <key>width</key>
-            <integer>69</integer>
+            <integer>72</integer>
           </dict>
           <dict>
             <key>position</key>
             <integer>496</integer>
             <key>width</key>
-            <integer>65</integer>
+            <integer>73</integer>
           </dict>
           <dict>
             <key>position</key>
             <integer>496</integer>
             <key>width</key>
-            <integer>38</integer>
+            <integer>46</integer>
           </dict>
         </array>
       </dict>

@@ -7,7 +7,7 @@
       <point x="489.9" y="0" type="move" name="anchor 1"/>
     </contour>
     <contour>
-      <point x="430" y="636" type="move" name="anchor0"/>
+      <point x="470" y="636" type="move" name="anchor0"/>
     </contour>
     <contour>
       <point x="490" y="263" type="line"/>
@@ -44,8 +44,8 @@
       <point x="-9" y="636.328" type="line"/>
       <point x="631" y="636.328" type="line"/>
       <point x="631" y="573" type="line"/>
-      <point x="556" y="573" type="line"/>
-      <point x="555" y="0" type="line"/>
+      <point x="563" y="573" type="line"/>
+      <point x="563" y="0" type="line"/>
       <point x="490" y="0" type="line"/>
     </contour>
     <contour>
@@ -108,7 +108,7 @@
             <key>position</key>
             <integer>490</integer>
             <key>width</key>
-            <integer>65</integer>
+            <integer>73</integer>
           </dict>
         </array>
       </dict>

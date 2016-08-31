@@ -3,12 +3,12 @@
   <advance width="890"/>
   <outline>
     <contour>
-      <point x="478" y="-270" type="move" name="anchor 1"/>
+      <point x="478" y="-280" type="move" name="anchor 1"/>
     </contour>
     <contour>
       <point x="643" y="636" type="move" name="anchor0"/>
     </contour>
-    <component base="bnBAc2" xOffset="652.406" yOffset="33"/>
+    <component base="bnBAc2" xOffset="647.806" yOffset="38"/>
     <component base="bnPHA" xOffset="-6"/>
   </outline>
   <lib>
@@ -25,36 +25,42 @@
           </dict>
           <dict>
             <key>position</key>
-            <integer>390</integer>
+            <integer>382</integer>
             <key>width</key>
-            <integer>99</integer>
+            <integer>100</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>526</integer>
+            <integer>530</integer>
             <key>width</key>
-            <integer>110</integer>
+            <integer>106</integer>
           </dict>
         </array>
         <key>vhints</key>
         <array>
           <dict>
             <key>position</key>
-            <integer>482</integer>
+            <integer>245</integer>
             <key>width</key>
-            <integer>110</integer>
+            <integer>120</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>485</integer>
+            <integer>471</integer>
             <key>width</key>
-            <integer>107</integer>
+            <integer>121</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>744</integer>
+            <integer>472</integer>
             <key>width</key>
-            <integer>108</integer>
+            <integer>120</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>742</integer>
+            <key>width</key>
+            <integer>111</integer>
           </dict>
         </array>
       </dict>

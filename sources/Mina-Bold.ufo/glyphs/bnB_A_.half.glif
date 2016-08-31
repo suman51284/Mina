@@ -3,11 +3,11 @@
   <advance width="480"/>
   <outline>
     <contour>
-      <point x="415" y="530" type="line"/>
-      <point x="415" y="113" type="line"/>
-      <point x="307" y="113" type="line"/>
-      <point x="49" y="311" type="line"/>
-      <point x="49" y="409" type="line"/>
+      <point x="427" y="530" type="line"/>
+      <point x="427" y="100" type="line"/>
+      <point x="321" y="100" type="line"/>
+      <point x="44" y="311" type="line"/>
+      <point x="44" y="410" type="line"/>
       <point x="306" y="511" type="line"/>
       <point x="306" y="530" type="line"/>
       <point x="-12" y="530" type="line"/>
@@ -17,7 +17,7 @@
     </contour>
     <contour>
       <point x="307" y="247" type="line"/>
-      <point x="307" y="401" type="line"/>
+      <point x="307" y="398" type="line"/>
       <point x="179" y="345" type="line"/>
     </contour>
   </outline>
@@ -29,18 +29,18 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>575</integer>
+            <integer>530</integer>
             <key>width</key>
-            <integer>61</integer>
+            <integer>106</integer>
           </dict>
         </array>
         <key>vhints</key>
         <array>
           <dict>
             <key>position</key>
-            <integer>317</integer>
+            <integer>307</integer>
             <key>width</key>
-            <integer>65</integer>
+            <integer>120</integer>
           </dict>
         </array>
       </dict>

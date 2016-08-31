@@ -14,9 +14,9 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>-281</integer>
+            <integer>-293</integer>
             <key>width</key>
-            <integer>260</integer>
+            <integer>272</integer>
           </dict>
           <dict>
             <key>position</key>
@@ -26,54 +26,36 @@
           </dict>
           <dict>
             <key>position</key>
-            <integer>-2</integer>
+            <integer>-10</integer>
             <key>width</key>
             <integer>113</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>258</integer>
+            <integer>273</integer>
             <key>width</key>
-            <integer>94</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>526</integer>
-            <key>width</key>
-            <integer>111</integer>
+            <integer>92</integer>
           </dict>
         </array>
         <key>vhints</key>
         <array>
           <dict>
             <key>position</key>
-            <integer>385</integer>
+            <integer>351</integer>
             <key>width</key>
             <integer>95</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>388</integer>
+            <integer>519</integer>
             <key>width</key>
-            <integer>108</integer>
+            <integer>330</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>556</integer>
+            <integer>582</integer>
             <key>width</key>
-            <integer>307</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>600</integer>
-            <key>width</key>
-            <integer>138</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>779</integer>
-            <key>width</key>
-            <integer>72</integer>
+            <integer>123</integer>
           </dict>
         </array>
       </dict>

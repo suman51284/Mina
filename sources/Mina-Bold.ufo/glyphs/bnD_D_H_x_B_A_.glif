@@ -5,7 +5,7 @@
     <contour>
       <point x="388" y="636.2" type="move" name="anchor0"/>
     </contour>
-    <component base="bnBAc2" xOffset="600" yOffset="-33"/>
+    <component base="bnBAc2" xOffset="600" yOffset="-57"/>
     <component base="bnDDHA" xOffset="2"/>
     <component base="bnNukta" xOffset="230" yOffset="55"/>
   </outline>
@@ -35,9 +35,9 @@
           </dict>
           <dict>
             <key>position</key>
-            <integer>526</integer>
+            <integer>530</integer>
             <key>width</key>
-            <integer>110</integer>
+            <integer>106</integer>
           </dict>
         </array>
         <key>vhints</key>
@@ -50,25 +50,19 @@
           </dict>
           <dict>
             <key>position</key>
-            <integer>81</integer>
+            <integer>74</integer>
             <key>width</key>
-            <integer>113</integer>
+            <integer>120</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>433</integer>
+            <integer>424</integer>
             <key>width</key>
-            <integer>68</integer>
+            <integer>121</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>433</integer>
-            <key>width</key>
-            <integer>107</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>436</integer>
+            <integer>456</integer>
             <key>width</key>
             <integer>124</integer>
           </dict>

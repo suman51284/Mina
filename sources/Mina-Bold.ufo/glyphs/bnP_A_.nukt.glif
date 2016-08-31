@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="bnPA.nukt" format="1">
-  <advance width="750"/>
+  <advance width="640"/>
   <outline>
     <contour>
-      <point x="576" y="14" type="move" name="anchor 1"/>
+      <point x="576" y="9" type="move" name="anchor 1"/>
     </contour>
     <contour>
       <point x="574" y="636.3" type="move" name="anchor0"/>
     </contour>
-    <component base="bnNukta" xOffset="425" yOffset="154"/>
+    <component base="bnNukta" xOffset="335.15" yOffset="154"/>
     <component base="bnPA"/>
   </outline>
   <lib>
@@ -31,34 +31,34 @@
           </dict>
           <dict>
             <key>position</key>
-            <integer>512</integer>
+            <integer>500</integer>
             <key>width</key>
-            <integer>110</integer>
+            <integer>122</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>526</integer>
+            <integer>530</integer>
             <key>width</key>
-            <integer>110</integer>
+            <integer>106</integer>
           </dict>
         </array>
         <key>vhints</key>
         <array>
           <dict>
             <key>position</key>
-            <integer>221</integer>
+            <integer>131</integer>
             <key>width</key>
             <integer>95</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>594</integer>
+            <integer>464</integer>
             <key>width</key>
-            <integer>106</integer>
+            <integer>120</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>594</integer>
+            <integer>464</integer>
             <key>width</key>
             <integer>190</integer>
           </dict>

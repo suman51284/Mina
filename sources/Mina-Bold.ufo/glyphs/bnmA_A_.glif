@@ -1,25 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="bnmAA" format="1">
-  <advance width="320"/>
+  <advance width="280"/>
   <unicode hex="09BE"/>
   <outline>
     <contour>
-      <point x="83" y="635" type="move" name="anchor0"/>
+      <point x="45" y="635" type="move" name="anchor0"/>
     </contour>
     <contour>
-      <point x="46" y="636.343" type="line"/>
-      <point x="118" y="628" type="line"/>
-      <point x="114" y="702" type="line"/>
-      <point x="190" y="702" type="line"/>
-      <point x="213" y="636.328" type="line"/>
-      <point x="331" y="636.328" type="line"/>
-      <point x="331" y="530" type="line"/>
-      <point x="224" y="530" type="line"/>
-      <point x="224" y="0" type="line"/>
-      <point x="115" y="0" type="line"/>
-      <point x="115" y="530" type="line"/>
-      <point x="-13" y="530" type="line"/>
-      <point x="-13" y="636.313" type="line"/>
+      <point x="-920" y="636.328" type="move"/>
+    </contour>
+    <contour>
+      <point x="8" y="636.343" type="line"/>
+      <point x="80" y="628" type="line"/>
+      <point x="76" y="702" type="line"/>
+      <point x="163" y="702" type="line"/>
+      <point x="186" y="636.328" type="line"/>
+      <point x="293" y="636.328" type="line"/>
+      <point x="293" y="530" type="line"/>
+      <point x="197" y="530" type="line"/>
+      <point x="197" y="0" type="line"/>
+      <point x="77" y="0" type="line"/>
+      <point x="77" y="530" type="line"/>
+      <point x="-51" y="530" type="line"/>
+      <point x="-51" y="636.313" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -36,18 +39,24 @@
           </dict>
           <dict>
             <key>position</key>
-            <integer>526</integer>
+            <integer>0</integer>
             <key>width</key>
-            <integer>110</integer>
+            <integer>21</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>530</integer>
+            <key>width</key>
+            <integer>106</integer>
           </dict>
         </array>
         <key>vhints</key>
         <array>
           <dict>
             <key>position</key>
-            <integer>115</integer>
+            <integer>77</integer>
             <key>width</key>
-            <integer>109</integer>
+            <integer>120</integer>
           </dict>
         </array>
       </dict>

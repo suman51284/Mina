@@ -4,36 +4,35 @@
   <unicode hex="0988"/>
   <outline>
     <contour>
-      <point x="84" y="355" type="curve"/>
+      <point x="80" y="355" type="curve"/>
       <point x="58" y="441" type="line"/>
       <point x="58" y="441"/>
       <point x="214" y="489"/>
       <point x="283" y="489" type="curve" smooth="yes"/>
       <point x="335" y="489"/>
-      <point x="397" y="469"/>
-      <point x="397" y="404" type="curve" smooth="yes"/>
-      <point x="397" y="372"/>
-      <point x="371" y="302"/>
-      <point x="371" y="302" type="curve"/>
-      <point x="621" y="447" type="line"/>
-      <point x="724" y="447" type="line"/>
-      <point x="733" y="368" type="line"/>
-      <point x="662" y="340" type="line"/>
-      <point x="611" y="-73" type="line"/>
-      <point x="535" y="-85" type="line"/>
-      <point x="510" y="18" type="line"/>
-      <point x="548" y="278" type="line"/>
-      <point x="188" y="47" type="line"/>
-      <point x="124" y="122" type="line"/>
-      <point x="213" y="206" type="line"/>
-      <point x="213" y="206"/>
-      <point x="280" y="312.676"/>
+      <point x="399" y="454"/>
+      <point x="399" y="389" type="curve" smooth="yes"/>
+      <point x="399" y="341"/>
+      <point x="371" y="293"/>
+      <point x="371" y="293" type="curve"/>
+      <point x="573" y="418" type="line"/>
+      <point x="686" y="418" type="line"/>
+      <point x="696" y="318" type="line"/>
+      <point x="628" y="293" type="line"/>
+      <point x="571" y="-117" type="line"/>
+      <point x="451" y="-117" type="line"/>
+      <point x="502" y="231" type="line"/>
+      <point x="146" y="16" type="line"/>
+      <point x="104" y="103" type="line"/>
+      <point x="170" y="169" type="line"/>
+      <point x="170" y="169"/>
+      <point x="280" y="321.676"/>
       <point x="280" y="353" type="curve" smooth="yes"/>
       <point x="280" y="375.201"/>
       <point x="267" y="382.313"/>
       <point x="240.878" y="382.313" type="curve" smooth="yes"/>
       <point x="195.553" y="382.313"/>
-      <point x="84" y="355"/>
+      <point x="80" y="355"/>
     </contour>
     <contour>
       <point x="575" y="636.328" type="line"/>
@@ -64,48 +63,30 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>398</integer>
+            <integer>382</integer>
             <key>width</key>
-            <integer>42</integer>
+            <integer>107</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>450</integer>
+            <integer>530</integer>
             <key>width</key>
-            <integer>66</integer>
+            <integer>106</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>575</integer>
+            <integer>682</integer>
             <key>width</key>
-            <integer>61</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>708</integer>
-            <key>width</key>
-            <integer>64</integer>
+            <integer>97</integer>
           </dict>
         </array>
         <key>vhints</key>
         <array>
           <dict>
             <key>position</key>
-            <integer>336</integer>
+            <integer>280</integer>
             <key>width</key>
-            <integer>71</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>520</integer>
-            <key>width</key>
-            <integer>42</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>564</integer>
-            <key>width</key>
-            <integer>70</integer>
+            <integer>119</integer>
           </dict>
         </array>
       </dict>

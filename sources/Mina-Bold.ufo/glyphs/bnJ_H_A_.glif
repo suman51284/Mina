@@ -4,39 +4,39 @@
   <unicode hex="099D"/>
   <outline>
     <contour>
-      <point x="408" y="8" type="move" name="anchor 1"/>
+      <point x="423" y="8" type="move" name="anchor 1"/>
     </contour>
     <contour>
-      <point x="643" y="636.3" type="move" name="anchor0"/>
+      <point x="602" y="636.3" type="move" name="anchor0"/>
     </contour>
     <contour>
-      <point x="177" y="296" type="line"/>
-      <point x="406" y="132" type="line"/>
-      <point x="406" y="388" type="line"/>
+      <point x="221" y="293" type="line"/>
+      <point x="424" y="140" type="line"/>
+      <point x="424" y="389" type="line"/>
     </contour>
     <contour>
-      <point x="406" y="0" type="line"/>
-      <point x="64" y="232" type="line"/>
-      <point x="64" y="379" type="line"/>
-      <point x="406" y="507" type="line"/>
-      <point x="406" y="530" type="line"/>
+      <point x="424" y="0" type="line"/>
+      <point x="72" y="261" type="line"/>
+      <point x="72" y="348" type="line"/>
+      <point x="424" y="507" type="line"/>
+      <point x="424" y="530" type="line"/>
       <point x="-14" y="530" type="line"/>
       <point x="-14" y="636.328" type="line"/>
-      <point x="524" y="636.328" type="line"/>
-      <point x="524" y="293" type="line"/>
-      <point x="643" y="254" type="line"/>
-      <point x="643" y="636.299" type="line"/>
-      <point x="638" y="702" type="line"/>
-      <point x="714" y="702" type="line"/>
-      <point x="737" y="636.328" type="line"/>
-      <point x="832" y="636.328" type="line"/>
-      <point x="832" y="530" type="line"/>
-      <point x="752" y="530" type="line"/>
-      <point x="752" y="39" type="line"/>
-      <point x="643" y="39" type="line"/>
-      <point x="643" y="140" type="line"/>
-      <point x="524" y="168" type="line"/>
-      <point x="524" y="0" type="line"/>
+      <point x="544" y="636.328" type="line"/>
+      <point x="544" y="289" type="line"/>
+      <point x="602" y="264" type="line"/>
+      <point x="602" y="636.299" type="line"/>
+      <point x="598" y="702" type="line"/>
+      <point x="685" y="702" type="line"/>
+      <point x="708" y="636.328" type="line"/>
+      <point x="831" y="636.328" type="line"/>
+      <point x="831" y="530" type="line"/>
+      <point x="722" y="530" type="line"/>
+      <point x="722" y="39" type="line"/>
+      <point x="602" y="39" type="line"/>
+      <point x="602" y="145" type="line"/>
+      <point x="544" y="167" type="line"/>
+      <point x="544" y="0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -53,30 +53,30 @@
           </dict>
           <dict>
             <key>position</key>
-            <integer>526</integer>
+            <integer>0</integer>
             <key>width</key>
-            <integer>110</integer>
+            <integer>21</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>530</integer>
+            <key>width</key>
+            <integer>106</integer>
           </dict>
         </array>
         <key>vhints</key>
         <array>
           <dict>
             <key>position</key>
-            <integer>446</integer>
+            <integer>424</integer>
             <key>width</key>
-            <integer>118</integer>
+            <integer>120</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>663</integer>
+            <integer>602</integer>
             <key>width</key>
-            <integer>189</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>663</integer>
-            <key>width</key>
-            <integer>109</integer>
+            <integer>120</integer>
           </dict>
         </array>
       </dict>

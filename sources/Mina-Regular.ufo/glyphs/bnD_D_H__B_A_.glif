@@ -3,7 +3,7 @@
   <advance width="610"/>
   <outline>
     <contour>
-      <point x="299" y="-261" type="move" name="anchor 1"/>
+      <point x="300" y="-267" type="move" name="anchor 1"/>
     </contour>
     <contour>
       <point x="379" y="637" type="move" name="anchor0"/>
@@ -21,7 +21,7 @@
             <key>position</key>
             <integer>0</integer>
             <key>width</key>
-            <integer>71</integer>
+            <integer>74</integer>
           </dict>
           <dict>
             <key>position</key>
@@ -40,19 +40,19 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>80</integer>
+            <integer>74</integer>
             <key>width</key>
-            <integer>67</integer>
+            <integer>73</integer>
           </dict>
           <dict>
             <key>position</key>
             <integer>299</integer>
             <key>width</key>
-            <integer>68</integer>
+            <integer>74</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>455</integer>
+            <integer>449</integer>
             <key>width</key>
             <integer>71</integer>
           </dict>

@@ -10,21 +10,26 @@
       <point x="447" y="636" type="move" name="anchor0"/>
     </contour>
     <contour>
-      <point x="279" y="453" type="curve"/>
-      <point x="447" y="528" type="line"/>
+      <point x="447" y="93.7891" type="line"/>
+      <point x="447" y="454" type="line"/>
+      <point x="144" y="314" type="line"/>
+    </contour>
+    <contour>
+      <point x="279" y="455" type="curve"/>
+      <point x="447" y="530" type="line"/>
       <point x="447" y="636" type="line"/>
       <point x="443" y="702" type="line"/>
-      <point x="479" y="702" type="line"/>
-      <point x="502" y="636.328" type="line"/>
+      <point x="487" y="702" type="line"/>
+      <point x="510" y="636.328" type="line"/>
       <point x="587" y="636.328" type="line"/>
       <point x="587" y="572.998" type="line"/>
-      <point x="512" y="572.998" type="line"/>
-      <point x="512" y="0" type="line"/>
+      <point x="520" y="572.998" type="line"/>
+      <point x="520" y="0" type="line"/>
       <point x="447" y="0" type="line"/>
       <point x="69" y="281" type="line"/>
-      <point x="69" y="358" type="line"/>
-      <point x="205" y="419.514" type="line"/>
-      <point x="205" y="419.514"/>
+      <point x="69" y="360" type="line"/>
+      <point x="205" y="421.514" type="line"/>
+      <point x="205" y="421.514"/>
       <point x="81.293" y="463.218"/>
       <point x="81.293" y="540.156" type="curve" smooth="yes"/>
       <point x="81.293" y="587.003"/>
@@ -40,13 +45,8 @@
       <point x="164" y="605"/>
       <point x="144" y="572.219"/>
       <point x="144" y="542" type="curve" smooth="yes"/>
-      <point x="144" y="493.724"/>
-      <point x="279" y="453"/>
-    </contour>
-    <contour>
-      <point x="447" y="87" type="line"/>
-      <point x="447" y="459" type="line"/>
-      <point x="135" y="315" type="line"/>
+      <point x="144" y="497.724"/>
+      <point x="279" y="455"/>
     </contour>
   </outline>
   <lib>
@@ -92,7 +92,7 @@
             <key>position</key>
             <integer>447</integer>
             <key>width</key>
-            <integer>65</integer>
+            <integer>73</integer>
           </dict>
         </array>
       </dict>

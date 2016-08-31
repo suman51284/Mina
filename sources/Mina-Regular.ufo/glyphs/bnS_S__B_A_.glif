@@ -3,13 +3,13 @@
   <advance width="615"/>
   <outline>
     <contour>
-      <point x="472" y="-282" type="move" name="anchor 1"/>
+      <point x="476" y="-288" type="move" name="anchor 1"/>
     </contour>
     <contour>
       <point x="410" y="636.268" type="move" name="anchor0"/>
     </contour>
     <component base="bnSSA" xOffset="-5" yOffset="0.000249964"/>
-    <component base="bnBAc2" xOffset="649.4" yOffset="-0.7"/>
+    <component base="bnBAc2" xOffset="651.408" yOffset="-0.7"/>
   </outline>
   <lib>
     <dict>
@@ -40,15 +40,15 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>472</integer>
+            <integer>474</integer>
             <key>width</key>
-            <integer>68</integer>
+            <integer>74</integer>
           </dict>
           <dict>
             <key>position</key>
             <integer>475</integer>
             <key>width</key>
-            <integer>65</integer>
+            <integer>73</integer>
           </dict>
         </array>
       </dict>

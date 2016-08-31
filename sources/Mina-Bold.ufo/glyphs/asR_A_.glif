@@ -11,11 +11,11 @@
     </contour>
     <contour>
       <point x="594" y="530" type="line"/>
-      <point x="514" y="530" type="line"/>
-      <point x="514" y="0" type="line"/>
+      <point x="516" y="530" type="line"/>
+      <point x="516" y="0" type="line"/>
       <point x="396" y="0" type="line"/>
-      <point x="54" y="232" type="line"/>
-      <point x="54" y="379" type="line"/>
+      <point x="39" y="258" type="line"/>
+      <point x="39" y="345" type="line"/>
       <point x="396" y="507" type="line"/>
       <point x="396" y="530" type="line"/>
       <point x="-14" y="530" type="line"/>
@@ -24,13 +24,13 @@
     </contour>
     <contour>
       <point x="396" y="286" type="line"/>
-      <point x="396" y="388" type="line"/>
-      <point x="309" y="353" type="line"/>
+      <point x="396" y="387" type="line"/>
+      <point x="315" y="349" type="line"/>
     </contour>
     <contour>
-      <point x="216" y="316" type="line"/>
-      <point x="167" y="296" type="line"/>
-      <point x="396" y="138" type="line"/>
+      <point x="227" y="308" type="line"/>
+      <point x="193" y="292" type="line"/>
+      <point x="396" y="144" type="line"/>
       <point x="396" y="184" type="line"/>
     </contour>
   </outline>
@@ -48,18 +48,24 @@
           </dict>
           <dict>
             <key>position</key>
-            <integer>575</integer>
+            <integer>0</integer>
             <key>width</key>
-            <integer>61</integer>
+            <integer>21</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>530</integer>
+            <key>width</key>
+            <integer>106</integer>
           </dict>
         </array>
         <key>vhints</key>
         <array>
           <dict>
             <key>position</key>
-            <integer>447</integer>
+            <integer>396</integer>
             <key>width</key>
-            <integer>65</integer>
+            <integer>120</integer>
           </dict>
         </array>
       </dict>

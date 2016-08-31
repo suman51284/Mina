@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="bnRA_mU" format="1">
-  <advance width="820"/>
+  <advance width="845"/>
   <outline>
     <contour>
       <point x="572" y="637" type="move" name="anchor0"/>
     </contour>
     <contour>
       <point x="447" y="93.7891" type="line"/>
-      <point x="447" y="459" type="line"/>
-      <point x="144" y="318" type="line"/>
+      <point x="447" y="454" type="line"/>
+      <point x="144" y="314" type="line"/>
     </contour>
     <contour>
       <point x="127.673" y="11.3184" type="curve" smooth="yes"/>
@@ -29,33 +29,37 @@
       <point x="127.673" y="-0.705078"/>
     </contour>
     <contour>
-      <point x="512.506" y="290" type="line"/>
-      <point x="512" y="0" type="line"/>
+      <point x="520" y="573" type="line"/>
+      <point x="520" y="351" type="line"/>
+      <point x="602.308" y="308.936" type="line" smooth="yes"/>
+      <point x="653.61" y="282.717"/>
+      <point x="680.314" y="279.634"/>
+      <point x="702.6" y="305.154" type="curve" smooth="yes"/>
+      <point x="710.624" y="314.343"/>
+      <point x="718.109" y="334.454"/>
+      <point x="723.484" y="360.057" type="curve" smooth="yes"/>
+      <point x="741.527" y="446.002" type="line"/>
+      <point x="799.441" y="435.657" type="line"/>
+      <point x="799.441" y="435.657"/>
+      <point x="801" y="371"/>
+      <point x="791.358" y="321" type="curve" smooth="yes"/>
+      <point x="785.774" y="292.043"/>
+      <point x="770" y="270"/>
+      <point x="756.278" y="254.834" type="curve" smooth="yes"/>
+      <point x="719.036" y="213.671"/>
+      <point x="660.042" y="200.901"/>
+      <point x="600.832" y="230.963" type="curve" smooth="yes"/>
+      <point x="520.004" y="272" type="line"/>
+      <point x="520" y="0" type="line"/>
       <point x="447" y="0" type="line"/>
-      <point x="69" y="281" type="line"/>
+      <point x="69" y="273" type="line"/>
       <point x="69" y="362" type="line"/>
       <point x="447" y="532" type="line"/>
       <point x="447" y="572.998" type="line"/>
       <point x="-14" y="572.998" type="line"/>
       <point x="-14" y="636.328" type="line"/>
-      <point x="835" y="636.328" type="line"/>
-      <point x="835" y="572.998" type="line"/>
-      <point x="513" y="572.998" type="line"/>
-      <point x="512.637" y="363" type="line"/>
-      <point x="615" y="318" type="line" smooth="yes"/>
-      <point x="653.947" y="300.879"/>
-      <point x="674.114" y="296.895"/>
-      <point x="694.483" y="320.497" type="curve" smooth="yes"/>
-      <point x="707" y="335"/>
-      <point x="721.557" y="420.23"/>
-      <point x="721.557" y="420.23" type="curve"/>
-      <point x="771.652" y="414.03" type="line"/>
-      <point x="771.652" y="414.03"/>
-      <point x="766.826" y="300.96"/>
-      <point x="745.292" y="275.967" type="curve" smooth="yes"/>
-      <point x="709.059" y="233.914"/>
-      <point x="657.058" y="228.136"/>
-      <point x="610.27" y="248.16" type="curve" smooth="yes"/>
+      <point x="854" y="636.328" type="line"/>
+      <point x="854" y="572.998" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -101,7 +105,7 @@
             <key>position</key>
             <integer>447</integer>
             <key>width</key>
-            <integer>65</integer>
+            <integer>73</integer>
           </dict>
         </array>
       </dict>

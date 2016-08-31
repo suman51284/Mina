@@ -3,12 +3,12 @@
   <advance width="725"/>
   <outline>
     <contour>
-      <point x="542" y="-275" type="move" name="anchor 1"/>
+      <point x="535" y="-284" type="move" name="anchor 1"/>
     </contour>
     <contour>
       <point x="533" y="636.4" type="move" name="anchor0"/>
     </contour>
-    <component base="bnBAc2" xOffset="718.407" yOffset="32"/>
+    <component base="bnBAc2" xOffset="709.407" yOffset="32"/>
     <component base="bnKHA" xOffset="-16" yOffset="-0.026875"/>
   </outline>
   <lib>
@@ -19,36 +19,42 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>-2</integer>
+            <integer>0</integer>
             <key>width</key>
             <integer>21</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>524</integer>
+            <integer>418</integer>
             <key>width</key>
-            <integer>111</integer>
+            <integer>100</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>460</integer>
+            <key>width</key>
+            <integer>129</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>530</integer>
+            <key>width</key>
+            <integer>106</integer>
           </dict>
         </array>
         <key>vhints</key>
         <array>
           <dict>
             <key>position</key>
-            <integer>516</integer>
+            <integer>533</integer>
             <key>width</key>
-            <integer>116</integer>
+            <integer>120</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>516</integer>
+            <integer>533</integer>
             <key>width</key>
-            <integer>199</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>525</integer>
-            <key>width</key>
-            <integer>107</integer>
+            <integer>121</integer>
           </dict>
         </array>
       </dict>

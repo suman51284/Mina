@@ -3,35 +3,35 @@
   <advance width="530"/>
   <outline>
     <contour>
-      <point x="366.1" y="-140" type="move" name="anchor 1"/>
+      <point x="362" y="-140" type="move" name="anchor 1"/>
     </contour>
     <contour>
       <point x="330" y="637" type="move" name="anchor0"/>
     </contour>
     <contour>
-      <point x="360" y="215" type="line"/>
-      <point x="382.1" y="377" type="line"/>
-      <point x="110.92" y="258" type="line"/>
-      <point x="72.9004" y="314.501" type="line"/>
-      <point x="73" y="572.998" type="line"/>
+      <point x="362" y="-55" type="line"/>
+      <point x="362" y="150" type="line"/>
+      <point x="181" y="75" type="line"/>
+    </contour>
+    <contour>
+      <point x="363" y="228" type="line"/>
+      <point x="381.1" y="357" type="line"/>
+      <point x="109.924" y="238.004" type="line"/>
+      <point x="65.0039" y="294.302" type="line"/>
+      <point x="65.0039" y="572.998" type="line"/>
       <point x="-10" y="572.998" type="line"/>
       <point x="-10" y="636.328" type="line"/>
       <point x="541" y="636.328" type="line"/>
       <point x="541" y="572.998" type="line"/>
-      <point x="139.9" y="572.998" type="line"/>
-      <point x="139.9" y="352" type="line"/>
-      <point x="418.9" y="472" type="line"/>
-      <point x="464.1" y="447" type="line"/>
-      <point x="431.1" y="214" type="line"/>
-      <point x="431.1" y="-140" type="line"/>
-      <point x="366.1" y="-140" type="line"/>
-      <point x="117.1" y="34" type="line"/>
-      <point x="117.1" y="115" type="line"/>
-    </contour>
-    <contour>
-      <point x="366.1" y="-63" type="line"/>
-      <point x="366.1" y="143" type="line"/>
-      <point x="182.1" y="69" type="line"/>
+      <point x="138.904" y="572.998" type="line"/>
+      <point x="138.9" y="332" type="line"/>
+      <point x="417.9" y="452" type="line"/>
+      <point x="463.1" y="427" type="line"/>
+      <point x="435.697" y="214" type="line"/>
+      <point x="435.697" y="-140" type="line"/>
+      <point x="362" y="-140" type="line"/>
+      <point x="113" y="34" type="line"/>
+      <point x="113" y="125" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -51,15 +51,15 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>73</integer>
+            <integer>65</integer>
             <key>width</key>
-            <integer>67</integer>
+            <integer>74</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>366</integer>
+            <integer>362</integer>
             <key>width</key>
-            <integer>65</integer>
+            <integer>74</integer>
           </dict>
         </array>
       </dict>

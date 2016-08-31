@@ -10,10 +10,10 @@
       <point x="439" y="4" type="move" name="anchor 1"/>
     </contour>
     <contour>
-      <point x="503.961" y="573" type="line"/>
-      <point x="503.961" y="0" type="line"/>
+      <point x="510.961" y="573" type="line"/>
+      <point x="510.961" y="0" type="line"/>
       <point x="437.961" y="0" type="line"/>
-      <point x="59.9609" y="281" type="line"/>
+      <point x="60" y="273" type="line"/>
       <point x="59.9609" y="362" type="line"/>
       <point x="437.961" y="532" type="line"/>
       <point x="437.961" y="573" type="line"/>
@@ -24,14 +24,14 @@
     </contour>
     <contour>
       <point x="437.961" y="290" type="line"/>
-      <point x="437.961" y="459" type="line"/>
-      <point x="296.961" y="393" type="line"/>
+      <point x="438" y="454" type="line"/>
+      <point x="298.416" y="389.562" type="line"/>
     </contour>
     <contour>
       <point x="437.961" y="203" type="line"/>
-      <point x="223.961" y="360" type="line"/>
-      <point x="130.961" y="316" type="line"/>
-      <point x="437.961" y="88.0508" type="line"/>
+      <point x="226.834" y="356.428" type="line"/>
+      <point x="135" y="314" type="line"/>
+      <point x="438" y="93.7891" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -65,7 +65,7 @@
             <key>position</key>
             <integer>438</integer>
             <key>width</key>
-            <integer>66</integer>
+            <integer>73</integer>
           </dict>
         </array>
       </dict>

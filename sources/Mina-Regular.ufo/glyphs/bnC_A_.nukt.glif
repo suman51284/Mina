@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="bnCA.nukt" format="1">
-  <advance width="620"/>
+  <advance width="613"/>
   <outline>
     <contour>
       <point x="390" y="636.4" type="move" name="anchor0"/>
@@ -9,7 +9,7 @@
       <point x="182" y="6" type="move" name="anchor 1"/>
     </contour>
     <component base="bnCA"/>
-    <component base="bnNukta" xOffset="382" yOffset="14"/>
+    <component base="bnNukta" xOffset="375.344" yOffset="14"/>
   </outline>
   <lib>
     <dict>
@@ -40,19 +40,19 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>86</integer>
+            <integer>73</integer>
             <key>width</key>
-            <integer>67</integer>
+            <integer>73</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>178</integer>
+            <integer>171</integer>
             <key>width</key>
             <integer>95</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>473</integer>
+            <integer>466</integer>
             <key>width</key>
             <integer>71</integer>
           </dict>

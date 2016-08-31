@@ -3,8 +3,8 @@
   <advance width="820"/>
   <unicode hex="09CB"/>
   <outline>
-    <component base="bnmAA" xOffset="586"/>
-    <component base="bnmE"/>
+    <component base="bnmAA" xOffset="626"/>
+    <component base="bnmE" xOffset="40"/>
   </outline>
   <lib>
     <dict>
@@ -20,6 +20,12 @@
           </dict>
           <dict>
             <key>position</key>
+            <integer>567</integer>
+            <key>width</key>
+            <integer>63</integer>
+          </dict>
+          <dict>
+            <key>position</key>
             <integer>573</integer>
             <key>width</key>
             <integer>63</integer>
@@ -29,15 +35,15 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>60</integer>
+            <integer>59</integer>
             <key>width</key>
-            <integer>71</integer>
+            <integer>74</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>671</integer>
+            <integer>711</integer>
             <key>width</key>
-            <integer>69</integer>
+            <integer>74</integer>
           </dict>
         </array>
       </dict>

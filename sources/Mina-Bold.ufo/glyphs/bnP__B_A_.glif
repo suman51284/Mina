@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="bnP_BA" format="1">
-  <advance width="750"/>
+  <advance width="640"/>
   <outline>
     <contour>
-      <point x="574" y="-171" type="move" name="anchor 1"/>
+      <point x="559" y="-279" type="move" name="anchor 1"/>
     </contour>
     <contour>
       <point x="574" y="636" type="move" name="anchor0"/>
     </contour>
-    <component base="bnBAc2" xOffset="750.407" yOffset="134"/>
+    <component base="bnBAc2" xOffset="639.957" yOffset="38"/>
     <component base="bnPA"/>
   </outline>
   <lib>
@@ -25,34 +25,34 @@
           </dict>
           <dict>
             <key>position</key>
-            <integer>512</integer>
+            <integer>500</integer>
             <key>width</key>
-            <integer>110</integer>
+            <integer>122</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>526</integer>
+            <integer>530</integer>
             <key>width</key>
-            <integer>110</integer>
+            <integer>106</integer>
           </dict>
         </array>
         <key>vhints</key>
         <array>
           <dict>
             <key>position</key>
-            <integer>593</integer>
+            <integer>464</integer>
             <key>width</key>
-            <integer>107</integer>
+            <integer>121</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>594</integer>
+            <integer>464</integer>
             <key>width</key>
-            <integer>106</integer>
+            <integer>120</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>594</integer>
+            <integer>464</integer>
             <key>width</key>
             <integer>190</integer>
           </dict>

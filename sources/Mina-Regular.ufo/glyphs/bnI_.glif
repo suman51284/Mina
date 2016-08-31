@@ -4,24 +4,21 @@
   <unicode hex="0987"/>
   <outline>
     <contour>
-      <point x="321" y="443" type="curve" smooth="yes"/>
-      <point x="258" y="443"/>
+      <point x="314" y="443" type="curve" smooth="yes"/>
+      <point x="251" y="443"/>
       <point x="104" y="443"/>
       <point x="104" y="443" type="curve"/>
       <point x="96" y="496" type="line"/>
       <point x="96" y="496"/>
       <point x="220" y="517"/>
       <point x="315" y="517" type="curve" smooth="yes"/>
-      <point x="488" y="517"/>
-      <point x="494" y="426"/>
-      <point x="495" y="318" type="curve" smooth="yes"/>
-      <point x="495.002" y="317.813"/>
-      <point x="495.003" y="317.627"/>
+      <point x="488.269" y="517"/>
+      <point x="495.003" y="425.795"/>
       <point x="495.003" y="317.44" type="curve" smooth="yes"/>
       <point x="495.003" y="198.767"/>
-      <point x="192.9" y="154"/>
-      <point x="192.9" y="154" type="curve"/>
-      <point x="285.9" y="101"/>
+      <point x="198.9" y="151"/>
+      <point x="198.9" y="151" type="curve"/>
+      <point x="291.9" y="98"/>
       <point x="492" y="-18"/>
       <point x="492" y="-18" type="curve"/>
       <point x="467" y="-65" type="line"/>
@@ -30,13 +27,10 @@
       <point x="73.9004" y="130" type="curve"/>
       <point x="81.9004" y="208" type="line"/>
       <point x="81.9004" y="208"/>
-      <point x="429.003" y="250.619"/>
-      <point x="429.003" y="341.492" type="curve" smooth="yes"/>
-      <point x="429.003" y="341.661"/>
-      <point x="429.002" y="341.83"/>
-      <point x="429" y="342" type="curve" smooth="yes"/>
-      <point x="427.7" y="438.991"/>
-      <point x="391" y="443"/>
+      <point x="422" y="250.532"/>
+      <point x="422" y="342" type="curve" smooth="yes"/>
+      <point x="422" y="439"/>
+      <point x="384" y="443"/>
     </contour>
     <contour>
       <point x="406" y="636.328" type="line"/>
@@ -95,9 +89,9 @@
           </dict>
           <dict>
             <key>position</key>
-            <integer>429</integer>
+            <integer>422</integer>
             <key>width</key>
-            <integer>66</integer>
+            <integer>73</integer>
           </dict>
         </array>
       </dict>

@@ -4,27 +4,26 @@
   <unicode hex="09A6"/>
   <outline>
     <contour>
-      <point x="325" y="0" type="move" name="anchor 1"/>
+      <point x="334" y="-15" type="move" name="anchor 1"/>
     </contour>
     <contour>
-      <point x="332" y="636.3" type="move" name="anchor0"/>
+      <point x="352" y="636.3" type="move" name="anchor0"/>
     </contour>
     <contour>
-      <point x="63" y="573" type="line"/>
+      <point x="65" y="294.502" type="line"/>
+      <point x="65" y="573" type="line"/>
       <point x="-11" y="573" type="line"/>
       <point x="-11" y="636.328" type="line"/>
       <point x="534" y="636.328" type="line"/>
       <point x="534" y="573" type="line"/>
-      <point x="129.9" y="573" type="line"/>
-      <point x="129.9" y="332" type="line"/>
-      <point x="408.9" y="452" type="line"/>
-      <point x="454.1" y="427" type="line"/>
-      <point x="409.6" y="66" type="line"/>
-      <point x="358.199" y="-35" type="line"/>
-      <point x="320.499" y="-35" type="line"/>
-      <point x="372.1" y="357" type="line"/>
-      <point x="100.92" y="238" type="line"/>
-      <point x="62.9004" y="294.501" type="line"/>
+      <point x="138.9" y="573" type="line"/>
+      <point x="138.9" y="332" type="line"/>
+      <point x="417.9" y="452" type="line"/>
+      <point x="463.1" y="427" type="line"/>
+      <point x="403.199" y="-35" type="line"/>
+      <point x="329.499" y="-35" type="line"/>
+      <point x="381.1" y="357" type="line"/>
+      <point x="109.92" y="238" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -44,9 +43,9 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>63</integer>
+            <integer>65</integer>
             <key>width</key>
-            <integer>67</integer>
+            <integer>74</integer>
           </dict>
         </array>
       </dict>

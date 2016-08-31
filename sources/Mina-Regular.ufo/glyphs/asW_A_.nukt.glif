@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="asWA.nukt" format="1">
-  <advance width="608"/>
+  <advance width="588"/>
   <outline>
     <component base="bnNukta" xOffset="288" yOffset="112"/>
     <component base="asWA"/>
@@ -40,9 +40,9 @@
           </dict>
           <dict>
             <key>position</key>
-            <integer>454</integer>
+            <integer>447</integer>
             <key>width</key>
-            <integer>65</integer>
+            <integer>73</integer>
           </dict>
         </array>
       </dict>

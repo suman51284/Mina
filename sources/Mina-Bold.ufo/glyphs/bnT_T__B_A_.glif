@@ -8,7 +8,7 @@
     <contour>
       <point x="294" y="-268.4" type="move" name="anchor 1"/>
     </contour>
-    <component base="bnBAc2" xOffset="470" yOffset="38"/>
+    <component base="bnBAc2" xOffset="470" yOffset="44"/>
     <component base="bnTTA" xOffset="2" yOffset="-0.022875"/>
   </outline>
   <lib>
@@ -31,13 +31,13 @@
           </dict>
           <dict>
             <key>position</key>
-            <integer>526</integer>
+            <integer>530</integer>
             <key>width</key>
-            <integer>110</integer>
+            <integer>106</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>682</integer>
+            <integer>702</integer>
             <key>width</key>
             <integer>97</integer>
           </dict>
@@ -46,19 +46,25 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>81</integer>
+            <integer>74</integer>
             <key>width</key>
-            <integer>113</integer>
+            <integer>120</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>305</integer>
+            <integer>294</integer>
             <key>width</key>
-            <integer>107</integer>
+            <integer>121</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>436</integer>
+            <integer>419</integer>
+            <key>width</key>
+            <integer>121</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>456</integer>
             <key>width</key>
             <integer>124</integer>
           </dict>

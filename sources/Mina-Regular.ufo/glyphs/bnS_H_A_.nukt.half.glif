@@ -59,21 +59,21 @@
           </dict>
           <dict>
             <key>position</key>
-            <integer>457</integer>
+            <integer>477</integer>
             <key>width</key>
-            <integer>69</integer>
+            <integer>73</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>479</integer>
+            <integer>487</integer>
             <key>width</key>
-            <integer>47</integer>
+            <integer>277</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>489</integer>
+            <integer>499</integer>
             <key>width</key>
-            <integer>275</integer>
+            <integer>51</integer>
           </dict>
         </array>
       </dict>

@@ -5,7 +5,7 @@
     <contour>
       <point x="401" y="636.4" type="move" name="anchor0"/>
     </contour>
-    <component base="bnBAc2" xOffset="658.406" yOffset="20"/>
+    <component base="bnBAc2" xOffset="633.806" yOffset="-43"/>
     <component base="bnYA"/>
     <component base="bnNukta" xOffset="300" yOffset="160.01"/>
   </outline>
@@ -17,48 +17,48 @@
         <array>
           <dict>
             <key>position</key>
+            <integer>-20</integer>
+            <key>width</key>
+            <integer>98</integer>
+          </dict>
+          <dict>
+            <key>position</key>
             <integer>0</integer>
             <key>width</key>
             <integer>21</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>0</integer>
+            <integer>530</integer>
             <key>width</key>
-            <integer>98</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>575</integer>
-            <key>width</key>
-            <integer>61</integer>
+            <integer>106</integer>
           </dict>
         </array>
         <key>vhints</key>
         <array>
           <dict>
             <key>position</key>
-            <integer>156</integer>
+            <integer>96</integer>
             <key>width</key>
             <integer>95</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>314</integer>
+            <integer>242</integer>
             <key>width</key>
-            <integer>88</integer>
+            <integer>116</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>517</integer>
+            <integer>457</integer>
             <key>width</key>
-            <integer>68</integer>
+            <integer>121</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>520</integer>
+            <integer>458</integer>
             <key>width</key>
-            <integer>65</integer>
+            <integer>120</integer>
           </dict>
         </array>
       </dict>

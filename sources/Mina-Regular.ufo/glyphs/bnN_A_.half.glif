@@ -5,15 +5,15 @@
     <contour>
       <point x="466" y="356" type="line"/>
       <point x="466" y="356"/>
-      <point x="303.875" y="419.226"/>
-      <point x="232.796" y="419.226" type="curve" smooth="yes"/>
-      <point x="188.532" y="419.226"/>
-      <point x="159.835" y="377.188"/>
-      <point x="159.835" y="338.705" type="curve" smooth="yes"/>
-      <point x="159.835" y="327.056"/>
-      <point x="162.279" y="315.623"/>
-      <point x="168.088" y="306" type="curve" smooth="yes"/>
-      <point x="195.556" y="260.5"/>
+      <point x="303.875" y="417.226"/>
+      <point x="232.796" y="417.226" type="curve" smooth="yes"/>
+      <point x="188.532" y="417.226"/>
+      <point x="163.835" y="377.188"/>
+      <point x="163.835" y="338.705" type="curve" smooth="yes"/>
+      <point x="163.835" y="327.056"/>
+      <point x="166.279" y="315.623"/>
+      <point x="172.088" y="306" type="curve" smooth="yes"/>
+      <point x="199.556" y="260.5"/>
       <point x="261" y="203"/>
       <point x="261" y="203" type="curve"/>
       <point x="230" y="157" type="line"/>
@@ -48,9 +48,9 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>419</integer>
+            <integer>417</integer>
             <key>width</key>
-            <integer>71</integer>
+            <integer>73</integer>
           </dict>
           <dict>
             <key>position</key>
@@ -65,7 +65,7 @@
             <key>position</key>
             <integer>89</integer>
             <key>width</key>
-            <integer>70</integer>
+            <integer>74</integer>
           </dict>
         </array>
       </dict>

@@ -21,11 +21,11 @@
       <point x="767" y="209" type="line"/>
       <point x="767" y="573" type="line"/>
       <point x="-14" y="573" type="line"/>
-      <point x="-14" y="636.322" type="line"/>
-      <point x="946" y="636.322" type="line"/>
+      <point x="-14" y="636.328" type="line"/>
+      <point x="946" y="636.328" type="line"/>
       <point x="946" y="573" type="line"/>
-      <point x="835" y="573" type="line"/>
-      <point x="835" y="0" type="line"/>
+      <point x="840" y="573" type="line"/>
+      <point x="840" y="0" type="line"/>
       <point x="767" y="0" type="line"/>
       <point x="767" y="139" type="line"/>
       <point x="618" y="189" type="line"/>
@@ -111,7 +111,7 @@
             <key>position</key>
             <integer>767</integer>
             <key>width</key>
-            <integer>68</integer>
+            <integer>73</integer>
           </dict>
         </array>
       </dict>

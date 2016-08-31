@@ -5,7 +5,7 @@
     <contour>
       <point x="512" y="636" type="move" name="anchor0"/>
     </contour>
-    <component base="bnBAc2" xOffset="628.07" yOffset="29"/>
+    <component base="bnBAc2" xOffset="658.07" yOffset="29"/>
     <component base="bnNGA" xOffset="12"/>
   </outline>
   <lib>
@@ -18,13 +18,13 @@
             <key>position</key>
             <integer>0</integer>
             <key>width</key>
-            <integer>122</integer>
+            <integer>104</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>259</integer>
+            <integer>263</integer>
             <key>width</key>
-            <integer>106</integer>
+            <integer>102</integer>
           </dict>
           <dict>
             <key>position</key>
@@ -43,27 +43,27 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>363</integer>
+            <integer>331</integer>
             <key>width</key>
-            <integer>100</integer>
+            <integer>120</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>446</integer>
+            <integer>482</integer>
             <key>width</key>
-            <integer>107</integer>
+            <integer>121</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>572</integer>
+            <integer>550</integer>
             <key>width</key>
-            <integer>95</integer>
+            <integer>98</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>595</integer>
+            <integer>605</integer>
             <key>width</key>
-            <integer>133</integer>
+            <integer>117</integer>
           </dict>
         </array>
       </dict>

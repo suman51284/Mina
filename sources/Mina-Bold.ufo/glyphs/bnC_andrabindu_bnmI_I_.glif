@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="bnCandrabindu_bnmII" format="1">
-  <advance width="320"/>
+  <advance width="330"/>
   <outline>
-    <component base="bnCandrabindu" xOffset="433"/>
+    <component base="bnCandrabindu" xOffset="431.79"/>
     <component base="bnmII"/>
   </outline>
   <lib>
@@ -19,48 +19,54 @@
           </dict>
           <dict>
             <key>position</key>
-            <integer>526</integer>
+            <integer>530</integer>
             <key>width</key>
-            <integer>102</integer>
+            <integer>98</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>526</integer>
+            <integer>530</integer>
             <key>width</key>
-            <integer>110</integer>
+            <integer>106</integer>
           </dict>
           <dict>
             <key>position</key>
             <integer>680</integer>
             <key>width</key>
-            <integer>83</integer>
+            <integer>87</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>699</integer>
+            <integer>681</integer>
             <key>width</key>
-            <integer>140</integer>
+            <integer>121</integer>
           </dict>
           <dict>
             <key>position</key>
             <integer>820</integer>
             <key>width</key>
-            <integer>93</integer>
+            <integer>100</integer>
           </dict>
         </array>
         <key>vhints</key>
         <array>
           <dict>
             <key>position</key>
-            <integer>-504</integer>
+            <integer>-490</integer>
             <key>width</key>
             <integer>99</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>93</integer>
+            <integer>103</integer>
             <key>width</key>
-            <integer>109</integer>
+            <integer>115</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>107</integer>
+            <key>width</key>
+            <integer>120</integer>
           </dict>
         </array>
       </dict>

@@ -12,25 +12,25 @@
     <contour>
       <point x="408" y="9" type="curve" smooth="yes"/>
       <point x="338" y="9"/>
-      <point x="279" y="37"/>
+      <point x="278.508" y="36.5241"/>
       <point x="206" y="112" type="curve" smooth="yes"/>
-      <point x="129.062" y="191.047"/>
-      <point x="54" y="333"/>
-      <point x="54" y="333" type="curve"/>
-      <point x="121" y="383" type="line"/>
-      <point x="249" y="234" type="line" smooth="yes"/>
-      <point x="298.533" y="176.028"/>
-      <point x="356" y="124"/>
-      <point x="412" y="124" type="curve" smooth="yes"/>
-      <point x="520" y="124"/>
-      <point x="598" y="247.651"/>
-      <point x="598" y="304" type="curve" smooth="yes"/>
-      <point x="598" y="363"/>
+      <point x="130.062" y="191.047"/>
+      <point x="50" y="333"/>
+      <point x="50" y="333" type="curve"/>
+      <point x="115" y="381" type="line"/>
+      <point x="253" y="237" type="line" smooth="yes"/>
+      <point x="305.687" y="182.023"/>
+      <point x="346" y="129"/>
+      <point x="402" y="129" type="curve" smooth="yes"/>
+      <point x="488" y="129"/>
+      <point x="595" y="247.651"/>
+      <point x="595" y="304" type="curve" smooth="yes"/>
+      <point x="595" y="363"/>
       <point x="558" y="377"/>
       <point x="467" y="377" type="curve" smooth="yes"/>
       <point x="416" y="377"/>
-      <point x="306" y="377"/>
-      <point x="306" y="377" type="curve"/>
+      <point x="308" y="377"/>
+      <point x="308" y="377" type="curve"/>
       <point x="294" y="468" type="line"/>
       <point x="294" y="468"/>
       <point x="452" y="488"/>
@@ -39,7 +39,7 @@
       <point x="712" y="418"/>
       <point x="712" y="330" type="curve" smooth="yes"/>
       <point x="712" y="173.056"/>
-      <point x="569.877" y="9"/>
+      <point x="549.877" y="9"/>
     </contour>
     <contour>
       <point x="780" y="636.328" type="line"/>
@@ -56,24 +56,30 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>14</integer>
+            <integer>9</integer>
             <key>width</key>
-            <integer>113</integer>
+            <integer>120</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>379</integer>
+            <integer>377</integer>
             <key>width</key>
-            <integer>109</integer>
+            <integer>111</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>530</integer>
+            <key>width</key>
+            <integer>106</integer>
           </dict>
         </array>
         <key>vhints</key>
         <array>
           <dict>
             <key>position</key>
-            <integer>613</integer>
+            <integer>595</integer>
             <key>width</key>
-            <integer>104</integer>
+            <integer>117</integer>
           </dict>
         </array>
       </dict>

@@ -4,48 +4,48 @@
   <unicode hex="0995"/>
   <outline>
     <contour>
-      <point x="423" y="13" type="move" name="anchor 1"/>
+      <point x="425" y="7" type="move" name="anchor 1"/>
     </contour>
     <contour>
       <point x="649" y="637" type="move" name="anchor0"/>
     </contour>
     <contour>
-      <point x="81" y="232" type="line"/>
-      <point x="81" y="379" type="line"/>
+      <point x="71" y="261" type="line"/>
+      <point x="71" y="348" type="line"/>
       <point x="423" y="507" type="line"/>
       <point x="423" y="530" type="line"/>
       <point x="-14" y="530" type="line"/>
       <point x="-14" y="636.328" type="line"/>
       <point x="872" y="636.328" type="line"/>
       <point x="872" y="530" type="line"/>
-      <point x="529" y="530" type="line"/>
-      <point x="530" y="502" type="line"/>
-      <point x="696" y="447" type="line" smooth="yes"/>
-      <point x="757.699" y="424.699"/>
-      <point x="808.705" y="390.887"/>
-      <point x="808.705" y="327.376" type="curve" smooth="yes"/>
-      <point x="808.705" y="306.477"/>
-      <point x="803.489" y="282.557"/>
-      <point x="790" y="256" type="curve" smooth="yes"/>
-      <point x="758" y="193"/>
-      <point x="711" y="134"/>
-      <point x="711" y="134" type="curve"/>
-      <point x="622" y="187" type="line"/>
-      <point x="658" y="252" type="line" smooth="yes"/>
-      <point x="665.963" y="266.378"/>
-      <point x="678" y="291.348"/>
-      <point x="678" y="303" type="curve" smooth="yes"/>
-      <point x="678" y="334.177"/>
-      <point x="664.077" y="340.972"/>
-      <point x="618" y="358" type="curve" smooth="yes"/>
-      <point x="529" y="386.99" type="line"/>
-      <point x="529" y="0" type="line"/>
+      <point x="543" y="530" type="line"/>
+      <point x="544" y="502" type="line"/>
+      <point x="710" y="447" type="line" smooth="yes"/>
+      <point x="771.698" y="424.699"/>
+      <point x="822.705" y="390.887"/>
+      <point x="822.705" y="327.376" type="curve" smooth="yes"/>
+      <point x="822.705" y="306.477"/>
+      <point x="817.489" y="282.557"/>
+      <point x="804" y="256" type="curve" smooth="yes"/>
+      <point x="772" y="193"/>
+      <point x="722" y="129"/>
+      <point x="722" y="129" type="curve"/>
+      <point x="636" y="187" type="line"/>
+      <point x="672" y="252" type="line" smooth="yes"/>
+      <point x="679.964" y="266.379"/>
+      <point x="692" y="291.348"/>
+      <point x="692" y="303" type="curve" smooth="yes"/>
+      <point x="692" y="334.177"/>
+      <point x="678.077" y="340.972"/>
+      <point x="632" y="358" type="curve" smooth="yes"/>
+      <point x="543" y="386.99" type="line"/>
+      <point x="543" y="0" type="line"/>
       <point x="423" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="194" y="296" type="line"/>
-      <point x="423" y="132" type="line"/>
-      <point x="423" y="388" type="line"/>
+      <point x="220" y="293" type="line"/>
+      <point x="423" y="140" type="line"/>
+      <point x="423" y="389" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -62,9 +62,15 @@
           </dict>
           <dict>
             <key>position</key>
-            <integer>526</integer>
+            <integer>0</integer>
             <key>width</key>
-            <integer>110</integer>
+            <integer>21</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>530</integer>
+            <key>width</key>
+            <integer>106</integer>
           </dict>
         </array>
         <key>vhints</key>
@@ -73,13 +79,13 @@
             <key>position</key>
             <integer>423</integer>
             <key>width</key>
-            <integer>106</integer>
+            <integer>120</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>682</integer>
+            <integer>692</integer>
             <key>width</key>
-            <integer>127</integer>
+            <integer>131</integer>
           </dict>
         </array>
       </dict>

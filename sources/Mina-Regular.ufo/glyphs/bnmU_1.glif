@@ -6,40 +6,42 @@
       <point x="-148" y="0" type="move" name="_anchor 1"/>
     </contour>
     <contour>
-      <point x="-90" y="-36" type="line"/>
-      <point x="-116" y="-135" type="line"/>
-      <point x="-88.2666" y="-150.204"/>
-      <point x="45" y="-260"/>
-      <point x="45" y="-260" type="curve"/>
-      <point x="22" y="-291" type="line"/>
-      <point x="-134" y="-197" type="line"/>
-      <point x="-134" y="-197"/>
-      <point x="-181.67" y="-295"/>
-      <point x="-221" y="-295" type="curve" smooth="yes"/>
-      <point x="-258.434" y="-295"/>
-      <point x="-383" y="-255.313"/>
-      <point x="-383" y="-196" type="curve" smooth="yes"/>
-      <point x="-383" y="-164.823"/>
-      <point x="-340.096" y="-60.25"/>
-      <point x="-283.67" y="-60.25" type="curve" smooth="yes"/>
-      <point x="-243" y="-60.25"/>
+      <point x="-152.591" y="-34" type="line"/>
+      <point x="-152.591" y="-26.3799" type="line"/>
+      <point x="-81.0039" y="-26.3799" type="line"/>
+      <point x="-81.0039" y="-34" type="line"/>
+      <point x="-109" y="-136" type="line"/>
+      <point x="-81.2666" y="-151.204"/>
+      <point x="44" y="-264"/>
+      <point x="44" y="-264" type="curve"/>
+      <point x="21" y="-295" type="line"/>
+      <point x="-129" y="-201" type="line"/>
+      <point x="-129" y="-201"/>
+      <point x="-173.67" y="-303"/>
+      <point x="-219" y="-303" type="curve" smooth="yes"/>
+      <point x="-263.434" y="-303"/>
+      <point x="-384" y="-267.313"/>
+      <point x="-384" y="-203" type="curve" smooth="yes"/>
+      <point x="-384" y="-171.823"/>
+      <point x="-347.096" y="-62.25"/>
+      <point x="-284.67" y="-62.25" type="curve" smooth="yes"/>
+      <point x="-244" y="-62.25"/>
       <point x="-173.62" y="-104.168"/>
       <point x="-173.62" y="-104.168" type="curve"/>
-      <point x="-149.79" y="-25.3799" type="line"/>
     </contour>
     <contour>
-      <point x="-192.19" y="-162.433" type="curve"/>
-      <point x="-192.19" y="-162.433"/>
-      <point x="-247" y="-124.603"/>
-      <point x="-275.15" y="-124.603" type="curve" smooth="yes"/>
-      <point x="-299.49" y="-124.603"/>
-      <point x="-319.07" y="-168.858"/>
-      <point x="-319.07" y="-182.74" type="curve" smooth="yes"/>
-      <point x="-319.07" y="-211.025"/>
-      <point x="-250.979" y="-230.18"/>
-      <point x="-235.27" y="-230.18" type="curve" smooth="yes"/>
-      <point x="-213" y="-230.18"/>
-      <point x="-192.19" y="-162.433"/>
+      <point x="-192.19" y="-168.433" type="curve"/>
+      <point x="-192.19" y="-168.433"/>
+      <point x="-243" y="-134.603"/>
+      <point x="-271.15" y="-134.603" type="curve" smooth="yes"/>
+      <point x="-295.49" y="-134.603"/>
+      <point x="-310.07" y="-174.858"/>
+      <point x="-310.07" y="-188.74" type="curve" smooth="yes"/>
+      <point x="-310.07" y="-217.025"/>
+      <point x="-250.979" y="-233.18"/>
+      <point x="-235.27" y="-233.18" type="curve" smooth="yes"/>
+      <point x="-213" y="-233.18"/>
+      <point x="-192.19" y="-168.433"/>
     </contour>
   </outline>
   <lib>
@@ -50,24 +52,30 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>-295</integer>
+            <integer>-303</integer>
             <key>width</key>
-            <integer>65</integer>
+            <integer>70</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>-125</integer>
+            <integer>-135</integer>
             <key>width</key>
-            <integer>64</integer>
+            <integer>72</integer>
           </dict>
         </array>
         <key>vhints</key>
         <array>
           <dict>
             <key>position</key>
-            <integer>-383</integer>
+            <integer>-384</integer>
             <key>width</key>
-            <integer>64</integer>
+            <integer>74</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>-153</integer>
+            <key>width</key>
+            <integer>72</integer>
           </dict>
         </array>
       </dict>

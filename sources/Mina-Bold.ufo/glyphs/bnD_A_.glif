@@ -4,22 +4,21 @@
   <unicode hex="09A6"/>
   <outline>
     <contour>
-      <point x="346" y="0" type="move" name="anchor 1"/>
+      <point x="325" y="-20" type="move" name="anchor 1"/>
     </contour>
     <contour>
       <point x="353" y="636" type="move" name="anchor0"/>
     </contour>
     <contour>
-      <point x="68" y="530" type="line"/>
-      <point x="68.1035" y="294.501" type="line"/>
-      <point x="126" y="209" type="line"/>
-      <point x="390" y="327" type="line"/>
-      <point x="341" y="-35" type="line"/>
-      <point x="415" y="-35" type="line"/>
-      <point x="466.4" y="66" type="line"/>
-      <point x="510.9" y="429" type="line"/>
-      <point x="435.9" y="469.605" type="line"/>
-      <point x="177" y="359" type="line"/>
+      <point x="57" y="530" type="line"/>
+      <point x="57.1035" y="280.501" type="line"/>
+      <point x="119" y="203" type="line"/>
+      <point x="371" y="318" type="line"/>
+      <point x="323" y="-35" type="line"/>
+      <point x="443" y="-35" type="line"/>
+      <point x="503.9" y="441" type="line"/>
+      <point x="432" y="479" type="line"/>
+      <point x="177" y="369" type="line"/>
       <point x="177" y="530" type="line"/>
       <point x="590" y="530" type="line"/>
       <point x="590" y="636.328" type="line"/>

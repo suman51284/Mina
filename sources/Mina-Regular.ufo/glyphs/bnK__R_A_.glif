@@ -3,17 +3,17 @@
   <advance width="875"/>
   <outline>
     <contour>
-      <point x="556.96" y="0" type="move" name="anchor 1"/>
+      <point x="534.96" y="0" type="move" name="anchor 1"/>
     </contour>
     <contour>
-      <point x="650.96" y="637" type="move" name="anchor0"/>
+      <point x="710.96" y="637" type="move" name="anchor0"/>
     </contour>
     <contour>
       <point x="534.961" y="160" type="line"/>
       <point x="535" y="160"/>
-      <point x="411.878" y="72"/>
-      <point x="321" y="72" type="curve" smooth="yes"/>
-      <point x="293" y="72"/>
+      <point x="411.878" y="73"/>
+      <point x="321" y="73" type="curve" smooth="yes"/>
+      <point x="293" y="73"/>
       <point x="224.929" y="73.2227"/>
       <point x="180" y="145" type="curve" smooth="yes"/>
       <point x="98" y="276" type="line"/>
@@ -27,29 +27,29 @@
       <point x="412.524" y="0"/>
       <point x="535" y="84"/>
       <point x="535" y="84" type="curve"/>
-      <point x="556.961" y="0" type="line"/>
-      <point x="603.961" y="0" type="line"/>
-      <point x="603.961" y="352" type="line"/>
-      <point x="697.961" y="326" type="line" smooth="yes"/>
-      <point x="737.923" y="315.391"/>
-      <point x="756.547" y="305.406"/>
-      <point x="756.547" y="274.229" type="curve" smooth="yes"/>
-      <point x="756.547" y="262.577"/>
-      <point x="752.002" y="249.552"/>
-      <point x="743.401" y="234.427" type="curve" smooth="yes"/>
+      <point x="534.961" y="0" type="line"/>
+      <point x="607.961" y="0" type="line"/>
+      <point x="607.961" y="346" type="line"/>
+      <point x="696.961" y="320" type="line" smooth="yes"/>
+      <point x="736.923" y="309.391"/>
+      <point x="755.547" y="299.406"/>
+      <point x="755.547" y="268.229" type="curve" smooth="yes"/>
+      <point x="755.547" y="256.577"/>
+      <point x="751.002" y="243.552"/>
+      <point x="742.401" y="228.427" type="curve" smooth="yes"/>
       <point x="702.106" y="161.803" type="line"/>
-      <point x="748" y="136" type="line"/>
-      <point x="748" y="136"/>
-      <point x="771.961" y="167"/>
-      <point x="796.401" y="200.427" type="curve" smooth="yes"/>
-      <point x="813.981" y="224.471"/>
-      <point x="824.106" y="253.903"/>
-      <point x="824.106" y="274.803" type="curve" smooth="yes"/>
-      <point x="824.106" y="330.313"/>
-      <point x="795.362" y="366.316"/>
-      <point x="739.961" y="382" type="curve" smooth="yes"/>
-      <point x="598.669" y="422" type="line"/>
-      <point x="598.669" y="422"/>
+      <point x="752" y="136" type="line"/>
+      <point x="752" y="136"/>
+      <point x="775.961" y="167"/>
+      <point x="800.401" y="200.427" type="curve" smooth="yes"/>
+      <point x="817.981" y="224.471"/>
+      <point x="828.106" y="253.903"/>
+      <point x="828.106" y="274.803" type="curve" smooth="yes"/>
+      <point x="828.106" y="330.313"/>
+      <point x="799.361" y="366.316"/>
+      <point x="743.961" y="382" type="curve" smooth="yes"/>
+      <point x="602.669" y="422" type="line"/>
+      <point x="602.669" y="422"/>
       <point x="579" y="517"/>
       <point x="453.961" y="517" type="curve" smooth="yes"/>
       <point x="373.961" y="517"/>
@@ -57,11 +57,11 @@
       <point x="207.961" y="388" type="curve"/>
       <point x="239.961" y="347" type="line"/>
       <point x="239.961" y="347"/>
-      <point x="386.634" y="447"/>
-      <point x="453.961" y="447" type="curve" smooth="yes"/>
-      <point x="502.961" y="447"/>
-      <point x="534.961" y="424"/>
-      <point x="534.961" y="366" type="curve"/>
+      <point x="386.634" y="444"/>
+      <point x="453.961" y="444" type="curve" smooth="yes"/>
+      <point x="502.961" y="444"/>
+      <point x="534.961" y="421"/>
+      <point x="534.961" y="363" type="curve"/>
     </contour>
     <contour>
       <point x="887.961" y="573" type="line"/>
@@ -80,13 +80,13 @@
             <key>position</key>
             <integer>0</integer>
             <key>width</key>
-            <integer>72</integer>
+            <integer>73</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>447</integer>
+            <integer>444</integer>
             <key>width</key>
-            <integer>70</integer>
+            <integer>73</integer>
           </dict>
           <dict>
             <key>position</key>
@@ -99,15 +99,9 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>557</integer>
+            <integer>756</integer>
             <key>width</key>
-            <integer>47</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>757</integer>
-            <key>width</key>
-            <integer>68</integer>
+            <integer>73</integer>
           </dict>
         </array>
       </dict>

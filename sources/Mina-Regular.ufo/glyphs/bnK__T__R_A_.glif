@@ -3,13 +3,13 @@
   <advance width="773"/>
   <outline>
     <contour>
-      <point x="526.3" y="-156.1" type="move" name="anchor 1"/>
+      <point x="505.3" y="-161.1" type="move" name="anchor 1"/>
     </contour>
     <contour>
       <point x="555" y="636.628" type="move" name="anchor0"/>
     </contour>
     <component base="bnK_TA"/>
-    <component base="bnRAc2" xOffset="665.61" yOffset="61"/>
+    <component base="bnRAc2" xOffset="661.61" yOffset="61"/>
   </outline>
   <lib>
     <dict>
@@ -21,25 +21,25 @@
             <key>position</key>
             <integer>-167</integer>
             <key>width</key>
-            <integer>72</integer>
+            <integer>73</integer>
           </dict>
           <dict>
             <key>position</key>
             <integer>0</integer>
             <key>width</key>
-            <integer>73</integer>
+            <integer>75</integer>
           </dict>
           <dict>
             <key>position</key>
             <integer>269</integer>
             <key>width</key>
-            <integer>63</integer>
+            <integer>64</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>447</integer>
+            <integer>446</integer>
             <key>width</key>
-            <integer>69</integer>
+            <integer>70</integer>
           </dict>
           <dict>
             <key>position</key>
@@ -52,27 +52,21 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>508</integer>
+            <integer>504</integer>
             <key>width</key>
-            <integer>72</integer>
+            <integer>76</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>509</integer>
+            <integer>505</integer>
             <key>width</key>
-            <integer>69</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>531</integer>
-            <key>width</key>
-            <integer>47</integer>
+            <integer>73</integer>
           </dict>
           <dict>
             <key>position</key>
             <integer>667</integer>
             <key>width</key>
-            <integer>64</integer>
+            <integer>70</integer>
           </dict>
         </array>
       </dict>

@@ -3,7 +3,7 @@
   <advance width="825"/>
   <outline>
     <contour>
-      <point x="518" y="-231" type="move" name="anchor 1"/>
+      <point x="520" y="-236" type="move" name="anchor 1"/>
     </contour>
     <contour>
       <point x="614" y="636" type="move" name="anchor0"/>
@@ -60,7 +60,7 @@
             <key>position</key>
             <integer>518</integer>
             <key>width</key>
-            <integer>68</integer>
+            <integer>74</integer>
           </dict>
           <dict>
             <key>position</key>

@@ -1,19 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="asW_RA" format="1">
-  <advance width="608"/>
+  <advance width="640"/>
   <outline>
     <contour>
       <point x="438" y="636.2" type="move" name="anchor0"/>
     </contour>
     <contour>
-      <point x="511" y="118.789" type="line"/>
-      <point x="511" y="459" type="line"/>
-      <point x="208" y="318" type="line"/>
+      <point x="511" y="114.789" type="line"/>
+      <point x="511" y="454" type="line"/>
+      <point x="208" y="314" type="line"/>
     </contour>
     <contour>
-      <point x="576" y="30" type="line"/>
-      <point x="576" y="-143" type="line"/>
-      <point x="533" y="-143" type="line"/>
+      <point x="585" y="-143" type="line"/>
+      <point x="511" y="-143" type="line"/>
       <point x="511" y="-64" type="line"/>
       <point x="511" y="-64"/>
       <point x="364.524" y="-143"/>
@@ -33,15 +32,15 @@
       <point x="511" y="17"/>
       <point x="511" y="17" type="curve"/>
       <point x="511" y="30" type="line"/>
-      <point x="133" y="281" type="line"/>
+      <point x="133" y="273" type="line"/>
       <point x="133" y="362" type="line"/>
       <point x="511" y="532" type="line"/>
       <point x="511" y="572.998" type="line"/>
       <point x="-14" y="572.998" type="line"/>
       <point x="-14" y="636.328" type="line"/>
-      <point x="659" y="636.328" type="line"/>
-      <point x="659" y="572.998" type="line"/>
-      <point x="577" y="572.998" type="line"/>
+      <point x="649" y="636.328" type="line"/>
+      <point x="649" y="572.998" type="line"/>
+      <point x="585" y="572.998" type="line"/>
     </contour>
     <contour>
       <point x="316" y="32" type="curve"/>
@@ -91,13 +90,7 @@
             <key>position</key>
             <integer>511</integer>
             <key>width</key>
-            <integer>65</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>533</integer>
-            <key>width</key>
-            <integer>43</integer>
+            <integer>74</integer>
           </dict>
         </array>
       </dict>

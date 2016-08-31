@@ -6,8 +6,8 @@
     <contour>
       <point x="85" y="636" type="line"/>
       <point x="85" y="0" type="line"/>
-      <point x="154" y="0" type="line"/>
-      <point x="154" y="636" type="line"/>
+      <point x="158" y="0" type="line"/>
+      <point x="158" y="636" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -20,7 +20,7 @@
             <key>position</key>
             <integer>85</integer>
             <key>width</key>
-            <integer>69</integer>
+            <integer>73</integer>
           </dict>
         </array>
       </dict>

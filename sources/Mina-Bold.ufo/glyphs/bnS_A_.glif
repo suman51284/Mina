@@ -31,8 +31,8 @@
       <point x="-10" y="636.328" type="line"/>
       <point x="733" y="636.328" type="line"/>
       <point x="733" y="530" type="line"/>
-      <point x="650" y="530" type="line"/>
-      <point x="650" y="0" type="line"/>
+      <point x="660" y="530" type="line"/>
+      <point x="660" y="0" type="line"/>
       <point x="540" y="0" type="line"/>
       <point x="540" y="188" type="line"/>
       <point x="532.811" y="190.913"/>
@@ -79,30 +79,36 @@
           </dict>
           <dict>
             <key>position</key>
-            <integer>119</integer>
+            <integer>0</integer>
             <key>width</key>
-            <integer>75</integer>
+            <integer>21</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>323</integer>
+            <integer>76</integer>
             <key>width</key>
-            <integer>80</integer>
+            <integer>120</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>575</integer>
+            <integer>237</integer>
             <key>width</key>
-            <integer>61</integer>
+            <integer>127</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>530</integer>
+            <key>width</key>
+            <integer>106</integer>
           </dict>
         </array>
         <key>vhints</key>
         <array>
           <dict>
             <key>position</key>
-            <integer>550</integer>
+            <integer>540</integer>
             <key>width</key>
-            <integer>65</integer>
+            <integer>120</integer>
           </dict>
         </array>
       </dict>

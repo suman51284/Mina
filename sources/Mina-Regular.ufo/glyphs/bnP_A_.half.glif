@@ -3,28 +3,28 @@
   <advance width="540"/>
   <outline>
     <contour>
-      <point x="464" y="471" type="line"/>
-      <point x="464" y="471"/>
-      <point x="433.064" y="500.084"/>
-      <point x="411" y="517" type="curve" smooth="yes"/>
-      <point x="381" y="540"/>
-      <point x="356" y="554"/>
-      <point x="328" y="554" type="curve" smooth="yes"/>
-      <point x="300" y="554"/>
-      <point x="276.745" y="537.43"/>
-      <point x="263" y="529" type="curve" smooth="yes"/>
-      <point x="238.558" y="514.011"/>
-      <point x="192.029" y="479.766"/>
-      <point x="192.029" y="479.766" type="curve"/>
-      <point x="304" y="339" type="line"/>
+      <point x="461" y="466" type="line"/>
+      <point x="461" y="466"/>
+      <point x="433.064" y="494.084"/>
+      <point x="411" y="511" type="curve" smooth="yes"/>
+      <point x="381" y="534"/>
+      <point x="356" y="548"/>
+      <point x="328" y="548" type="curve" smooth="yes"/>
+      <point x="300" y="548"/>
+      <point x="276.745" y="531.43"/>
+      <point x="263" y="523" type="curve" smooth="yes"/>
+      <point x="238.558" y="508.011"/>
+      <point x="196.029" y="474.766"/>
+      <point x="196.029" y="474.766" type="curve"/>
+      <point x="305" y="335" type="line"/>
     </contour>
     <contour>
-      <point x="525" y="417" type="line"/>
-      <point x="512" y="429" type="line"/>
-      <point x="317" y="263" type="line"/>
-      <point x="272" y="270" type="line"/>
-      <point x="136.029" y="446.766" type="line"/>
-      <point x="90" y="416" type="line"/>
+      <point x="525" y="411" type="line"/>
+      <point x="512" y="423" type="line"/>
+      <point x="317" y="257" type="line"/>
+      <point x="272" y="264" type="line"/>
+      <point x="136.029" y="440.766" type="line"/>
+      <point x="90" y="410" type="line"/>
       <point x="58" y="454" type="line"/>
       <point x="58" y="454"/>
       <point x="149.195" y="538.662"/>
@@ -48,9 +48,9 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>554</integer>
+            <integer>548</integer>
             <key>width</key>
-            <integer>67</integer>
+            <integer>73</integer>
           </dict>
         </array>
       </dict>

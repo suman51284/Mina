@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="bnGH_BA" format="1">
-  <advance width="630"/>
+  <advance width="600"/>
   <outline>
     <contour>
-      <point x="489" y="-280" type="move" name="anchor 1"/>
+      <point x="464" y="-287" type="move" name="anchor 1"/>
     </contour>
     <contour>
       <point x="438" y="636.2" type="move" name="anchor0"/>
     </contour>
     <component base="bnGHA"/>
-    <component base="bnBAc2" xOffset="667.4"/>
+    <component base="bnBAc2" xOffset="639.456"/>
   </outline>
   <lib>
     <dict>
@@ -40,21 +40,21 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>75</integer>
+            <integer>45</integer>
             <key>width</key>
             <integer>73</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>490</integer>
+            <integer>462</integer>
             <key>width</key>
-            <integer>68</integer>
+            <integer>74</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>493</integer>
+            <integer>463</integer>
             <key>width</key>
-            <integer>65</integer>
+            <integer>73</integer>
           </dict>
         </array>
       </dict>

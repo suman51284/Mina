@@ -4,29 +4,29 @@
   <unicode hex="09D7"/>
   <outline>
     <contour>
-      <point x="143" y="636.329" type="curve"/>
+      <point x="145" y="636.329" type="curve"/>
       <point x="246" y="636.327" type="line"/>
       <point x="246" y="573" type="line"/>
-      <point x="154" y="573" type="line"/>
-      <point x="154" y="0" type="line"/>
-      <point x="85" y="0" type="line"/>
-      <point x="85.0039" y="573" type="line"/>
+      <point x="147" y="573" type="line"/>
+      <point x="147" y="0" type="line"/>
+      <point x="74" y="0" type="line"/>
+      <point x="74.0039" y="573" type="line"/>
       <point x="-10" y="573" type="line"/>
       <point x="-10" y="636.33" type="line"/>
       <point x="16" y="636.328" type="line"/>
       <point x="74" y="630" type="line"/>
       <point x="74" y="689"/>
-      <point x="58" y="701.9"/>
-      <point x="10" y="701.9" type="curve" smooth="yes"/>
-      <point x="-58" y="701.9"/>
-      <point x="-332" y="701.9"/>
-      <point x="-332" y="701.9" type="curve"/>
-      <point x="-336" y="758" type="line"/>
-      <point x="-336" y="758"/>
-      <point x="-43.0751" y="772"/>
-      <point x="16" y="772" type="curve" smooth="yes"/>
-      <point x="115" y="772"/>
-      <point x="143" y="714.329"/>
+      <point x="58" y="729.9"/>
+      <point x="10" y="729.9" type="curve" smooth="yes"/>
+      <point x="-58" y="729.9"/>
+      <point x="-332" y="729.9"/>
+      <point x="-332" y="729.9" type="curve"/>
+      <point x="-336" y="786" type="line"/>
+      <point x="-336" y="786"/>
+      <point x="-43.0752" y="800"/>
+      <point x="16" y="800" type="curve" smooth="yes"/>
+      <point x="115" y="800"/>
+      <point x="145" y="714.329"/>
     </contour>
   </outline>
   <lib>
@@ -55,7 +55,7 @@
           </dict>
           <dict>
             <key>position</key>
-            <integer>702</integer>
+            <integer>730</integer>
             <key>width</key>
             <integer>70</integer>
           </dict>
@@ -66,13 +66,7 @@
             <key>position</key>
             <integer>74</integer>
             <key>width</key>
-            <integer>69</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>85</integer>
-            <key>width</key>
-            <integer>69</integer>
+            <integer>73</integer>
           </dict>
         </array>
       </dict>

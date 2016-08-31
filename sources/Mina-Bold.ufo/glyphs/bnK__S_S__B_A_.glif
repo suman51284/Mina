@@ -6,9 +6,9 @@
       <point x="753" y="636.2" type="move" name="anchor0"/>
     </contour>
     <contour>
-      <point x="595" y="-268.8" type="move" name="anchor 1"/>
+      <point x="595" y="-333.8" type="move" name="anchor 1"/>
     </contour>
-    <component base="bnBAc2" xOffset="771.407" yOffset="32"/>
+    <component base="bnBAc2" xOffset="766.807" yOffset="-16"/>
     <component base="bnK_SSA"/>
   </outline>
   <lib>
@@ -21,7 +21,19 @@
             <key>position</key>
             <integer>0</integer>
             <key>width</key>
-            <integer>80</integer>
+            <integer>21</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>204</integer>
+            <key>width</key>
+            <integer>118</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>320</integer>
+            <key>width</key>
+            <integer>115</integer>
           </dict>
           <dict>
             <key>position</key>
@@ -31,42 +43,30 @@
           </dict>
           <dict>
             <key>position</key>
-            <integer>386</integer>
+            <integer>530</integer>
             <key>width</key>
-            <integer>113</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>526</integer>
-            <key>width</key>
-            <integer>110</integer>
+            <integer>106</integer>
           </dict>
         </array>
         <key>vhints</key>
         <array>
           <dict>
             <key>position</key>
-            <integer>46</integer>
+            <integer>256</integer>
             <key>width</key>
-            <integer>115</integer>
+            <integer>99</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>264</integer>
+            <integer>590</integer>
             <key>width</key>
-            <integer>104</integer>
+            <integer>121</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>439</integer>
+            <integer>591</integer>
             <key>width</key>
-            <integer>95</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>604</integer>
-            <key>width</key>
-            <integer>110</integer>
+            <integer>120</integer>
           </dict>
         </array>
       </dict>

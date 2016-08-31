@@ -6,7 +6,7 @@
       <point x="509" y="636.2" type="move" name="anchor0"/>
     </contour>
     <contour>
-      <point x="505" y="8" type="move" name="anchor 1"/>
+      <point x="511" y="4" type="move" name="anchor 1"/>
     </contour>
     <component base="bnNukta" xOffset="398" yOffset="119"/>
     <component base="bnTHA"/>
@@ -19,30 +19,30 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>-44</integer>
+            <integer>-61</integer>
             <key>width</key>
             <integer>98</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>502</integer>
+            <integer>496</integer>
             <key>width</key>
-            <integer>103</integer>
+            <integer>109</integer>
           </dict>
         </array>
         <key>vhints</key>
         <array>
           <dict>
             <key>position</key>
-            <integer>212</integer>
+            <integer>194</integer>
             <key>width</key>
             <integer>95</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>379</integer>
+            <integer>338</integer>
             <key>width</key>
-            <integer>106</integer>
+            <integer>119</integer>
           </dict>
         </array>
       </dict>
