@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1437065704
-ModificationTime: 1487540300
+ModificationTime: 1487676321
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -120,7 +120,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 0 25 10
+WinInfo: 450 25 10
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -229,7 +229,7 @@ SplineSet
  948 0 l 1
  948 573 l 1xbf
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: bnTA
@@ -498,7 +498,7 @@ SplineSet
  316 -152 l 6
  304 -152 301 -149 301 -137 c 6xfa
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: bnUU
@@ -641,7 +641,7 @@ SplineSet
  127 275 l 25
  444 82 l 25
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: bnJHA
@@ -685,7 +685,7 @@ SplineSet
  140 316 l 25
  447 82 l 25
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: bnDHA
@@ -727,7 +727,7 @@ SplineSet
  164 605 144 572.21875 144 542 c 4
  144 497.723632812 279 455 279 455 c 5
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: bnBA
@@ -760,7 +760,7 @@ SplineSet
  144 314 l 25
  447 93.7890625 l 1
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: bnRA
@@ -802,7 +802,7 @@ SplineSet
  144 314 l 25
  447 93.7890625 l 1
 EndSplineSet
-Validated: 8912897
+Validated: 1
 EndChar
 
 StartChar: bnE
@@ -1004,7 +1004,7 @@ SplineSet
  67.3330078125 636.326171875 l 1
  700.333007812 636.326171875 l 17
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: bnDDHxA
@@ -1049,7 +1049,7 @@ SplineSet
  -13 573.0078125 l 1
  74 573.0078125 l 1xf4
 EndSplineSet
-Validated: 8912905
+Validated: 9
 EndChar
 
 StartChar: bnYA
@@ -1086,7 +1086,7 @@ SplineSet
  530.001953125 85 l 5
  530.001953125 573 l 29
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: bnYxA
@@ -1131,7 +1131,7 @@ SplineSet
  490.001953125 85 l 1
  490.001953125 573 l 25
 EndSplineSet
-Validated: 8912897
+Validated: 1
 EndChar
 
 StartChar: bnSSA
@@ -1257,7 +1257,7 @@ SplineSet
  704.3828125 572.998046875 l 9
  629.3828125 572.998046875 l 25
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: bnBHA
@@ -1301,7 +1301,7 @@ SplineSet
  834 636.328125 l 1
  834 573 l 1
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: bnKHA
@@ -1348,7 +1348,7 @@ SplineSet
  400.1953125 573 413 559 418 546 c 0
  437.451171875 495.426757812 470 386 470 386 c 1xba
 EndSplineSet
-Validated: 524321
+Validated: 33
 EndChar
 
 StartChar: bnTHA
@@ -1384,7 +1384,7 @@ SplineSet
  117.989257812 318 355.989257812 375.091796875 355.989257812 454 c 0
  355.989257812 514 345.989257812 529 244.989257812 529 c 4xaa
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: bnCA
@@ -1422,7 +1422,7 @@ SplineSet
  239.677734375 572.998046875 l 17
  239.677734375 463 l 25
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: bnCHA
@@ -1554,7 +1554,7 @@ SplineSet
  538 0 l 21
  538 288 l 5xbc
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: bnNNA
@@ -1591,7 +1591,7 @@ SplineSet
  586 572.99609375 l 1
  505 572.99609375 l 25x1c
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: bnGA
@@ -1678,7 +1678,7 @@ SplineSet
  642.454101562 572.998046875 l 25
  642.454101562 0 l 17x98
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: bnLA
@@ -1719,7 +1719,7 @@ SplineSet
  399 444 447 453 515 453 c 0
  572.284179688 453 588 425 588 425 c 9xbe
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: bnDA
@@ -1750,7 +1750,7 @@ SplineSet
  109.919921875 208 l 1
  65 264.501953125 l 9
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: bnSHA
@@ -1797,7 +1797,7 @@ SplineSet
  277 630 299 634 335 634 c 0
  379 634 442 622 477 598 c 1x2c
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: bnMA
@@ -1936,7 +1936,7 @@ SplineSet
  297 573.001953125 l 25
  297 306 l 17
 EndSplineSet
-Validated: 524329
+Validated: 41
 EndChar
 
 StartChar: bnO
@@ -2067,7 +2067,7 @@ SplineSet
  114 758 376.75390625 772 436 772 c 0
  531 772 564 714.33203125 564 636.33203125 c 9
 EndSplineSet
-Validated: 524321
+Validated: 33
 EndChar
 
 StartChar: bnvL
@@ -2147,7 +2147,7 @@ SplineSet
  127 241 193 78 276 78 c 0
  353.641601562 78 452 178 452 222 c 0
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: A
@@ -3616,7 +3616,7 @@ SplineSet
  85 573 l 9
  -10 573 l 25xb0
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: bnmI
@@ -3720,7 +3720,7 @@ SplineSet
  242 573 l 5
  176 573 l 5
 EndSplineSet
-Validated: 524289
+Validated: 1
 Substitution2: "'init' Initial Forms in Bengali lookup 0 subtable" bnmE.init
 Substitution2: "'init' Initial Forms in Bengali2 lookup 11 subtable" bnmE.init
 EndChar
@@ -3756,7 +3756,7 @@ SplineSet
  283 636.328125 l 1
  213.00390625 636.328125 l 0
 EndSplineSet
-Validated: 524297
+Validated: 9
 Substitution2: "'init' Initial Forms in Bengali lookup 0 subtable" bnmAI.init
 Substitution2: "'init' Initial Forms in Bengali2 lookup 11 subtable" bnmAI.init
 EndChar
@@ -3843,7 +3843,7 @@ SplineSet
  -189 -179.841796875 l 2
  -201 -179.841796875 -204 -176.841796875 -204 -164.841796875 c 2
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: bnmU
@@ -3878,7 +3878,7 @@ SplineSet
  -289.0703125 -183.025390625 -229.979492188 -199.1796875 -214.26953125 -199.1796875 c 0
  -192 -199.1796875 -171.190429688 -134.432617188 -171.190429688 -134.432617188 c 1
 EndSplineSet
-Validated: 524289
+Validated: 1
 Substitution2: "Single Substitution lookup 29 subtable" bnmU5
 Substitution2: "Single Substitution lookup 28 subtable" bnmU4
 Substitution2: "Single Substitution lookup 26 subtable" bnmU3
@@ -3918,7 +3918,7 @@ SplineSet
  -256 -108 -211.291015625 -123 -211.291015625 -123 c 1
  -152.413085938 0 l 9
 EndSplineSet
-Validated: 524297
+Validated: 9
 Substitution2: "Single Substitution lookup 29 subtable" bnmUU5
 Substitution2: "Single Substitution lookup 28 subtable" bnmUU4
 Substitution2: "Single Substitution lookup 26 subtable" bnmUU3
@@ -3949,7 +3949,7 @@ SplineSet
  -242 -127 -33.3642578125 -225.096679688 62 -281 c 1
  38 -327 l 1
 EndSplineSet
-Validated: 524289
+Validated: 1
 Substitution2: "Single Substitution lookup 26 subtable" bnmvR3
 Substitution2: "Single Substitution lookup 25 subtable" bnmvR2
 Substitution2: "Single Substitution lookup 24 subtable" bnmvR1
@@ -4003,7 +4003,7 @@ SplineSet
  241 659 l 1
  241 659 249 562 264 522 c 0
 EndSplineSet
-Validated: 524321
+Validated: 33
 EndChar
 
 StartChar: bnTwo
@@ -4138,7 +4138,7 @@ SplineSet
  470.732421875 347 302 334 302 334 c 9
  302 614 l 25
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: bnNine
@@ -4169,7 +4169,7 @@ SplineSet
  546 432 622 340 622 250 c 0
  622 130 439 0 335 0 c 1xb0
 EndSplineSet
-Validated: 524321
+Validated: 33
 EndChar
 
 StartChar: bnEight
@@ -4237,7 +4237,7 @@ SplineSet
  110 334 141 316 168 316 c 0
  241.821289062 316 390 316 390 316 c 1
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: bnZero
@@ -4293,7 +4293,7 @@ SplineSet
  443.94140625 191.052734375 371 245.73046875 371 293 c 4
  371 335 400 442 400 442 c 1
 EndSplineSet
-Validated: 524321
+Validated: 33
 EndChar
 
 StartChar: bnCandrabindu
@@ -4326,7 +4326,7 @@ SplineSet
  -89 774 l 2
  -95 767 -103 766 -111 771 c 2
 EndSplineSet
-Validated: 524321
+Validated: 33
 Substitution2: "Single Substitution lookup 17 subtable" bnCandrabindu2
 EndChar
 
@@ -5079,7 +5079,7 @@ SplineSet
  584 221 l 1
  584 377 l 1
 EndSplineSet
-Validated: 524321
+Validated: 33
 LCarets2: 2 0 0
 Ligature2: "'akhn' Akhand lookup 2 subtable" bnKA bnVirama bnSSA
 EndChar
@@ -5141,7 +5141,7 @@ SplineSet
  632 368 673.001953125 348 673.001953125 286.791992188 c 0
  673.001953125 232.57421875 626 173 626 173 c 9
 EndSplineSet
-Validated: 524289
+Validated: 1
 LCarets2: 2 0 0
 Ligature2: "'akhn' Akhand lookup 2 subtable" bnJA bnVirama bnNYA
 EndChar
@@ -5783,7 +5783,7 @@ SplineSet
  466 554 581 445 581 445 c 5
  541 395 l 5
 EndSplineSet
-Validated: 524289
+Validated: 1
 LCarets2: 1 0
 Ligature2: "'half' Half Forms in Bengali2 lookup 7 subtable" bnPA bnVirama
 Ligature2: "'half' Half Forms in Bengali lookup 6 subtable" bnPA bnVirama
@@ -5850,7 +5850,7 @@ SplineSet
  -11 573 l 9
  64.94140625 573 l 17
 EndSplineSet
-Validated: 524297
+Validated: 9
 LCarets2: 1 0
 Ligature2: "'half' Half Forms in Bengali2 lookup 7 subtable" bnDA bnVirama
 Ligature2: "'half' Half Forms in Bengali lookup 6 subtable" bnDA bnVirama
@@ -5881,7 +5881,7 @@ SplineSet
  304.725585938 531.591796875 432 460 432 460 c 1
  463 526 l 1
 EndSplineSet
-Validated: 524297
+Validated: 9
 LCarets2: 1 0
 Ligature2: "'half' Half Forms in Bengali2 lookup 7 subtable" bnNNA bnVirama
 Ligature2: "'half' Half Forms in Bengali lookup 6 subtable" bnNNA bnVirama
@@ -6003,7 +6003,7 @@ SplineSet
  595 636.328125 l 9
  595 573 l 17
 EndSplineSet
-Validated: 524297
+Validated: 9
 LCarets2: 1 0
 Ligature2: "'half' Half Forms in Bengali2 lookup 7 subtable" bnLA bnVirama
 Ligature2: "'half' Half Forms in Bengali lookup 6 subtable" bnLA bnVirama
@@ -6874,7 +6874,7 @@ SplineSet
  613 572.998046875 l 1
  613 -166 l 17xf4
 EndSplineSet
-Validated: 524321
+Validated: 33
 LCarets2: 1 0
 Ligature2: "'pres' Pre Base Substitutions in Bengali2 lookup 12 subtable" bnKHA bnRAc2
 EndChar
@@ -7334,7 +7334,7 @@ SplineSet
  170 320 l 25
  477 119 l 25
 EndSplineSet
-Validated: 524289
+Validated: 1
 LCarets2: 1 0
 Ligature2: "'pres' Pre Base Substitutions in Bengali2 lookup 12 subtable" bnJHA bnRAc2
 EndChar
@@ -7611,7 +7611,7 @@ SplineSet
  511 -19 l 1
  584 -19 l 1xf0
 EndSplineSet
-Validated: 524297
+Validated: 9
 LCarets2: 1 0
 Ligature2: "'pres' Pre Base Substitutions in Bengali2 lookup 12 subtable" bnNNA bnRAc2
 EndChar
@@ -7701,7 +7701,7 @@ SplineSet
  225.928710938 -85.77734375 294 -86 322 -86 c 0
  412.877929688 -86 536.322265625 1 536.322265625 1 c 9xb8
 EndSplineSet
-Validated: 524289
+Validated: 1
 LCarets2: 1 0
 Ligature2: "'pres' Pre Base Substitutions in Bengali2 lookup 12 subtable" bnTHA bnRAc2
 EndChar
@@ -7745,7 +7745,7 @@ SplineSet
  220.919921875 208 l 1
  176 264.3984375 l 9
 EndSplineSet
-Validated: 524289
+Validated: 1
 LCarets2: 1 0
 Ligature2: "'pres' Pre Base Substitutions in Bengali2 lookup 12 subtable" bnDA bnRAc2
 EndChar
@@ -7799,7 +7799,7 @@ SplineSet
  202.928710938 -69.77734375 271 -70 299 -70 c 0
  389.877929688 -70 513 17 513 17 c 9
 EndSplineSet
-Validated: 524289
+Validated: 1
 LCarets2: 1 0
 Ligature2: "'pres' Pre Base Substitutions in Bengali2 lookup 12 subtable" bnDHA bnRAc2
 EndChar
@@ -7903,7 +7903,7 @@ SplineSet
  617.454101562 572.994140625 l 25xb0
  617.454101562 0 l 17
 EndSplineSet
-Validated: 524289
+Validated: 1
 LCarets2: 1 0
 Ligature2: "'pres' Pre Base Substitutions in Bengali2 lookup 12 subtable" bnPA bnRAc2
 EndChar
@@ -8053,7 +8053,7 @@ SplineSet
  597 443 678 334 678 288 c 0
  678 218.56640625 678 1 678 1 c 17
 EndSplineSet
-Validated: 524289
+Validated: 1
 LCarets2: 1 0
 Ligature2: "'pres' Pre Base Substitutions in Bengali2 lookup 12 subtable" bnBHA bnRAc2
 EndChar
@@ -8794,7 +8794,7 @@ SplineSet
  211.928710938 -44.77734375 280 -45 308 -45 c 0
  397 -45 584 43 584 43 c 1
 EndSplineSet
-Validated: 524321
+Validated: 33
 LCarets2: 1 0
 Ligature2: "'pres' Pre Base Substitutions in Bengali2 lookup 12 subtable" bnK_SSA bnRAc2
 EndChar
@@ -9339,7 +9339,7 @@ SplineSet
  817 532 l 9
  817 572.999023438 l 0
 EndSplineSet
-Validated: 524289
+Validated: 1
 LCarets2: 1 0
 Ligature2: "'pres' Pre Base Substitutions lookup 13 subtable" bnDHA bnBAc2
 EndChar
@@ -9596,7 +9596,7 @@ SplineSet
  661 573 l 1
  661 -113 l 1
 EndSplineSet
-Validated: 524289
+Validated: 1
 LCarets2: 1 0
 Ligature2: "'pres' Pre Base Substitutions lookup 13 subtable" bnLA bnBAc2
 EndChar
@@ -10791,7 +10791,7 @@ SplineSet
  657 377 l 25
  657 -169 l 9
 EndSplineSet
-Validated: 524321
+Validated: 33
 LCarets2: 2 0 0
 Ligature2: "'pres' Pre Base Substitutions lookup 14 subtable" bnK_SSA.half bnNNA
 Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 10 subtable" bnK_SSA bnVirama bnNNA
@@ -10879,7 +10879,7 @@ SplineSet
  914 -1 947 48 947 70 c 0
  947 137 947 573 947 573 c 0
 EndSplineSet
-Validated: 524321
+Validated: 33
 LCarets2: 2 0 0
 Ligature2: "'pres' Pre Base Substitutions lookup 14 subtable" bnK_SSA.half bnMA
 Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 10 subtable" bnK_SSA bnVirama bnMA
@@ -11457,7 +11457,7 @@ SplineSet
  443 573 442 585 365 585 c 0
  303.251953125 585 291 582.650678812 291 505 c 1
 EndSplineSet
-Validated: 524321
+Validated: 33
 LCarets2: 1 0
 Ligature2: "'pres' Pre Base Substitutions lookup 14 subtable" bnNGA.half bnKHA
 EndChar
@@ -11626,7 +11626,7 @@ SplineSet
  443 585 442 585 365 585 c 0
  303.251953125 585 291 582.650678812 291 505 c 1x25d8
 EndSplineSet
-Validated: 524321
+Validated: 33
 LCarets2: 1 0
 Ligature2: "'pres' Pre Base Substitutions lookup 14 subtable" bnNGA.half bnK_SSA
 EndChar
@@ -15413,7 +15413,7 @@ SplineSet
  480 572.998046875 l 25xcc
  480 -113 l 17
 EndSplineSet
-Validated: 524289
+Validated: 1
 LCarets2: 2 0 0
 Ligature2: "'pres' Pre Base Substitutions lookup 14 subtable" bnDHA.half bnNA
 Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 10 subtable" bnDHA bnVirama bnNA
@@ -15675,7 +15675,7 @@ SplineSet
  562.3984375 15.697265625 595.3984375 66.99609375 595.3984375 88.99609375 c 0
  595.3984375 155.99609375 595.3984375 572.99609375 595.3984375 572.99609375 c 9
 EndSplineSet
-Validated: 524321
+Validated: 33
 LCarets2: 2 0 0
 Ligature2: "'pres' Pre Base Substitutions lookup 14 subtable" bnDHA.half bnMA
 Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 10 subtable" bnDHA bnVirama bnMA
@@ -17713,7 +17713,7 @@ SplineSet
  661 573 l 1
  661 352 l 1
 EndSplineSet
-Validated: 524289
+Validated: 1
 LCarets2: 1 0
 Ligature2: "'pres' Pre Base Substitutions lookup 14 subtable" bnLA.half bnKA
 EndChar
@@ -17771,7 +17771,7 @@ SplineSet
  399 315 l 1
  399 315 470.077148438 306 587.982421875 260 c 9
 EndSplineSet
-Validated: 524321
+Validated: 33
 LCarets2: 1 0
 Ligature2: "'pres' Pre Base Substitutions lookup 14 subtable" bnLA.half bnGA
 EndChar
@@ -17826,7 +17826,7 @@ SplineSet
  583.948170863 441 588 400.819335938 588 356 c 9
  588 306 l 1
 EndSplineSet
-Validated: 524297
+Validated: 9
 LCarets2: 1 0
 Ligature2: "'pres' Pre Base Substitutions lookup 14 subtable" bnLA.half bnTA
 EndChar
@@ -17881,7 +17881,7 @@ SplineSet
  660.40234375 573 l 1
  660.3984375 336 l 1
 EndSplineSet
-Validated: 524289
+Validated: 1
 LCarets2: 1 0
 Ligature2: "'pres' Pre Base Substitutions lookup 14 subtable" bnLA.half bnDHA
 EndChar
@@ -17942,7 +17942,7 @@ SplineSet
  671 573 l 1
  670.997070312 -68 l 1
 EndSplineSet
-Validated: 524289
+Validated: 1
 LCarets2: 1 0
 Ligature2: "'pres' Pre Base Substitutions lookup 14 subtable" bnLA.half bnPA
 EndChar
@@ -18002,7 +18002,7 @@ SplineSet
  411.625976562 407.0546875 447.796875 421 516 421 c 0
  552.948242188 421 577 393 577 393 c 1
 EndSplineSet
-Validated: 524329
+Validated: 41
 LCarets2: 1 0
 Ligature2: "'pres' Pre Base Substitutions lookup 14 subtable" bnLA.half bnPHA
 EndChar
@@ -18059,7 +18059,7 @@ SplineSet
  510 179 588.00390625 150.19921875 588.00390625 150.19921875 c 1
  588 356 l 1
 EndSplineSet
-Validated: 524289
+Validated: 1
 LCarets2: 1 0
 Ligature2: "'pres' Pre Base Substitutions lookup 14 subtable" bnLA.half bnMA
 EndChar
@@ -18115,7 +18115,7 @@ SplineSet
  598.015625 15 l 1
  671 15 l 1xf6
 EndSplineSet
-Validated: 524329
+Validated: 41
 LCarets2: 1 0
 Ligature2: "'pres' Pre Base Substitutions lookup 14 subtable" bnLA.nukt bnLA
 EndChar
@@ -19845,7 +19845,7 @@ SplineSet
  584 355 l 1
  513 357 409 382 409 382 c 1
 EndSplineSet
-Validated: 524321
+Validated: 33
 LCarets2: 2 0 0
 Ligature2: "'pres' Pre Base Substitutions lookup 14 subtable" bnHA.half bnMA
 Ligature2: "'cjct' Conjunct Forms in Bengali2 lookup 10 subtable" bnHA bnVirama bnMA
@@ -19902,7 +19902,7 @@ SplineSet
  167 503.420898438 198.791992188 557.387695312 220.770507812 557.387695312 c 0
  257.10546875 557.387695312 353.837890625 519 384 502 c 0xfc
 EndSplineSet
-Validated: 524297
+Validated: 9
 LCarets2: 3 0 0 0
 Ligature2: "'blws' Below Base Substitutions lookup 18 subtable" bnGA bnmU
 Ligature2: "'blws' Below Base Substitutions lookup 18 subtable" bnGA.half bnRA uni200D bnmU
@@ -19977,7 +19977,7 @@ SplineSet
  598 409.819335938 597.948242188 450 530 450 c 0
  461.796875 450 430 434 417 374 c 9xfdc0
 EndSplineSet
-Validated: 524289
+Validated: 1
 LCarets2: 1 0
 Ligature2: "'blws' Below Base Substitutions lookup 18 subtable" bnL_GA bnmU
 EndChar
@@ -20431,7 +20431,7 @@ SplineSet
  759.803710938 203.573242188 695 207 649.83203125 229.962890625 c 2
  586 262 l 9
 EndSplineSet
-Validated: 524321
+Validated: 33
 LCarets2: 3 0 0 0
 Ligature2: "'blws' Below Base Substitutions lookup 18 subtable" bnDH_RA bnmU
 Ligature2: "'blws' Below Base Substitutions lookup 18 subtable" bnDHA.half bnRA uni200D bnmU
@@ -21664,7 +21664,7 @@ SplineSet
  -310.0703125 -217.025390625 -250.979492188 -233.1796875 -235.26953125 -233.1796875 c 0
  -213 -233.1796875 -192.190429688 -168.432617188 -192.190429688 -168.432617188 c 1
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: bnmUU1
@@ -21932,7 +21932,7 @@ SplineSet
  -310.0703125 -238.025390625 -250.979492188 -254.1796875 -235.26953125 -254.1796875 c 0
  -213 -254.1796875 -192.190429688 -189.432617188 -192.190429688 -189.432617188 c 1
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: bnmU3
@@ -21966,7 +21966,7 @@ SplineSet
  -308.0703125 -238.025390625 -248.979492188 -254.1796875 -233.26953125 -254.1796875 c 0
  -211 -254.1796875 -190.190429688 -189.432617188 -190.190429688 -189.432617188 c 1
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: NameMe.518
@@ -22094,7 +22094,7 @@ SplineSet
  -309.0703125 -185.025390625 -249.979492188 -201.1796875 -234.26953125 -201.1796875 c 0
  -212 -201.1796875 -191.190429688 -136.432617188 -191.190429688 -136.432617188 c 1
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: bnmUU4
@@ -22162,7 +22162,7 @@ SplineSet
  -308.0703125 -185.025390625 -248.979492188 -201.1796875 -233.26953125 -201.1796875 c 0
  -211 -201.1796875 -190.190429688 -136.432617188 -190.190429688 -136.432617188 c 1
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: bnmUU5
@@ -24471,26 +24471,25 @@ EndChar
 StartChar: bnmE.init
 Encoding: 859 -1 603
 GlifName: bnmE_.init
-Width: 270
+Width: 250
 VWidth: 0
-Flags: W
+Flags: HWO
 VStem: 60.0088 71.0781<138.879 339.944>
 LayerCount: 2
 Fore
 SplineSet
-162 636.333984375 m 5
- 162 636.662109375 60.0087890625 307.052622933 60.0087890625 205.8984375 c 4
- 60.0087890625 132 80.2683462705 87.333071612 158.08203125 41.439453125 c 4
- 196.778320312 17.8046875 325.78515625 -28.4794921875 325.78515625 -28.4794921875 c 5
- 343.80078125 16.2861328125 l 5
- 196.314453125 100.990234375 l 6
- 143.181036182 133.535922972 131.086914062 167.399985763 131.086914062 217.426757812 c 4
- 131.086914062 337 214 573 214 573 c 5
- 295 573 l 5
- 275 636.333984375 l 13
- 162 636.333984375 l 5
+162 636.333984375 m 1
+ 162 636.662109375 60.0087890625 307.052622933 60.0087890625 205.8984375 c 0
+ 60.0087890625 132 80.2683462705 87.333071612 158.08203125 41.439453125 c 0
+ 196.778320312 17.8046875 325.78515625 -28.4794921875 325.78515625 -28.4794921875 c 1
+ 343.80078125 16.2861328125 l 1
+ 196.314453125 100.990234375 l 2
+ 143.181036182 133.535922972 131.086914062 167.399985763 131.086914062 217.426757812 c 0
+ 131.086914062 337 214 573 214 573 c 1
+ 345 573 l 1
+ 325 636.333984375 l 9
+ 162 636.333984375 l 1
 EndSplineSet
-Validated: 524329
 EndChar
 
 StartChar: bnmAI.init
@@ -24521,7 +24520,7 @@ SplineSet
  103.630859375 90.658203125 88.314453125 143.0625 88.314453125 227.100585938 c 4
  88.314453125 314 192 636 192 636 c 5
 EndSplineSet
-Validated: 524321
+Validated: 33
 EndChar
 
 StartChar: bnNG_KA
